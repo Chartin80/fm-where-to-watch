@@ -1,0 +1,1318 @@
+{
+  "ac-milan": {
+    "name": "AC Milan",
+    "title": "AC Milan",
+    "file": "teams/ac-milan.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/256px-Logo_of_AC_Milan.svg.png",
+    "fetched_at": "2026-05-05T21:50:07.966Z"
+  },
+  "afc-bournemouth": {
+    "name": "AFC Bournemouth",
+    "title": "AFC Bournemouth",
+    "file": "teams/afc-bournemouth.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/AFC_Bournemouth_%282013%29.svg/256px-AFC_Bournemouth_%282013%29.svg.png",
+    "fetched_at": "2026-05-05T21:48:33.013Z"
+  },
+  "alaves": {
+    "name": "Alavés",
+    "title": "Deportivo Alavés",
+    "file": "teams/alaves.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/256px-Deportivo_Alaves_logo_%282020%29.svg.png",
+    "fetched_at": "2026-05-05T21:48:09.539Z"
+  },
+  "alianza-atletico": {
+    "name": "Alianza Atlético",
+    "title": "Alianza Atlético",
+    "file": "teams/alianza-atletico.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/e/eb/Alianza_Atl%C3%A9tico.png",
+    "fetched_at": "2026-05-05T20:38:08.223Z"
+  },
+  "always-ready": {
+    "name": "Always Ready",
+    "title": "Club Always Ready",
+    "file": "teams/always-ready.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/%40Club_Always_Ready_Escudo.png/256px-%40Club_Always_Ready_Escudo.png",
+    "fetched_at": "2026-05-05T20:37:18.784Z"
+  },
+  "america": {
+    "name": "América",
+    "title": "Club América",
+    "file": "teams/america.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Club_Am%C3%A9rica_crest.svg/256px-Club_Am%C3%A9rica_crest.svg.png",
+    "fetched_at": "2026-05-05T21:50:25.589Z"
+  },
+  "america-de-cali": {
+    "name": "América de Cali",
+    "title": "América de Cali",
+    "file": "teams/america-de-cali.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Am%C3%A9rica_de_Cali_logo.svg/256px-Am%C3%A9rica_de_Cali_logo.svg.png",
+    "fetched_at": "2026-05-05T20:38:09.578Z"
+  },
+  "arsenal": {
+    "name": "Arsenal",
+    "title": "Arsenal F.C.",
+    "file": "teams/arsenal.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/256px-Arsenal_FC.svg.png",
+    "fetched_at": "2026-05-05T21:56:04.646Z"
+  },
+  "as-roma": {
+    "name": "AS Roma",
+    "title": "AS Roma",
+    "file": "teams/as-roma.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/256px-AS_Roma_logo_%282017%29.svg.png",
+    "fetched_at": "2026-05-05T21:50:00.468Z"
+  },
+  "aston-villa": {
+    "name": "Aston Villa",
+    "title": "Aston Villa F.C.",
+    "file": "teams/aston-villa.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aston_Villa_FC_new_crest.svg/256px-Aston_Villa_FC_new_crest.svg.png",
+    "fetched_at": "2026-05-05T20:38:12.935Z"
+  },
+  "atalanta": {
+    "name": "Atalanta",
+    "title": "Atalanta BC",
+    "file": "teams/atalanta.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/AtalantaBC.svg/256px-AtalantaBC.svg.png",
+    "fetched_at": "2026-05-05T21:50:09.233Z"
+  },
+  "athletic-bilbao": {
+    "name": "Athletic Bilbao",
+    "title": "Athletic Bilbao",
+    "file": "teams/athletic-bilbao.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Club_Athletic_Bilbao_logo.svg/256px-Club_Athletic_Bilbao_logo.svg.png",
+    "fetched_at": "2026-05-05T21:49:51.821Z"
+  },
+  "atlanta-united-fc": {
+    "name": "Atlanta United FC",
+    "title": "Atlanta United FC",
+    "file": "teams/atlanta-united-fc.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Atlanta_MLS.svg/256px-Atlanta_MLS.svg.png",
+    "fetched_at": "2026-05-05T21:49:00.411Z"
+  },
+  "atlas": {
+    "name": "Atlas",
+    "title": "Atlas F.C.",
+    "file": "teams/atlas.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/F%C3%BAtbol_Club_Atlas.svg/256px-F%C3%BAtbol_Club_Atlas.svg.png",
+    "fetched_at": "2026-05-05T21:49:33.169Z"
+  },
+  "atletico-madrid": {
+    "name": "Atlético Madrid",
+    "title": "Atlético Madrid",
+    "file": "teams/atletico-madrid.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Atletico_Madrid_Logo_2024.svg/256px-Atletico_Madrid_Logo_2024.svg.png",
+    "fetched_at": "2026-05-05T20:36:59.111Z"
+  },
+  "atletico-mineiro": {
+    "name": "Atlético Mineiro",
+    "title": "Clube Atlético Mineiro",
+    "file": "teams/atletico-mineiro.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Logo_of_Clube_Atl%C3%A9tico_Mineiro.svg/256px-Logo_of_Clube_Atl%C3%A9tico_Mineiro.svg.png",
+    "fetched_at": "2026-05-05T20:37:07.358Z"
+  },
+  "atletico-tigre": {
+    "name": "Atlético Tigre",
+    "title": "Club Atlético Mitre",
+    "file": "teams/atletico-tigre.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mitre_escudo.png/256px-Mitre_escudo.png",
+    "fetched_at": "2026-05-05T20:37:48.824Z"
+  },
+  "audax-italiano": {
+    "name": "Audax Italiano",
+    "title": "Audax Italiano",
+    "file": "teams/audax-italiano.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Audax_Italiano_Escudo.png/256px-Audax_Italiano_Escudo.png",
+    "fetched_at": "2026-05-05T20:37:39.393Z"
+  },
+  "austin-fc": {
+    "name": "Austin FC",
+    "title": "Austin FC",
+    "file": "teams/austin-fc.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Austin_FC_logo.svg/256px-Austin_FC_logo.svg.png",
+    "fetched_at": "2026-05-05T21:50:18.487Z"
+  },
+  "barcelona": {
+    "name": "Barcelona",
+    "title": "FC Barcelona",
+    "file": "teams/barcelona.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/256px-FC_Barcelona_%28crest%29.svg.png",
+    "fetched_at": "2026-05-05T21:50:10.511Z"
+  },
+  "barcelona-sc": {
+    "name": "Barcelona SC",
+    "title": "Barcelona S.C.",
+    "file": "teams/barcelona-sc.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/04/Escudo_oficial_del_Barcelona_Sporting_Club.png",
+    "fetched_at": "2026-05-05T20:37:16.298Z"
+  },
+  "barracas-central": {
+    "name": "Barracas Central",
+    "title": "Barracas Central",
+    "file": "teams/barracas-central.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Barracas_central_logo.svg/256px-Barracas_central_logo.svg.png",
+    "fetched_at": "2026-05-05T20:37:50.174Z"
+  },
+  "bayer-leverkusen": {
+    "name": "Bayer Leverkusen",
+    "title": "Bayer 04 Leverkusen",
+    "file": "teams/bayer-leverkusen.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/256px-Bayer_04_Leverkusen_logo.svg.png",
+    "fetched_at": "2026-05-05T21:48:17.686Z"
+  },
+  "bayern-munich": {
+    "name": "Bayern Munich",
+    "title": "FC Bayern Munich",
+    "file": "teams/bayern-munich.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/256px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+    "fetched_at": "2026-05-05T20:37:32.384Z"
+  },
+  "boca-juniors": {
+    "name": "Boca Juniors",
+    "title": "Boca Juniors",
+    "file": "teams/boca-juniors.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Boca_Juniors_logo18.svg/256px-Boca_Juniors_logo18.svg.png",
+    "fetched_at": "2026-05-05T20:37:17.176Z"
+  },
+  "bolivar": {
+    "name": "Bolívar",
+    "title": "Club Bolívar",
+    "file": "teams/bolivar.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Emblem_bolivar.png/256px-Emblem_bolivar.png",
+    "fetched_at": "2026-05-05T20:37:38.019Z"
+  },
+  "bologna": {
+    "name": "Bologna",
+    "title": "Bologna FC 1909",
+    "file": "teams/bologna.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bologna_F.C._1909_logo.svg/256px-Bologna_F.C._1909_logo.svg.png",
+    "fetched_at": "2026-05-05T21:50:28.126Z"
+  },
+  "borussia-dortmund": {
+    "name": "Borussia Dortmund",
+    "title": "Borussia Dortmund",
+    "file": "teams/borussia-dortmund.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/256px-Borussia_Dortmund_logo.svg.png",
+    "fetched_at": "2026-05-05T20:38:42.070Z"
+  },
+  "borussia-monchengladbach": {
+    "name": "Borussia Mönchengladbach",
+    "title": "Borussia Mönchengladbach",
+    "file": "teams/borussia-monchengladbach.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Borussia_M%C3%B6nchengladbach_logo.svg/256px-Borussia_M%C3%B6nchengladbach_logo.svg.png",
+    "fetched_at": "2026-05-05T21:48:23.818Z"
+  },
+  "boston-river": {
+    "name": "Boston River",
+    "title": "Boston River",
+    "file": "teams/boston-river.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Escudo_Boston_River_2019.png/256px-Escudo_Boston_River_2019.png",
+    "fetched_at": "2026-05-05T20:38:25.268Z"
+  },
+  "botafogo": {
+    "name": "Botafogo",
+    "title": "Botafogo FR",
+    "file": "teams/botafogo.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Botafogo_de_Futebol_e_Regatas_logo.svg/256px-Botafogo_de_Futebol_e_Regatas_logo.svg.png",
+    "fetched_at": "2026-05-05T20:37:56.916Z"
+  },
+  "braga": {
+    "name": "Braga",
+    "title": "S.C. Braga",
+    "file": "teams/braga.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/S.C._Braga_logo.svg/256px-S.C._Braga_logo.svg.png",
+    "fetched_at": "2026-05-05T20:38:11.423Z"
+  },
+  "brentford": {
+    "name": "Brentford",
+    "title": "Brentford F.C.",
+    "file": "teams/brentford.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Brentford_FC_crest.svg/256px-Brentford_FC_crest.svg.png",
+    "fetched_at": "2026-05-05T21:56:28.880Z"
+  },
+  "brighton-and-hove-albion": {
+    "name": "Brighton & Hove Albion",
+    "title": "Brighton & Hove Albion F.C.",
+    "file": "teams/brighton-and-hove-albion.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Brighton_and_Hove_Albion_FC_crest.svg/256px-Brighton_and_Hove_Albion_FC_crest.svg.png",
+    "fetched_at": "2026-05-05T21:48:25.567Z"
+  },
+  "burnley": {
+    "name": "Burnley",
+    "title": "Burnley F.C.",
+    "file": "teams/burnley.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Burnley_FC_Logo.svg/256px-Burnley_FC_Logo.svg.png",
+    "fetched_at": "2026-05-05T21:56:34.567Z"
+  },
+  "c-d-cuenca": {
+    "name": "C.D. Cuenca",
+    "title": "Deportivo Cuenca",
+    "file": "teams/c-d-cuenca.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/3/30/Deportivo_Cuenca.png",
+    "fetched_at": "2026-05-05T20:37:29.509Z"
+  },
+  "cagliari": {
+    "name": "Cagliari",
+    "title": "Cagliari Calcio",
+    "file": "teams/cagliari.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Cagliari_Calcio_1920.svg/256px-Cagliari_Calcio_1920.svg.png",
+    "fetched_at": "2026-05-05T21:48:10.839Z"
+  },
+  "carabobo-fc": {
+    "name": "Carabobo FC",
+    "title": "Carabobo F.C.",
+    "file": "teams/carabobo-fc.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/b/b8/Carabobo_F.C._logo.png",
+    "fetched_at": "2026-05-05T20:38:34.568Z"
+  },
+  "caracas-fc": {
+    "name": "Caracas FC",
+    "title": "Caracas F.C.",
+    "file": "teams/caracas-fc.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/f/f4/Caracas_FC.png",
+    "fetched_at": "2026-05-05T20:37:12.214Z"
+  },
+  "cd-universidad-catolica-chile": {
+    "name": "CD Universidad Católica (Chile)",
+    "title": "Club Deportivo Universidad Católica",
+    "file": "teams/cd-universidad-catolica-chile.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Escudo_Club_Deportivo_Universidad_Cat%C3%B3lica.svg/256px-Escudo_Club_Deportivo_Universidad_Cat%C3%B3lica.svg.png",
+    "fetched_at": "2026-05-05T22:03:45.003Z"
+  },
+  "celta-vigo": {
+    "name": "Celta Vigo",
+    "title": "RC Celta de Vigo",
+    "file": "teams/celta-vigo.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/256px-RC_Celta_de_Vigo_logo.svg.png",
+    "fetched_at": "2026-05-05T21:48:43.114Z"
+  },
+  "cerro-porteno": {
+    "name": "Cerro Porteño",
+    "title": "Cerro Porteño",
+    "file": "teams/cerro-porteno.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Escudo_Club_Cerro_Porte%C3%B1o_2023-Actual.svg/256px-Escudo_Club_Cerro_Porte%C3%B1o_2023-Actual.svg.png",
+    "fetched_at": "2026-05-05T20:38:41.194Z"
+  },
+  "charlotte-fc": {
+    "name": "Charlotte FC",
+    "title": "Charlotte FC",
+    "file": "teams/charlotte-fc.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Charlotte_FC_logo.svg/256px-Charlotte_FC_logo.svg.png",
+    "fetched_at": "2026-05-05T21:49:07.401Z"
+  },
+  "chelsea": {
+    "name": "Chelsea",
+    "title": "Chelsea F.C.",
+    "file": "teams/chelsea.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/256px-Chelsea_FC.svg.png",
+    "fetched_at": "2026-05-05T21:48:06.977Z"
+  },
+  "chicago-fire-fc": {
+    "name": "Chicago Fire FC",
+    "title": "Chicago Fire FC",
+    "file": "teams/chicago-fire-fc.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Chicago_Fire_logo%2C_2021.svg/256px-Chicago_Fire_logo%2C_2021.svg.png",
+    "fetched_at": "2026-05-05T21:48:50.139Z"
+  },
+  "chivas-de-guadalajara": {
+    "name": "Chivas de Guadalajara",
+    "title": "C.D. Guadalajara",
+    "file": "teams/chivas-de-guadalajara.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Guadalajara_CD.svg/256px-Guadalajara_CD.svg.png",
+    "fetched_at": "2026-05-05T21:49:15.273Z"
+  },
+  "cienciano": {
+    "name": "Cienciano",
+    "title": "Cienciano",
+    "file": "teams/cienciano.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Escudo_Cienciano.png/256px-Escudo_Cienciano.png",
+    "fetched_at": "2026-05-05T20:37:25.902Z"
+  },
+  "club-blooming": {
+    "name": "Club Blooming",
+    "title": "Club Blooming",
+    "file": "teams/club-blooming.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/3/38/Club_Blooming_logo.png",
+    "fetched_at": "2026-05-05T20:38:36.882Z"
+  },
+  "club-nacional-de-football": {
+    "name": "Club Nacional de Football",
+    "title": "Club Nacional de Football",
+    "file": "teams/club-nacional-de-football.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Club_Nacional_de_Football.png/256px-Club_Nacional_de_Football.png",
+    "fetched_at": "2026-05-05T20:38:07.404Z"
+  },
+  "club-olimpia": {
+    "name": "Club Olimpia",
+    "title": "Club Olimpia",
+    "file": "teams/club-olimpia.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Club_Olimpia_logo.svg/256px-Club_Olimpia_logo.svg.png",
+    "fetched_at": "2026-05-05T20:37:51.531Z"
+  },
+  "colorado-rapids": {
+    "name": "Colorado Rapids",
+    "title": "Colorado Rapids",
+    "file": "teams/colorado-rapids.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Colorado_Rapids_logo.svg/256px-Colorado_Rapids_logo.svg.png",
+    "fetched_at": "2026-05-05T21:49:16.932Z"
+  },
+  "columbus-crew": {
+    "name": "Columbus Crew",
+    "title": "Columbus Crew",
+    "file": "teams/columbus-crew.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Columbus_Crew_logo_2021.svg/256px-Columbus_Crew_logo_2021.svg.png",
+    "fetched_at": "2026-05-05T21:50:14.877Z"
+  },
+  "como-1907": {
+    "name": "Como 1907",
+    "title": "Como 1907",
+    "file": "teams/como-1907.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Calcio_Como_-_logo_%28Italy%2C_2019-%29.svg/256px-Calcio_Como_-_logo_%28Italy%2C_2019-%29.svg.png",
+    "fetched_at": "2026-05-05T21:49:35.748Z"
+  },
+  "coquimbo-unido": {
+    "name": "Coquimbo Unido",
+    "title": "Coquimbo Unido",
+    "file": "teams/coquimbo-unido.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/c/c0/Coquimbo_Unido.png",
+    "fetched_at": "2026-05-05T20:38:30.212Z"
+  },
+  "corinthians": {
+    "name": "Corinthians",
+    "title": "SC Corinthians Paulista",
+    "file": "teams/corinthians.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Sport_Club_Corinthians_Paulista_crest.svg/256px-Sport_Club_Corinthians_Paulista_crest.svg.png",
+    "fetched_at": "2026-05-05T20:37:53.476Z"
+  },
+  "cremonese": {
+    "name": "Cremonese",
+    "title": "US Cremonese",
+    "file": "teams/cremonese.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/US_Cremonese_logo.svg/256px-US_Cremonese_logo.svg.png",
+    "fetched_at": "2026-05-05T21:49:45.127Z"
+  },
+  "cruz-azul": {
+    "name": "Cruz Azul",
+    "title": "Cruz Azul",
+    "file": "teams/cruz-azul.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cruz_Azul_2026.png/256px-Cruz_Azul_2026.png",
+    "fetched_at": "2026-05-05T21:49:31.864Z"
+  },
+  "cruzeiro": {
+    "name": "Cruzeiro",
+    "title": "Cruzeiro EC",
+    "file": "teams/cruzeiro.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg/256px-Cruzeiro_Esporte_Clube_%28logo%29.svg.png",
+    "fetched_at": "2026-05-05T20:38:04.944Z"
+  },
+  "crystal-palace": {
+    "name": "Crystal Palace",
+    "title": "Crystal Palace F.C.",
+    "file": "teams/crystal-palace.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Crystal_Palace_FC_logo_%282022%29.svg/256px-Crystal_Palace_FC_logo_%282022%29.svg.png",
+    "fetched_at": "2026-05-05T21:56:18.811Z"
+  },
+  "cusco-fc": {
+    "name": "Cusco FC",
+    "title": "Cusco FC",
+    "file": "teams/cusco-fc.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/f/f6/Cusco_FC_logo.png",
+    "fetched_at": "2026-05-05T20:37:34.142Z"
+  },
+  "d-c-united": {
+    "name": "D.C. United",
+    "title": "D.C. United",
+    "file": "teams/d-c-united.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/D.C._United_logo_%282016%29.svg/256px-D.C._United_logo_%282016%29.svg.png",
+    "fetched_at": "2026-05-05T21:49:13.978Z"
+  },
+  "deportes-tolima": {
+    "name": "Deportes Tolima",
+    "title": "Deportes Tolima",
+    "file": "teams/deportes-tolima.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Tolima_Campe%C3%B3n_2018.png/256px-Tolima_Campe%C3%B3n_2018.png",
+    "fetched_at": "2026-05-05T20:38:05.872Z"
+  },
+  "deportivo-la-guaira": {
+    "name": "Deportivo la Guaira",
+    "title": "Deportivo La Guaira F.C.",
+    "file": "teams/deportivo-la-guaira.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/f/fa/Deportivo_La_Guaira_logo.png",
+    "fetched_at": "2026-05-05T20:37:37.137Z"
+  },
+  "deportivo-riestra": {
+    "name": "Deportivo Riestra",
+    "title": "Deportivo Riestra",
+    "file": "teams/deportivo-riestra.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Escudo_del_Club_Deportivo_Riestra.svg/256px-Escudo_del_Club_Deportivo_Riestra.svg.png",
+    "fetched_at": "2026-05-05T20:37:08.789Z"
+  },
+  "eintracht-frankfurt": {
+    "name": "Eintracht Frankfurt",
+    "title": "Eintracht Frankfurt",
+    "file": "teams/eintracht-frankfurt.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Eintracht_Frankfurt_crest.svg/256px-Eintracht_Frankfurt_crest.svg.png",
+    "fetched_at": "2026-05-05T20:38:43.550Z"
+  },
+  "elche": {
+    "name": "Elche",
+    "title": "Elche CF",
+    "file": "teams/elche.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Elche_CF_logo.svg/256px-Elche_CF_logo.svg.png",
+    "fetched_at": "2026-05-05T21:48:08.283Z"
+  },
+  "espanyol": {
+    "name": "Espanyol",
+    "title": "RCD Espanyol",
+    "file": "teams/espanyol.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/RCD_Espanyol_crest.svg/256px-RCD_Espanyol_crest.svg.png",
+    "fetched_at": "2026-05-05T21:48:36.033Z"
+  },
+  "estudiantes-de-la-plata": {
+    "name": "Estudiantes de La Plata",
+    "title": "Estudiantes de La Plata",
+    "file": "teams/estudiantes-de-la-plata.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Estudiantes_de_la_Plata_crest_%282025%29.svg/256px-Estudiantes_de_la_Plata_crest_%282025%29.svg.png",
+    "fetched_at": "2026-05-05T20:37:35.457Z"
+  },
+  "everton": {
+    "name": "Everton",
+    "title": "Everton F.C.",
+    "file": "teams/everton.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Everton_FC_logo.svg/256px-Everton_FC_logo.svg.png",
+    "fetched_at": "2026-05-05T21:49:42.243Z"
+  },
+  "fc-augsburg": {
+    "name": "FC Augsburg",
+    "title": "FC Augsburg",
+    "file": "teams/fc-augsburg.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/FC_Augsburg_logo.svg/256px-FC_Augsburg_logo.svg.png",
+    "fetched_at": "2026-05-05T21:48:22.475Z"
+  },
+  "fc-cincinnati": {
+    "name": "FC Cincinnati",
+    "title": "FC Cincinnati",
+    "file": "teams/fc-cincinnati.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/FC_Cincinnati_primary_logo_2018.svg/256px-FC_Cincinnati_primary_logo_2018.svg.png",
+    "fetched_at": "2026-05-05T21:49:09.112Z"
+  },
+  "fc-dallas": {
+    "name": "FC Dallas",
+    "title": "FC Dallas",
+    "file": "teams/fc-dallas.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/FC_Dallas_logo.svg/256px-FC_Dallas_logo.svg.png",
+    "fetched_at": "2026-05-05T21:49:10.863Z"
+  },
+  "fc-heidenheim-1846": {
+    "name": "1. FC Heidenheim 1846",
+    "title": "1. FC Heidenheim",
+    "file": "teams/fc-heidenheim-1846.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/1._FC_Heidenheim_1846.svg/256px-1._FC_Heidenheim_1846.svg.png",
+    "fetched_at": "2026-05-05T21:49:57.930Z"
+  },
+  "fc-koln": {
+    "name": "FC Köln",
+    "title": "1. FC Köln",
+    "file": "teams/fc-koln.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg/256px-1._FC_Koeln_Logo_2014%E2%80%93.svg.png",
+    "fetched_at": "2026-05-05T21:49:56.216Z"
+  },
+  "fc-st-pauli": {
+    "name": "FC St. Pauli",
+    "title": "FC St. Pauli",
+    "file": "teams/fc-st-pauli.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/FC_St._Pauli_logo_%282018%29.svg/256px-FC_St._Pauli_logo_%282018%29.svg.png",
+    "fetched_at": "2026-05-05T21:48:15.122Z"
+  },
+  "fc-union-berlin": {
+    "name": "FC Union Berlin",
+    "title": "1. FC Union Berlin",
+    "file": "teams/fc-union-berlin.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/1._FC_Union_Berlin_Logo.svg/256px-1._FC_Union_Berlin_Logo.svg.png",
+    "fetched_at": "2026-05-05T21:50:06.679Z"
+  },
+  "fiorentina": {
+    "name": "Fiorentina",
+    "title": "ACF Fiorentina",
+    "file": "teams/fiorentina.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg/256px-ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg.png",
+    "fetched_at": "2026-05-05T21:49:48.021Z"
+  },
+  "flamengo": {
+    "name": "Flamengo",
+    "title": "CR Flamengo",
+    "file": "teams/flamengo.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Clube_de_Regatas_do_Flamengo_logo.svg/256px-Clube_de_Regatas_do_Flamengo_logo.svg.png",
+    "fetched_at": "2026-05-05T20:38:33.701Z"
+  },
+  "fluminense": {
+    "name": "Fluminense",
+    "title": "Fluminense FC",
+    "file": "teams/fluminense.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fluminense_Football_Club.svg/256px-Fluminense_Football_Club.svg.png",
+    "fetched_at": "2026-05-05T20:37:56.020Z"
+  },
+  "fulham": {
+    "name": "Fulham",
+    "title": "Fulham F.C.",
+    "file": "teams/fulham.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Fulham_FC_%28shield%29.svg/256px-Fulham_FC_%28shield%29.svg.png",
+    "fetched_at": "2026-05-05T21:56:27.567Z"
+  },
+  "genoa": {
+    "name": "Genoa",
+    "title": "Genoa CFC",
+    "file": "teams/genoa.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Genoa_CFC_crest.svg/256px-Genoa_CFC_crest.svg.png",
+    "fetched_at": "2026-05-05T21:49:49.271Z"
+  },
+  "getafe": {
+    "name": "Getafe",
+    "title": "Getafe CF",
+    "file": "teams/getafe.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/256px-Getafe_logo.svg.png",
+    "fetched_at": "2026-05-05T21:50:03.650Z"
+  },
+  "girona": {
+    "name": "Girona",
+    "title": "Girona FC",
+    "file": "teams/girona.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Girona_FC_Logo.svg/256px-Girona_FC_Logo.svg.png",
+    "fetched_at": "2026-05-05T21:50:32.411Z"
+  },
+  "gremio": {
+    "name": "Grêmio",
+    "title": "Grêmio FBPA",
+    "file": "teams/gremio.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gremio_logo.svg/256px-Gremio_logo.svg.png",
+    "fetched_at": "2026-05-05T20:37:09.720Z"
+  },
+  "hamburger-sv": {
+    "name": "Hamburger SV",
+    "title": "Hamburger SV",
+    "file": "teams/hamburger-sv.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hamburger_SV_logo.svg/256px-Hamburger_SV_logo.svg.png",
+    "fetched_at": "2026-05-05T21:49:50.539Z"
+  },
+  "hellas-verona": {
+    "name": "Hellas Verona",
+    "title": "Hellas Verona FC",
+    "file": "teams/hellas-verona.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Hellas_Verona_FC_logo_%282020%29.svg/256px-Hellas_Verona_FC_logo_%282020%29.svg.png",
+    "fetched_at": "2026-05-05T21:49:34.456Z"
+  },
+  "houston-dynamo": {
+    "name": "Houston Dynamo",
+    "title": "Houston Dynamo FC",
+    "file": "teams/houston-dynamo.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Houston_Dynamo_FC_logo.svg/256px-Houston_Dynamo_FC_logo.svg.png",
+    "fetched_at": "2026-05-05T21:50:21.900Z"
+  },
+  "hull-city": {
+    "name": "Hull City",
+    "title": "Hull City A.F.C.",
+    "file": "teams/hull-city.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Hull_City_A.F.C._logo.svg/256px-Hull_City_A.F.C._logo.svg.png",
+    "fetched_at": "2026-05-05T21:48:01.815Z"
+  },
+  "independiente-del-valle": {
+    "name": "Independiente del Valle",
+    "title": "Independiente del Valle",
+    "file": "teams/independiente-del-valle.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Escudoindependientedelvalle2023.png/256px-Escudoindependientedelvalle2023.png",
+    "fetched_at": "2026-05-05T20:37:15.443Z"
+  },
+  "independiente-medellin": {
+    "name": "Independiente Medellín",
+    "title": "Independiente Medellín",
+    "file": "teams/independiente-medellin.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Escudo_del_Deportivo_Independiente_Medell%C3%ADn.png/256px-Escudo_del_Deportivo_Independiente_Medell%C3%ADn.png",
+    "fetched_at": "2026-05-05T20:38:32.356Z"
+  },
+  "independiente-petrolero": {
+    "name": "Independiente Petrolero",
+    "title": "Club Independiente Petrolero",
+    "file": "teams/independiente-petrolero.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Escudo_Club_Independiente_Petrolero.png/256px-Escudo_Club_Independiente_Petrolero.png",
+    "fetched_at": "2026-05-05T20:37:11.295Z"
+  },
+  "independiente-rivadavia": {
+    "name": "Independiente Rivadavia",
+    "title": "Independiente Rivadavia",
+    "file": "teams/independiente-rivadavia.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Escudo_del_Club_Independiente_Rivadavia.svg/256px-Escudo_del_Club_Independiente_Rivadavia.svg.png",
+    "fetched_at": "2026-05-05T20:37:54.631Z"
+  },
+  "independiente-santa-fe": {
+    "name": "Independiente Santa Fe",
+    "title": "Independiente Santa Fe",
+    "file": "teams/independiente-santa-fe.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Independiente_Santa_Fe_logo.svg/256px-Independiente_Santa_Fe_logo.svg.png",
+    "fetched_at": "2026-05-05T20:37:52.513Z"
+  },
+  "inter-miami-cf": {
+    "name": "Inter Miami CF",
+    "title": "Inter Miami CF",
+    "file": "teams/inter-miami-cf.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Inter_Miami_CF_logo.svg/256px-Inter_Miami_CF_logo.svg.png",
+    "fetched_at": "2026-05-05T21:48:48.430Z"
+  },
+  "inter-milan": {
+    "name": "Inter Milan",
+    "title": "Inter Milan",
+    "file": "teams/inter-milan.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/256px-FC_Internazionale_Milano_2021.svg.png",
+    "fetched_at": "2026-05-05T21:48:38.553Z"
+  },
+  "junior": {
+    "name": "Junior",
+    "title": "Atlético Junior",
+    "file": "teams/junior.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ESCUDO_JUNIOR.svg/256px-ESCUDO_JUNIOR.svg.png",
+    "fetched_at": "2026-05-05T20:38:39.792Z"
+  },
+  "juventud": {
+    "name": "Juventud",
+    "title": "Juventus FC",
+    "file": "teams/juventud.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg/256px-Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg.png",
+    "fetched_at": "2026-05-05T20:37:06.114Z"
+  },
+  "juventus": {
+    "name": "Juventus",
+    "title": "Juventus FC",
+    "file": "teams/juventus.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg/256px-Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg.png",
+    "fetched_at": "2026-05-05T20:39:17.336Z"
+  },
+  "la-galaxy": {
+    "name": "LA Galaxy",
+    "title": "LA Galaxy",
+    "file": "teams/la-galaxy.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Los_Angeles_Galaxy_logo.svg/256px-Los_Angeles_Galaxy_logo.svg.png",
+    "fetched_at": "2026-05-05T21:49:01.976Z"
+  },
+  "lafc": {
+    "name": "LAFC",
+    "title": "Los Angeles FC",
+    "file": "teams/lafc.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Los_Angeles_Football_Club.svg/256px-Los_Angeles_Football_Club.svg.png",
+    "fetched_at": "2026-05-05T20:38:01.052Z"
+  },
+  "lanus": {
+    "name": "Lanús",
+    "title": "Club Atlético Lanús",
+    "file": "teams/lanus.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Escudo_del_Club_Lan%C3%BAs.png/256px-Escudo_del_Club_Lan%C3%BAs.png",
+    "fetched_at": "2026-05-05T20:37:20.478Z"
+  },
+  "lazio": {
+    "name": "Lazio",
+    "title": "SS Lazio",
+    "file": "teams/lazio.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/S.S._Lazio_badge.svg/256px-S.S._Lazio_badge.svg.png",
+    "fetched_at": "2026-05-05T21:48:37.302Z"
+  },
+  "ldu-quito": {
+    "name": "LDU Quito",
+    "title": "LDU Quito",
+    "file": "teams/ldu-quito.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Liga_de_Quito_deportiva.png",
+    "fetched_at": "2026-05-05T20:38:23.692Z"
+  },
+  "lecce": {
+    "name": "Lecce",
+    "title": "US Lecce",
+    "file": "teams/lecce.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/US_Lecce_crest.svg/256px-US_Lecce_crest.svg.png",
+    "fetched_at": "2026-05-05T21:48:53.141Z"
+  },
+  "leeds-united": {
+    "name": "Leeds United",
+    "title": "Leeds United F.C.",
+    "file": "teams/leeds-united.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/256px-Leeds_United_F.C._logo.svg.png",
+    "fetched_at": "2026-05-05T21:50:30.679Z"
+  },
+  "levante": {
+    "name": "Levante",
+    "title": "Levante UD",
+    "file": "teams/levante.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Levante_Uni%C3%B3n_Deportiva%2C_S.A.D._logo.svg/256px-Levante_Uni%C3%B3n_Deportiva%2C_S.A.D._logo.svg.png",
+    "fetched_at": "2026-05-05T21:47:58.284Z"
+  },
+  "libertad": {
+    "name": "Libertad",
+    "title": "Club Libertad",
+    "file": "teams/libertad.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Club_Libertad_logo.png/256px-Club_Libertad_logo.png",
+    "fetched_at": "2026-05-05T20:37:01.873Z"
+  },
+  "liverpool": {
+    "name": "Liverpool",
+    "title": "Liverpool F.C.",
+    "file": "teams/liverpool.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/256px-Liverpool_FC.svg.png",
+    "fetched_at": "2026-05-05T21:56:23.811Z"
+  },
+  "macara": {
+    "name": "Macará",
+    "title": "Masala Dandenong Football Club",
+    "file": "teams/macara.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/e/e0/Masala_Dandenong_Football_Club.png",
+    "fetched_at": "2026-05-05T21:56:14.052Z"
+  },
+  "mainz": {
+    "name": "Mainz",
+    "title": "1. FSV Mainz 05",
+    "file": "teams/mainz.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/1._FSV_Mainz_05_logo.svg/256px-1._FSV_Mainz_05_logo.svg.png",
+    "fetched_at": "2026-05-05T21:50:05.392Z"
+  },
+  "mallorca": {
+    "name": "Mallorca",
+    "title": "RCD Mallorca",
+    "file": "teams/mallorca.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/256px-Rcd_mallorca.svg.png",
+    "fetched_at": "2026-05-05T21:49:37.028Z"
+  },
+  "manchester-city": {
+    "name": "Manchester City",
+    "title": "Manchester City F.C.",
+    "file": "teams/manchester-city.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/256px-Manchester_City_FC_badge.svg.png",
+    "fetched_at": "2026-05-05T21:48:39.846Z"
+  },
+  "manchester-united": {
+    "name": "Manchester United",
+    "title": "Manchester United F.C.",
+    "file": "teams/manchester-united.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/256px-Manchester_United_FC_crest.svg.png",
+    "fetched_at": "2026-05-05T21:48:29.938Z"
+  },
+  "middlesbrough": {
+    "name": "Middlesbrough",
+    "title": "Middlesbrough F.C.",
+    "file": "teams/middlesbrough.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Middlesbrough_FC_crest.svg/256px-Middlesbrough_FC_crest.svg.png",
+    "fetched_at": "2026-05-05T21:56:41.910Z"
+  },
+  "millonarios": {
+    "name": "Millonarios",
+    "title": "Millonarios F.C.",
+    "file": "teams/millonarios.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Millonarios_F%C3%BAtbol_Club_logo.svg/256px-Millonarios_F%C3%BAtbol_Club_logo.svg.png",
+    "fetched_at": "2026-05-05T20:38:26.189Z"
+  },
+  "millwall": {
+    "name": "Millwall",
+    "title": "Millwall F.C.",
+    "file": "teams/millwall.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Millwall_FC_crest.svg/256px-Millwall_FC_crest.svg.png",
+    "fetched_at": "2026-05-05T21:56:22.512Z"
+  },
+  "minnesota-united-fc": {
+    "name": "Minnesota United FC",
+    "title": "Minnesota United FC",
+    "file": "teams/minnesota-united-fc.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Minnesota_United_FC_%28MLS%29_Primary_logo.svg/256px-Minnesota_United_FC_%28MLS%29_Primary_logo.svg.png",
+    "fetched_at": "2026-05-05T21:50:16.709Z"
+  },
+  "mirassol": {
+    "name": "Mirassol",
+    "title": "Mirassol Futebol Clube",
+    "file": "teams/mirassol.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mirassol_FC_logo.png/256px-Mirassol_FC_logo.png",
+    "fetched_at": "2026-05-05T21:56:20.787Z"
+  },
+  "montevideo-city-torque": {
+    "name": "Montevideo City Torque",
+    "title": "Montevideo City Torque",
+    "file": "teams/montevideo-city-torque.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/e/e2/Montevideo_City_Torque.png",
+    "fetched_at": "2026-05-05T20:37:41.670Z"
+  },
+  "montreal": {
+    "name": "Montréal",
+    "title": "CF Montréal",
+    "file": "teams/montreal.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Logo_of_CF_Montreal_2023.svg/256px-Logo_of_CF_Montreal_2023.svg.png",
+    "fetched_at": "2026-05-05T21:58:05.789Z"
+  },
+  "napoli": {
+    "name": "Napoli",
+    "title": "SSC Napoli",
+    "file": "teams/napoli.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/SSC_Napoli_2025_%28white_and_azure%29.svg/256px-SSC_Napoli_2025_%28white_and_azure%29.svg.png",
+    "fetched_at": "2026-05-05T21:50:26.869Z"
+  },
+  "nashville-sc": {
+    "name": "Nashville SC",
+    "title": "Nashville SC",
+    "file": "teams/nashville-sc.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Nashville_SC_logo%2C_2020.svg/256px-Nashville_SC_logo%2C_2020.svg.png",
+    "fetched_at": "2026-05-05T20:37:28.596Z"
+  },
+  "new-england-revolution": {
+    "name": "New England Revolution",
+    "title": "New England Revolution",
+    "file": "teams/new-england-revolution.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Logo_of_New_England_Revolution_%282021%29.svg/256px-Logo_of_New_England_Revolution_%282021%29.svg.png",
+    "fetched_at": "2026-05-05T21:49:03.791Z"
+  },
+  "new-york-city-fc": {
+    "name": "New York City FC",
+    "title": "New York City FC",
+    "file": "teams/new-york-city-fc.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Logo_New_York_City_FC_2025.svg/256px-Logo_New_York_City_FC_2025.svg.png",
+    "fetched_at": "2026-05-05T21:50:13.556Z"
+  },
+  "new-york-red-bulls": {
+    "name": "New York Red Bulls",
+    "title": "New York Red Bulls",
+    "file": "teams/new-york-red-bulls.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/New_York_Red_Bulls_logo.svg/256px-New_York_Red_Bulls_logo.svg.png",
+    "fetched_at": "2026-05-05T21:48:51.857Z"
+  },
+  "newcastle-united": {
+    "name": "Newcastle United",
+    "title": "Newcastle United F.C.",
+    "file": "teams/newcastle-united.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/256px-Newcastle_United_Logo.svg.png",
+    "fetched_at": "2026-05-05T21:49:43.530Z"
+  },
+  "nottingham-forest": {
+    "name": "Nottingham Forest",
+    "title": "Nottingham Forest F.C.",
+    "file": "teams/nottingham-forest.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nottingham_Forest_F.C._logo.svg/256px-Nottingham_Forest_F.C._logo.svg.png",
+    "fetched_at": "2026-05-05T20:38:13.865Z"
+  },
+  "o-higgins": {
+    "name": "O'Higgins",
+    "title": "O'Higgins F.C.",
+    "file": "teams/o-higgins.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/7/70/O%27Higgins_FC.png",
+    "fetched_at": "2026-05-05T20:38:28.061Z"
+  },
+  "orlando-city-sc": {
+    "name": "Orlando City SC",
+    "title": "Orlando City SC",
+    "file": "teams/orlando-city-sc.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Orlando_City_2014.svg/256px-Orlando_City_2014.svg.png",
+    "fetched_at": "2026-05-05T21:48:58.799Z"
+  },
+  "osasuna": {
+    "name": "Osasuna",
+    "title": "CA Osasuna",
+    "file": "teams/osasuna.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/CA_Osasuna_2024_crest.svg/256px-CA_Osasuna_2024_crest.svg.png",
+    "fetched_at": "2026-05-05T21:48:00.022Z"
+  },
+  "oviedo": {
+    "name": "Oviedo",
+    "title": "Real Oviedo",
+    "file": "teams/oviedo.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Real_Oviedo_logo.svg/256px-Real_Oviedo_logo.svg.png",
+    "fetched_at": "2026-05-05T21:58:07.723Z"
+  },
+  "pachuca": {
+    "name": "Pachuca",
+    "title": "C.F. Pachuca",
+    "file": "teams/pachuca.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Pachuca_Tuzos_logo.svg/256px-Pachuca_Tuzos_logo.svg.png",
+    "fetched_at": "2026-05-05T21:50:20.104Z"
+  },
+  "palestino": {
+    "name": "Palestino",
+    "title": "Palestino F.C.",
+    "file": "teams/palestino.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/C.D._Palestino.png/256px-C.D._Palestino.png",
+    "fetched_at": "2026-05-05T20:37:43.489Z"
+  },
+  "palmeiras": {
+    "name": "Palmeiras",
+    "title": "SE Palmeiras",
+    "file": "teams/palmeiras.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/SE_Palmeiras_2025_crest.png/256px-SE_Palmeiras_2025_crest.png",
+    "fetched_at": "2026-05-05T20:37:04.979Z"
+  },
+  "paris-saint-germain": {
+    "name": "Paris Saint-Germain",
+    "title": "Paris Saint-Germain FC",
+    "file": "teams/paris-saint-germain.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Paris_Saint-Germain_F.C..svg/256px-Paris_Saint-Germain_F.C..svg.png",
+    "fetched_at": "2026-05-05T20:37:33.279Z"
+  },
+  "parma": {
+    "name": "Parma",
+    "title": "Parma Calcio 1913",
+    "file": "teams/parma.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_Parma_Calcio_1913_%28adozione_2016%29.svg/256px-Logo_Parma_Calcio_1913_%28adozione_2016%29.svg.png",
+    "fetched_at": "2026-05-05T21:49:59.187Z"
+  },
+  "penarol": {
+    "name": "Peñarol",
+    "title": "Peñarol",
+    "file": "teams/penarol.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Escudo_del_Club_Atl%C3%A9tico_Pe%C3%B1arol.svg/256px-Escudo_del_Club_Atl%C3%A9tico_Pe%C3%B1arol.svg.png",
+    "fetched_at": "2026-05-05T20:38:21.469Z"
+  },
+  "philadelphia-union": {
+    "name": "Philadelphia Union",
+    "title": "Philadelphia Union",
+    "file": "teams/philadelphia-union.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Philadelphia_Union_2018_logo.svg/256px-Philadelphia_Union_2018_logo.svg.png",
+    "fetched_at": "2026-05-05T21:49:05.629Z"
+  },
+  "pisa": {
+    "name": "Pisa",
+    "title": "Pisa SC",
+    "file": "teams/pisa.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Pisa_SC_crest.svg/256px-Pisa_SC_crest.svg.png",
+    "fetched_at": "2026-05-05T21:49:46.761Z"
+  },
+  "platense": {
+    "name": "Platense",
+    "title": "Club Atlético Platense",
+    "file": "teams/platense.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Club_Alt%C3%A9tico_Platense_crest_%282025%29.svg/256px-Club_Alt%C3%A9tico_Platense_crest_%282025%29.svg.png",
+    "fetched_at": "2026-05-05T21:58:04.051Z"
+  },
+  "portland-timbers": {
+    "name": "Portland Timbers",
+    "title": "Portland Timbers",
+    "file": "teams/portland-timbers.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Portland_Timbers_logo.svg/256px-Portland_Timbers_logo.svg.png",
+    "fetched_at": "2026-05-05T21:49:19.945Z"
+  },
+  "puerto-cabello": {
+    "name": "Puerto Cabello",
+    "title": "Academia Puerto Cabello",
+    "file": "teams/puerto-cabello.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/a/a7/Academia_Puerto_Cabello.png",
+    "fetched_at": "2026-05-05T21:56:09.664Z"
+  },
+  "pumas-unam": {
+    "name": "Pumas UNAM",
+    "title": "Pumas UNAM",
+    "file": "teams/pumas-unam.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Club_Universidad_Nacional_logo.svg/256px-Club_Universidad_Nacional_logo.svg.png",
+    "fetched_at": "2026-05-05T21:50:23.611Z"
+  },
+  "racing-club": {
+    "name": "Racing Club",
+    "title": "Racing Club de Avellaneda",
+    "file": "teams/racing-club.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Escudo_de_Racing_Club_%282014%29.svg/256px-Escudo_de_Racing_Club_%282014%29.svg.png",
+    "fetched_at": "2026-05-05T21:56:15.763Z"
+  },
+  "rayo-vallecano": {
+    "name": "Rayo Vallecano",
+    "title": "Rayo Vallecano",
+    "file": "teams/rayo-vallecano.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Rayo_Vallecano_logo.svg/256px-Rayo_Vallecano_logo.svg.png",
+    "fetched_at": "2026-05-05T20:38:16.824Z"
+  },
+  "rb-bragantino": {
+    "name": "RB Bragantino",
+    "title": "Red Bull Bragantino",
+    "file": "teams/rb-bragantino.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Red_Bull_Bragantino_logo.svg/256px-Red_Bull_Bragantino_logo.svg.png",
+    "fetched_at": "2026-05-05T20:38:38.327Z"
+  },
+  "rb-leipzig": {
+    "name": "RB Leipzig",
+    "title": "RB Leipzig",
+    "file": "teams/rb-leipzig.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/RB_Leipzig_2014_logo.svg/256px-RB_Leipzig_2014_logo.svg.png",
+    "fetched_at": "2026-05-05T21:48:13.374Z"
+  },
+  "real-betis": {
+    "name": "Real Betis",
+    "title": "Real Betis",
+    "file": "teams/real-betis.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Real_betis_logo.svg/256px-Real_betis_logo.svg.png",
+    "fetched_at": "2026-05-05T21:48:55.681Z"
+  },
+  "real-madrid": {
+    "name": "Real Madrid",
+    "title": "Real Madrid CF",
+    "file": "teams/real-madrid.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/256px-Real_Madrid_CF.svg.png",
+    "fetched_at": "2026-05-05T21:50:11.831Z"
+  },
+  "real-salt-lake": {
+    "name": "Real Salt Lake",
+    "title": "Real Salt Lake",
+    "file": "teams/real-salt-lake.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Real_Salt_Lake_2010.svg/256px-Real_Salt_Lake_2010.svg.png",
+    "fetched_at": "2026-05-05T21:49:12.132Z"
+  },
+  "real-sociedad": {
+    "name": "Real Sociedad",
+    "title": "Real Sociedad",
+    "file": "teams/real-sociedad.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Real_Sociedad_logo.svg/256px-Real_Sociedad_logo.svg.png",
+    "fetched_at": "2026-05-05T21:48:54.418Z"
+  },
+  "recoleta": {
+    "name": "Recoleta",
+    "title": "Recoleta FC",
+    "file": "teams/recoleta.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/4/4e/Deportivo_Recoleta_logo.png",
+    "fetched_at": "2026-05-05T20:37:21.977Z"
+  },
+  "river-plate": {
+    "name": "River Plate",
+    "title": "Club Atlético River Plate",
+    "file": "teams/river-plate.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Club_Atl%C3%A9tico_River_Plate_logo.svg/256px-Club_Atl%C3%A9tico_River_Plate_logo.svg.png",
+    "fetched_at": "2026-05-05T20:38:36.001Z"
+  },
+  "rosario-central": {
+    "name": "Rosario Central",
+    "title": "Rosario Central",
+    "file": "teams/rosario-central.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Rosario_Central_logo.svg/256px-Rosario_Central_logo.svg.png",
+    "fetched_at": "2026-05-05T20:37:00.451Z"
+  },
+  "san-diego-fc": {
+    "name": "San Diego FC",
+    "title": "San Diego FC",
+    "file": "teams/san-diego-fc.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/San_Diego_FC_logo.svg/256px-San_Diego_FC_logo.svg.png",
+    "fetched_at": "2026-05-05T21:49:25.291Z"
+  },
+  "san-jose-earthquakes": {
+    "name": "San Jose Earthquakes",
+    "title": "San Jose Earthquakes",
+    "file": "teams/san-jose-earthquakes.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/San_Jose_Earthquakes_2014.svg/256px-San_Jose_Earthquakes_2014.svg.png",
+    "fetched_at": "2026-05-05T21:49:27.004Z"
+  },
+  "san-lorenzo": {
+    "name": "San Lorenzo",
+    "title": "San Lorenzo de Almagro",
+    "file": "teams/san-lorenzo.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sanlorenzo_almagro_logo2026.png/256px-Sanlorenzo_almagro_logo2026.png",
+    "fetched_at": "2026-05-05T20:37:31.080Z"
+  },
+  "santos": {
+    "name": "Santos",
+    "title": "Santos FC",
+    "file": "teams/santos.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Santos_Futebol_Clube_logo_%28with_stars_and_crown%29.png/256px-Santos_Futebol_Clube_logo_%28with_stars_and_crown%29.png",
+    "fetched_at": "2026-05-05T20:37:23.440Z"
+  },
+  "sao-paulo": {
+    "name": "São Paulo",
+    "title": "São Paulo FC",
+    "file": "teams/sao-paulo.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/S%C3%A3o_Paulo_Futebol_Clube_logo_%282022%29.svg/256px-S%C3%A3o_Paulo_Futebol_Clube_logo_%282022%29.svg.png",
+    "fetched_at": "2026-05-05T20:38:29.341Z"
+  },
+  "sassuolo": {
+    "name": "Sassuolo",
+    "title": "US Sassuolo Calcio",
+    "file": "teams/sassuolo.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/US_Sassuolo_Calcio_logo.svg/256px-US_Sassuolo_Calcio_logo.svg.png",
+    "fetched_at": "2026-05-05T21:47:56.981Z"
+  },
+  "sc-freiburg": {
+    "name": "SC Freiburg",
+    "title": "SC Freiburg",
+    "file": "teams/sc-freiburg.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/SC_Freiburg_logo.svg/256px-SC_Freiburg_logo.svg.png",
+    "fetched_at": "2026-05-05T20:38:10.491Z"
+  },
+  "seattle-sounders-fc": {
+    "name": "Seattle Sounders FC",
+    "title": "Seattle Sounders FC",
+    "file": "teams/seattle-sounders-fc.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Seattle_Sounders_logo.svg/256px-Seattle_Sounders_logo.svg.png",
+    "fetched_at": "2026-05-05T21:49:23.437Z"
+  },
+  "sevilla-fc": {
+    "name": "Sevilla FC",
+    "title": "Sevilla FC",
+    "file": "teams/sevilla-fc.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sevilla_FC_logo.svg/256px-Sevilla_FC_logo.svg.png",
+    "fetched_at": "2026-05-05T21:48:34.288Z"
+  },
+  "shakhtar-donetsk": {
+    "name": "Shakhtar Donetsk",
+    "title": "FC Shakhtar Donetsk",
+    "file": "teams/shakhtar-donetsk.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/FC_Shakhtar_Donetsk.svg/256px-FC_Shakhtar_Donetsk.svg.png",
+    "fetched_at": "2026-05-05T20:38:19.180Z"
+  },
+  "southampton": {
+    "name": "Southampton",
+    "title": "Southampton F.C.",
+    "file": "teams/southampton.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/FC_Southampton.svg/256px-FC_Southampton.svg.png",
+    "fetched_at": "2026-05-05T21:56:40.543Z"
+  },
+  "sporting-cristal": {
+    "name": "Sporting Cristal",
+    "title": "Sporting Cristal",
+    "file": "teams/sporting-cristal.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Escudo_de_Sporting_Cristal_2025.svg/256px-Escudo_de_Sporting_Cristal_2025.svg.png",
+    "fetched_at": "2026-05-05T20:37:03.322Z"
+  },
+  "sporting-kansas-city": {
+    "name": "Sporting Kansas City",
+    "title": "Sporting Kansas City",
+    "file": "teams/sporting-kansas-city.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sporting_Kansas_City_logo.svg/256px-Sporting_Kansas_City_logo.svg.png",
+    "fetched_at": "2026-05-05T21:49:21.736Z"
+  },
+  "st-louis-city-sc": {
+    "name": "St. Louis City SC",
+    "title": "St. Louis City SC",
+    "file": "teams/st-louis-city-sc.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Logo_of_St._Louis_City_SC.svg/256px-Logo_of_St._Louis_City_SC.svg.png",
+    "fetched_at": "2026-05-05T21:49:18.638Z"
+  },
+  "strasbourg": {
+    "name": "Strasbourg",
+    "title": "RC Strasbourg Alsace",
+    "file": "teams/strasbourg.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Racing_Club_de_Strasbourg_logo.svg/256px-Racing_Club_de_Strasbourg_logo.svg.png",
+    "fetched_at": "2026-05-05T21:56:17.596Z"
+  },
+  "sunderland": {
+    "name": "Sunderland",
+    "title": "Sunderland A.F.C.",
+    "file": "teams/sunderland.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Logo_Sunderland.svg/256px-Logo_Sunderland.svg.png",
+    "fetched_at": "2026-05-05T21:56:25.658Z"
+  },
+  "tigres-uanl": {
+    "name": "Tigres UANL",
+    "title": "Tigres UANL",
+    "file": "teams/tigres-uanl.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Tigres_UANL_logo_%28crest%29.svg/256px-Tigres_UANL_logo_%28crest%29.svg.png",
+    "fetched_at": "2026-05-05T20:37:27.199Z"
+  },
+  "toluca": {
+    "name": "Toluca",
+    "title": "Deportivo Toluca F.C.",
+    "file": "teams/toluca.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Club_Toluca_Logo.svg/256px-Club_Toluca_Logo.svg.png",
+    "fetched_at": "2026-05-05T20:37:59.590Z"
+  },
+  "torino": {
+    "name": "Torino",
+    "title": "Torino FC",
+    "file": "teams/torino.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Torino_FC_Logo.svg/256px-Torino_FC_Logo.svg.png",
+    "fetched_at": "2026-05-05T20:38:44.379Z"
+  },
+  "toronto-fc": {
+    "name": "Toronto FC",
+    "title": "Toronto FC",
+    "file": "teams/toronto-fc.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Toronto_FC_Logo.svg/256px-Toronto_FC_Logo.svg.png",
+    "fetched_at": "2026-05-05T21:48:46.595Z"
+  },
+  "tottenham-hotspur": {
+    "name": "Tottenham Hotspur",
+    "title": "Tottenham Hotspur F.C.",
+    "file": "teams/tottenham-hotspur.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/256px-Tottenham_Hotspur.svg.png",
+    "fetched_at": "2026-05-05T21:50:29.407Z"
+  },
+  "tsg-hoffenheim": {
+    "name": "TSG Hoffenheim",
+    "title": "TSG 1899 Hoffenheim",
+    "file": "teams/tsg-hoffenheim.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_TSG_Hoffenheim.svg/256px-Logo_TSG_Hoffenheim.svg.png",
+    "fetched_at": "2026-05-05T21:48:19.288Z"
+  },
+  "udinese": {
+    "name": "Udinese",
+    "title": "Udinese Calcio",
+    "file": "teams/udinese.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Udinese_Calcio_logo.svg/256px-Udinese_Calcio_logo.svg.png",
+    "fetched_at": "2026-05-05T21:48:12.112Z"
+  },
+  "universidad-central": {
+    "name": "Universidad Central",
+    "title": "Universidad Central de Venezuela F.C.",
+    "file": "teams/universidad-central.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/f/f7/Universidad_Central_FC.png",
+    "fetched_at": "2026-05-05T22:03:43.150Z"
+  },
+  "universitario": {
+    "name": "Universitario",
+    "title": "Club Universitario de Deportes",
+    "file": "teams/universitario.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_oficial_de_Universitario.svg/256px-Logo_oficial_de_Universitario.svg.png",
+    "fetched_at": "2026-05-05T20:38:31.500Z"
+  },
+  "valencia": {
+    "name": "Valencia",
+    "title": "Valencia CF",
+    "file": "teams/valencia.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/256px-Valenciacf.svg.png",
+    "fetched_at": "2026-05-05T21:49:53.084Z"
+  },
+  "vancouver-whitecaps": {
+    "name": "Vancouver Whitecaps",
+    "title": "Vancouver Whitecaps FC",
+    "file": "teams/vancouver-whitecaps.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Vancouver_Whitecaps_logo.svg/256px-Vancouver_Whitecaps_logo.svg.png",
+    "fetched_at": "2026-05-05T21:49:28.839Z"
+  },
+  "vasco-da-gama": {
+    "name": "Vasco da Gama",
+    "title": "CR Vasco da Gama",
+    "file": "teams/vasco-da-gama.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Club_de_Regatas_Vasco_da_Gama_logo_%282021%29.svg/256px-Club_de_Regatas_Vasco_da_Gama_logo_%282021%29.svg.png",
+    "fetched_at": "2026-05-05T20:37:40.718Z"
+  },
+  "vfb-stuttgart": {
+    "name": "VfB Stuttgart",
+    "title": "VfB Stuttgart",
+    "file": "teams/vfb-stuttgart.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/256px-VfB_Stuttgart_1893_Logo.svg.png",
+    "fetched_at": "2026-05-05T21:48:16.393Z"
+  },
+  "vfl-wolfsburg": {
+    "name": "VfL Wolfsburg",
+    "title": "VfL Wolfsburg",
+    "file": "teams/vfl-wolfsburg.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/VfL_Wolfsburg_Logo.svg/256px-VfL_Wolfsburg_Logo.svg.png",
+    "fetched_at": "2026-05-05T21:48:44.814Z"
+  },
+  "villarreal": {
+    "name": "Villarreal",
+    "title": "Villarreal CF",
+    "file": "teams/villarreal.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Villarreal_CF_logo-en.svg/256px-Villarreal_CF_logo-en.svg.png",
+    "fetched_at": "2026-05-05T21:49:38.311Z"
+  },
+  "werder-bremen": {
+    "name": "Werder Bremen",
+    "title": "SV Werder Bremen",
+    "file": "teams/werder-bremen.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/256px-SV-Werder-Bremen-Logo.svg.png",
+    "fetched_at": "2026-05-05T21:48:21.193Z"
+  },
+  "west-ham-united": {
+    "name": "West Ham United",
+    "title": "West Ham United F.C.",
+    "file": "teams/west-ham-united.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/256px-West_Ham_United_FC_logo.svg.png",
+    "fetched_at": "2026-05-05T21:49:54.382Z"
+  },
+  "wolverhampton-wanderers": {
+    "name": "Wolverhampton Wanderers",
+    "title": "Wolverhampton Wanderers F.C.",
+    "file": "teams/wolverhampton-wanderers.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Wolverhampton_Wanderers_FC_crest.svg/256px-Wolverhampton_Wanderers_FC_crest.svg.png",
+    "fetched_at": "2026-05-05T21:48:27.336Z"
+  }
+}

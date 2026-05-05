@@ -30,11 +30,11 @@ jobs:
       - name: Run scraper
         run: npm run scrape
 
-      - name: Commit JSON
+      - name: Commit JSON + logos
         run: |
           git config user.name  "fm-bot"
           git config user.email "bot@futbolmundial.com"
-          git add dist/where-to-watch.json
+          git add dist/where-to-watch.json dist/team-logos.json dist/teams
           if git diff --staged --quiet; then
             echo "No changes."
           else

@@ -28,11 +28,15 @@ import { DateTime } from 'luxon';
 
 import { COMPETITIONS } from './competitions.js';
 import { normalizeChannels } from './broadcasters.js';
+import { slugify as slugifyTeam } from './teams.js';
+import { resolveLogos } from './logos.js';
 
-const __dirname  = path.dirname( url.fileURLToPath( import.meta.url ) );
-const ROOT       = path.join( __dirname, '..' );
-const DIST_DIR   = path.join( ROOT, 'dist' );
-const OUT_FILE   = path.join( DIST_DIR, 'where-to-watch.json' );
+const __dirname    = path.dirname( url.fileURLToPath( import.meta.url ) );
+const ROOT         = path.join( __dirname, '..' );
+const DIST_DIR     = path.join( ROOT, 'dist' );
+const OUT_FILE     = path.join( DIST_DIR, 'where-to-watch.json' );
+const TEAMS_DIR    = path.join( DIST_DIR, 'teams' );
+const MANIFEST_FILE = path.join( DIST_DIR, 'team-logos.json' );
 const BASE_URL   = 'https://worldsoccertalk.com';
 const USER_AGENT = 'Mozilla/5.0 (compatible; FMScraper/1.0; +https://www.futbolmundial.com/bots)';
 const REQ_DELAY  = 1500; // polite delay between requests, ms
@@ -141,8 +145,8 @@ function parseCompetitionPage( html, competition ) {
 				competition:  competition.slug,
 				home:         teams.home,
 				away:         teams.away,
-				home_slug:    slugify( teams.home ),
-				away_slug:    slugify( teams.away ),
+				home_slug:    slugifyTeam( teams.home ),
+				away_slug:    slugifyTeam( teams.away ),
 				kickoff_utc:  kickoff.toUTC().toISO(),
 				kickoff_et:   kickoff.setZone( 'America/New_York' ).toFormat( "yyyy-LL-dd'T'HH:mm" ),
 				channels:     normalizeChannels( channelRaw ),
@@ -186,13 +190,9 @@ function parseKickoff( dateLabel, timeRaw ) {
 	return null;
 }
 
-function slugify( s ) {
-	return s.toLowerCase().replace( /[^a-z0-9]+/g, '-' ).replace( /(^-|-$)/g, '' );
-}
-
 function shortId( comp, dt, teams ) {
 	const stamp = dt.toFormat( 'yyyyLLddHHmm' );
-	return `${ comp }-${ stamp }-${ slugify( teams.home ) }-vs-${ slugify( teams.away ) }`;
+	return `${ comp }-${ stamp }-${ slugifyTeam( teams.home ) }-vs-${ slugifyTeam( teams.away ) }`;
 }
 
 /* ---------- Driver ---------- */
@@ -225,6 +225,28 @@ async function run() {
 	// Sort by kickoff
 	allMatches.sort( ( a, b ) => a.kickoff_utc.localeCompare( b.kickoff_utc ) );
 
+	// Resolve team logos: Wikipedia lookup → download to dist/teams/{slug}.png.
+	// Cache hits skip the network entirely.
+	const uniqueTeams = new Map(); // slug -> name
+	for ( const m of allMatches ) {
+		if ( m.home_slug && ! uniqueTeams.has( m.home_slug ) ) uniqueTeams.set( m.home_slug, m.home );
+		if ( m.away_slug && ! uniqueTeams.has( m.away_slug ) ) uniqueTeams.set( m.away_slug, m.away );
+	}
+	console.log( `[logos] ${ uniqueTeams.size } unique teams across all fixtures` );
+
+	let logoSummary = { resolved: {}, missing: [], newDownloads: 0 };
+	if ( ! DRY_RUN ) {
+		logoSummary = await resolveLogos(
+			Array.from( uniqueTeams, ( [ slug, name ] ) => ( { slug, name } ) ),
+			{ teamsDir: TEAMS_DIR, manifestPath: MANIFEST_FILE }
+		);
+		console.log( `[logos] ${ Object.keys( logoSummary.resolved ).length } resolved, ${ logoSummary.missing.length } missing, ${ logoSummary.newDownloads } new downloads` );
+		if ( logoSummary.missing.length ) {
+			console.log( '[logos] missing names (add to TEAM_WIKI in src/teams.js):' );
+			logoSummary.missing.forEach( m => console.log( `   • ${ m.name } (${ m.slug })` ) );
+		}
+	}
+
 	const payload = {
 		generated_at: new Date().toISOString(),
 		source:       'worldsoccertalk.com',
@@ -237,6 +259,10 @@ async function run() {
 			priority: c.priority,
 		} ) ),
 		matches:      allMatches,
+		teams_meta: {
+			resolved_count: Object.keys( logoSummary.resolved ).length,
+			missing_count:  logoSummary.missing.length,
+		},
 	};
 
 	if ( DRY_RUN ) {

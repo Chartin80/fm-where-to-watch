@@ -63,6 +63,25 @@ the path segment after `/tv-schedules/` on worldsoccertalk.com.
 Edit `src/broadcasters.js`, add a record with a regex `match`, and drop a
 matching `<slug>.svg` into `fm/wp-content/themes/futbol-mundial/assets/img/broadcasters/`.
 
+## Team logos
+
+Each unique team in the scrape is resolved to its Wikipedia article and the
+crest thumbnail is downloaded once into `dist/teams/<slug>.png`. The file
+`dist/team-logos.json` is the manifest (slug → name, source URL, fetched_at).
+Subsequent runs see the cached file and skip the network entirely.
+
+The WP theme serves these via jsDelivr's GitHub CDN — no runtime Wikipedia
+traffic. URL pattern:
+
+```
+https://cdn.jsdelivr.net/gh/Chartin80/fm-where-to-watch@main/dist/teams/{slug}.png
+```
+
+If a team can't be matched (homonymous city page wins, no thumbnail, etc.),
+edit `src/teams.js` and add an explicit Wikipedia title in `TEAM_WIKI`. The
+scraper logs misses with `[logos] missing` lines — those are exactly the
+strings to add as keys.
+
 ## Selector drift
 
 WST will change their template eventually. When that happens:

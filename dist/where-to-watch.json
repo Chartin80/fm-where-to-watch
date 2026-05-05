@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T19:39:09.683Z",
+  "generated_at": "2026-05-05T22:03:45.005Z",
   "source": "worldsoccertalk.com",
   "partial": false,
   "errors": [],
@@ -145,12 +145,12 @@
   ],
   "matches": [
     {
-      "id": "uefa-ucl-202605051500-arsenal-vs-atl-tico-madrid",
+      "id": "uefa-ucl-202605051500-arsenal-vs-atletico-madrid",
       "competition": "uefa-ucl",
       "home": "Arsenal",
       "away": "Atlético Madrid",
       "home_slug": "arsenal",
-      "away_slug": "atl-tico-madrid",
+      "away_slug": "atletico-madrid",
       "kickoff_utc": "2026-05-05T19:00:00.000Z",
       "kickoff_et": "2026-05-05T15:00",
       "channels": [
@@ -254,12 +254,12 @@
       "channels_raw": "beIN SPORTS, beIN SPORTS en Español, beIN SPORTS Connect, Fubo, Fanatiz"
     },
     {
-      "id": "conmebol-suda-202605051800-juventud-vs-atl-tico-mineiro",
+      "id": "conmebol-suda-202605051800-juventud-vs-atletico-mineiro",
       "competition": "conmebol-suda",
       "home": "Juventud",
       "away": "Atlético Mineiro",
       "home_slug": "juventud",
-      "away_slug": "atl-tico-mineiro",
+      "away_slug": "atletico-mineiro",
       "kickoff_utc": "2026-05-05T22:00:00.000Z",
       "kickoff_et": "2026-05-05T18:00",
       "channels": [
@@ -282,12 +282,12 @@
       "channels_raw": "beIN SPORTS Connect, Fubo, Fanatiz"
     },
     {
-      "id": "conmebol-suda-202605051800-deportivo-riestra-vs-gr-mio",
+      "id": "conmebol-suda-202605051800-deportivo-riestra-vs-gremio",
       "competition": "conmebol-suda",
       "home": "Deportivo Riestra",
       "away": "Grêmio",
       "home_slug": "deportivo-riestra",
-      "away_slug": "gr-mio",
+      "away_slug": "gremio",
       "kickoff_utc": "2026-05-05T22:00:00.000Z",
       "kickoff_et": "2026-05-05T18:00",
       "channels": [
@@ -414,12 +414,12 @@
       "channels_raw": "beIN SPORTS, beIN SPORTS en Español, beIN SPORTS Connect, Fubo, Fanatiz"
     },
     {
-      "id": "conmebol-libert-202605052030-always-ready-vs-lan-s",
+      "id": "conmebol-libert-202605052030-always-ready-vs-lanus",
       "competition": "conmebol-libert",
       "home": "Always Ready",
       "away": "Lanús",
       "home_slug": "always-ready",
-      "away_slug": "lan-s",
+      "away_slug": "lanus",
       "kickoff_utc": "2026-05-06T00:30:00.000Z",
       "kickoff_et": "2026-05-05T20:30",
       "channels": [
@@ -675,12 +675,12 @@
       "channels_raw": "beIN SPORTS, beIN SPORTS en Español, beIN SPORTS Connect, Fubo, Fanatiz"
     },
     {
-      "id": "conmebol-libert-202605061800-deportivo-la-guaira-vs-bol-var",
+      "id": "conmebol-libert-202605061800-deportivo-la-guaira-vs-bolivar",
       "competition": "conmebol-libert",
       "home": "Deportivo la Guaira",
       "away": "Bolívar",
       "home_slug": "deportivo-la-guaira",
-      "away_slug": "bol-var",
+      "away_slug": "bolivar",
       "kickoff_utc": "2026-05-06T22:00:00.000Z",
       "kickoff_et": "2026-05-06T18:00",
       "channels": [
@@ -779,12 +779,12 @@
       "channels_raw": "beIN SPORTS Connect, Fubo, Fanatiz"
     },
     {
-      "id": "conmebol-suda-202605062000-macar-vs-atl-tico-tigre",
+      "id": "conmebol-suda-202605062000-macara-vs-atletico-tigre",
       "competition": "conmebol-suda",
       "home": "Macará",
       "away": "Atlético Tigre",
-      "home_slug": "macar",
-      "away_slug": "atl-tico-tigre",
+      "home_slug": "macara",
+      "away_slug": "atletico-tigre",
       "kickoff_utc": "2026-05-07T00:00:00.000Z",
       "kickoff_et": "2026-05-06T20:00",
       "channels": [
@@ -987,11 +987,11 @@
       "channels_raw": "FS1, UniMás, TUDN, Fubo, DirecTV Stream, Sling Blue, ViX"
     },
     {
-      "id": "conmebol-libert-202605062200-cd-universidad-cat-lica-chile-vs-cruzeiro",
+      "id": "conmebol-libert-202605062200-cd-universidad-catolica-chile-vs-cruzeiro",
       "competition": "conmebol-libert",
       "home": "CD Universidad Católica (Chile)",
       "away": "Cruzeiro",
-      "home_slug": "cd-universidad-cat-lica-chile",
+      "home_slug": "cd-universidad-catolica-chile",
       "away_slug": "cruzeiro",
       "kickoff_utc": "2026-05-07T02:00:00.000Z",
       "kickoff_et": "2026-05-06T22:00",
@@ -1063,12 +1063,12 @@
       "channels_raw": "beIN SPORTS Connect, Fubo, Fanatiz"
     },
     {
-      "id": "conmebol-suda-202605062200-alianza-atl-tico-vs-am-rica-de-cali",
+      "id": "conmebol-suda-202605062200-alianza-atletico-vs-america-de-cali",
       "competition": "conmebol-suda",
       "home": "Alianza Atlético",
       "away": "América de Cali",
-      "home_slug": "alianza-atl-tico",
-      "away_slug": "am-rica-de-cali",
+      "home_slug": "alianza-atletico",
+      "away_slug": "america-de-cali",
       "kickoff_utc": "2026-05-07T02:00:00.000Z",
       "kickoff_et": "2026-05-06T22:00",
       "channels": [
@@ -1213,12 +1213,12 @@
       "channels_raw": "Paramount+, ViX"
     },
     {
-      "id": "conmebol-libert-202605071800-platense-vs-pe-arol",
+      "id": "conmebol-libert-202605071800-platense-vs-penarol",
       "competition": "conmebol-libert",
       "home": "Platense",
       "away": "Peñarol",
       "home_slug": "platense",
-      "away_slug": "pe-arol",
+      "away_slug": "penarol",
       "kickoff_utc": "2026-05-07T22:00:00.000Z",
       "kickoff_et": "2026-05-07T18:00",
       "channels": [
@@ -1297,12 +1297,12 @@
       "channels_raw": "beIN SPORTS Connect, Fubo, Fanatiz"
     },
     {
-      "id": "conmebol-suda-202605071800-o-higgins-vs-s-o-paulo",
+      "id": "conmebol-suda-202605071800-o-higgins-vs-sao-paulo",
       "competition": "conmebol-suda",
       "home": "O'Higgins",
       "away": "São Paulo",
       "home_slug": "o-higgins",
-      "away_slug": "s-o-paulo",
+      "away_slug": "sao-paulo",
       "kickoff_utc": "2026-05-07T22:00:00.000Z",
       "kickoff_et": "2026-05-07T18:00",
       "channels": [
@@ -1373,11 +1373,11 @@
       "channels_raw": "beIN SPORTS Connect, Fubo, Fanatiz"
     },
     {
-      "id": "conmebol-libert-202605072030-independiente-medell-n-vs-flamengo",
+      "id": "conmebol-libert-202605072030-independiente-medellin-vs-flamengo",
       "competition": "conmebol-libert",
       "home": "Independiente Medellín",
       "away": "Flamengo",
-      "home_slug": "independiente-medell-n",
+      "home_slug": "independiente-medellin",
       "away_slug": "flamengo",
       "kickoff_utc": "2026-05-08T00:30:00.000Z",
       "kickoff_et": "2026-05-07T20:30",
@@ -1477,12 +1477,12 @@
       "channels_raw": "beIN SPORTS XTRA, beIN SPORTS XTRA Español, beIN SPORTS Connect, Fubo, Fanatiz, DirecTV Stream, Amazon Prime Video, Tubi, ViX"
     },
     {
-      "id": "conmebol-libert-202605072200-junior-vs-cerro-porte-o",
+      "id": "conmebol-libert-202605072200-junior-vs-cerro-porteno",
       "competition": "conmebol-libert",
       "home": "Junior",
       "away": "Cerro Porteño",
       "home_slug": "junior",
-      "away_slug": "cerro-porte-o",
+      "away_slug": "cerro-porteno",
       "kickoff_utc": "2026-05-08T02:00:00.000Z",
       "kickoff_et": "2026-05-07T22:00",
       "channels": [
@@ -1635,12 +1635,12 @@
       "channels_raw": "NBCSN, Peacock Premium"
     },
     {
-      "id": "esp-laliga-202605090800-elche-vs-alav-s",
+      "id": "esp-laliga-202605090800-elche-vs-alaves",
       "competition": "esp-laliga",
       "home": "Elche",
       "away": "Alavés",
       "home_slug": "elche",
-      "away_slug": "alav-s",
+      "away_slug": "alaves",
       "kickoff_utc": "2026-05-09T12:00:00.000Z",
       "kickoff_et": "2026-05-09T08:00",
       "channels": [
@@ -1745,12 +1745,12 @@
       "channels_raw": "ESPN+"
     },
     {
-      "id": "ger-bundesliga-202605090930-fc-augsburg-vs-borussia-m-nchengladbach",
+      "id": "ger-bundesliga-202605090930-fc-augsburg-vs-borussia-monchengladbach",
       "competition": "ger-bundesliga",
       "home": "FC Augsburg",
       "away": "Borussia Mönchengladbach",
       "home_slug": "fc-augsburg",
-      "away_slug": "borussia-m-nchengladbach",
+      "away_slug": "borussia-monchengladbach",
       "kickoff_utc": "2026-05-09T13:30:00.000Z",
       "kickoff_et": "2026-05-09T09:30",
       "channels": [
@@ -1763,11 +1763,11 @@
       "channels_raw": "ESPN+"
     },
     {
-      "id": "eng-premier-202605091000-brighton-hove-albion-vs-wolverhampton-wanderers",
+      "id": "eng-premier-202605091000-brighton-and-hove-albion-vs-wolverhampton-wanderers",
       "competition": "eng-premier",
       "home": "Brighton & Hove Albion",
       "away": "Wolverhampton Wanderers",
-      "home_slug": "brighton-hove-albion",
+      "home_slug": "brighton-and-hove-albion",
       "away_slug": "wolverhampton-wanderers",
       "kickoff_utc": "2026-05-09T14:00:00.000Z",
       "kickoff_et": "2026-05-09T10:00",
@@ -1936,11 +1936,11 @@
       "channels_raw": "NBC, Telemundo, Universo, DirecTV Stream, Sling Blue, Hulu + Live TV, Peacock Premium"
     },
     {
-      "id": "esp-laliga-202605091230-atl-tico-madrid-vs-celta-vigo",
+      "id": "esp-laliga-202605091230-atletico-madrid-vs-celta-vigo",
       "competition": "esp-laliga",
       "home": "Atlético Madrid",
       "away": "Celta Vigo",
-      "home_slug": "atl-tico-madrid",
+      "home_slug": "atletico-madrid",
       "away_slug": "celta-vigo",
       "kickoff_utc": "2026-05-09T16:30:00.000Z",
       "kickoff_et": "2026-05-09T12:30",
@@ -2079,11 +2079,11 @@
       "channels_raw": "ESPN+, ESPN Deportes, Fubo, DirecTV Stream"
     },
     {
-      "id": "usa-mls-202605091630-montr-al-vs-orlando-city-sc",
+      "id": "usa-mls-202605091630-montreal-vs-orlando-city-sc",
       "competition": "usa-mls",
       "home": "Montréal",
       "away": "Orlando City SC",
-      "home_slug": "montr-al",
+      "home_slug": "montreal",
       "away_slug": "orlando-city-sc",
       "kickoff_utc": "2026-05-09T20:30:00.000Z",
       "kickoff_et": "2026-05-09T16:30",
@@ -2625,12 +2625,12 @@
       "channels_raw": "USA Network, Telemundo, DirecTV Stream, Sling Blue, Hulu + Live TV"
     },
     {
-      "id": "ger-bundesliga-202605101130-fc-k-ln-vs-1-fc-heidenheim-1846",
+      "id": "ger-bundesliga-202605101130-fc-koln-vs-fc-heidenheim-1846",
       "competition": "ger-bundesliga",
       "home": "FC Köln",
       "away": "1. FC Heidenheim 1846",
-      "home_slug": "fc-k-ln",
-      "away_slug": "1-fc-heidenheim-1846",
+      "home_slug": "fc-koln",
+      "away_slug": "fc-heidenheim-1846",
       "kickoff_utc": "2026-05-10T15:30:00.000Z",
       "kickoff_et": "2026-05-10T11:30",
       "channels": [
@@ -2860,12 +2860,12 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "mex-ligamx-202605102115-pumas-unam-vs-am-rica",
+      "id": "mex-ligamx-202605102115-pumas-unam-vs-america",
       "competition": "mex-ligamx",
       "home": "Pumas UNAM",
       "away": "América",
       "home_slug": "pumas-unam",
-      "away_slug": "am-rica",
+      "away_slug": "america",
       "kickoff_utc": "2026-05-11T01:15:00.000Z",
       "kickoff_et": "2026-05-10T21:15",
       "channels": [
@@ -3074,12 +3074,12 @@
       "channels_raw": "Paramount+"
     },
     {
-      "id": "esp-laliga-202605121530-osasuna-vs-atl-tico-madrid",
+      "id": "esp-laliga-202605121530-osasuna-vs-atletico-madrid",
       "competition": "esp-laliga",
       "home": "Osasuna",
       "away": "Atlético Madrid",
       "home_slug": "osasuna",
-      "away_slug": "atl-tico-madrid",
+      "away_slug": "atletico-madrid",
       "kickoff_utc": "2026-05-12T19:30:00.000Z",
       "kickoff_et": "2026-05-12T15:30",
       "channels": [
@@ -3191,11 +3191,11 @@
       "channels_raw": "USA Network, DirecTV Stream, Sling Blue, Hulu + Live TV"
     },
     {
-      "id": "esp-laliga-202605131530-alav-s-vs-barcelona",
+      "id": "esp-laliga-202605131530-alaves-vs-barcelona",
       "competition": "esp-laliga",
       "home": "Alavés",
       "away": "Barcelona",
-      "home_slug": "alav-s",
+      "home_slug": "alaves",
       "away_slug": "barcelona",
       "kickoff_utc": "2026-05-13T19:30:00.000Z",
       "kickoff_et": "2026-05-13T15:30",
@@ -3339,11 +3339,11 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202605131930-montr-al-vs-portland-timbers",
+      "id": "usa-mls-202605131930-montreal-vs-portland-timbers",
       "competition": "usa-mls",
       "home": "Montréal",
       "away": "Portland Timbers",
-      "home_slug": "montr-al",
+      "home_slug": "montreal",
       "away_slug": "portland-timbers",
       "kickoff_utc": "2026-05-13T23:30:00.000Z",
       "kickoff_et": "2026-05-13T19:30",
@@ -3661,11 +3661,11 @@
       "channels_raw": "CBS Sports Network, Paramount+, Fubo, DirecTV Stream"
     },
     {
-      "id": "ger-bundesliga-202605160930-1-fc-heidenheim-1846-vs-mainz",
+      "id": "ger-bundesliga-202605160930-fc-heidenheim-1846-vs-mainz",
       "competition": "ger-bundesliga",
       "home": "1. FC Heidenheim 1846",
       "away": "Mainz",
-      "home_slug": "1-fc-heidenheim-1846",
+      "home_slug": "fc-heidenheim-1846",
       "away_slug": "mainz",
       "kickoff_utc": "2026-05-16T13:30:00.000Z",
       "kickoff_et": "2026-05-16T09:30",
@@ -3733,11 +3733,11 @@
       "channels_raw": "ESPN+"
     },
     {
-      "id": "ger-bundesliga-202605160930-borussia-m-nchengladbach-vs-tsg-hoffenheim",
+      "id": "ger-bundesliga-202605160930-borussia-monchengladbach-vs-tsg-hoffenheim",
       "competition": "ger-bundesliga",
       "home": "Borussia Mönchengladbach",
       "away": "TSG Hoffenheim",
-      "home_slug": "borussia-m-nchengladbach",
+      "home_slug": "borussia-monchengladbach",
       "away_slug": "tsg-hoffenheim",
       "kickoff_utc": "2026-05-16T13:30:00.000Z",
       "kickoff_et": "2026-05-16T09:30",
@@ -3769,12 +3769,12 @@
       "channels_raw": "ESPN+"
     },
     {
-      "id": "ger-bundesliga-202605160930-bayern-munich-vs-fc-k-ln",
+      "id": "ger-bundesliga-202605160930-bayern-munich-vs-fc-koln",
       "competition": "ger-bundesliga",
       "home": "Bayern Munich",
       "away": "FC Köln",
       "home_slug": "bayern-munich",
-      "away_slug": "fc-k-ln",
+      "away_slug": "fc-koln",
       "kickoff_utc": "2026-05-16T13:30:00.000Z",
       "kickoff_et": "2026-05-16T09:30",
       "channels": [
@@ -3823,11 +3823,11 @@
       "channels_raw": "ESPN+"
     },
     {
-      "id": "usa-mls-202605161630-montr-al-vs-chicago-fire-fc",
+      "id": "usa-mls-202605161630-montreal-vs-chicago-fire-fc",
       "competition": "usa-mls",
       "home": "Montréal",
       "away": "Chicago Fire FC",
-      "home_slug": "montr-al",
+      "home_slug": "montreal",
       "away_slug": "chicago-fire-fc",
       "kickoff_utc": "2026-05-16T20:30:00.000Z",
       "kickoff_et": "2026-05-16T16:30",
@@ -4179,12 +4179,12 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202605231930-d-c-united-vs-montr-al",
+      "id": "usa-mls-202605231930-d-c-united-vs-montreal",
       "competition": "usa-mls",
       "home": "D.C. United",
       "away": "Montréal",
       "home_slug": "d-c-united",
-      "away_slug": "montr-al",
+      "away_slug": "montreal",
       "kickoff_utc": "2026-05-23T23:30:00.000Z",
       "kickoff_et": "2026-05-23T19:30",
       "channels": [
@@ -4444,5 +4444,9 @@
       ],
       "channels_raw": "FOX, FOX Deportes, Apple TV, Fubo, DirecTV Stream, Sling Blue"
     }
-  ]
+  ],
+  "teams_meta": {
+    "resolved_count": 188,
+    "missing_count": 0
+  }
 }
