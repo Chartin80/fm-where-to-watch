@@ -38,7 +38,7 @@ export const BROADCASTERS = [
 export function normalizeChannels( raw ) {
 	if ( ! raw ) return [];
 	const parts = String( raw )
-		.split( /[,;\/]| and / i )
+		.split( /\s*(?:[,;\/]|\sand\s)\s*/i )
 		.map( s => s.trim() )
 		.filter( Boolean );
 
