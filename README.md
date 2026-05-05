@@ -82,6 +82,21 @@ edit `src/teams.js` and add an explicit Wikipedia title in `TEAM_WIKI`. The
 scraper logs misses with `[logos] missing` lines — those are exactly the
 strings to add as keys.
 
+## Competition logos
+
+Same approach as teams but with a hand-curated `COMP_WIKI` map in
+`src/comp-logos.js`. PNGs are committed under `dist/competitions/<slug>.png`
+and the manifest lives at `dist/comp-logos.json`. The competitions filter
+in the WP sidebar pulls these via the same jsDelivr CDN:
+
+```
+https://cdn.jsdelivr.net/gh/Chartin80/fm-where-to-watch@main/dist/competitions/{slug}.png
+```
+
+To swap a competition's logo, edit the title in `COMP_WIKI`, delete the
+slug's entry from `dist/comp-logos.json` and the matching PNG, then
+`npm run scrape` re-fetches just that one.
+
 ## Selector drift
 
 WST will change their template eventually. When that happens:

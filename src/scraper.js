@@ -30,6 +30,7 @@ import { COMPETITIONS } from './competitions.js';
 import { normalizeChannels } from './broadcasters.js';
 import { slugify as slugifyTeam } from './teams.js';
 import { resolveLogos } from './logos.js';
+import { resolveCompLogos } from './comp-logos.js';
 
 const __dirname    = path.dirname( url.fileURLToPath( import.meta.url ) );
 const ROOT         = path.join( __dirname, '..' );
@@ -37,6 +38,8 @@ const DIST_DIR     = path.join( ROOT, 'dist' );
 const OUT_FILE     = path.join( DIST_DIR, 'where-to-watch.json' );
 const TEAMS_DIR    = path.join( DIST_DIR, 'teams' );
 const MANIFEST_FILE = path.join( DIST_DIR, 'team-logos.json' );
+const COMPS_DIR    = path.join( DIST_DIR, 'competitions' );
+const COMP_MANIFEST_FILE = path.join( DIST_DIR, 'comp-logos.json' );
 const BASE_URL   = 'https://worldsoccertalk.com';
 const USER_AGENT = 'Mozilla/5.0 (compatible; FMScraper/1.0; +https://www.futbolmundial.com/bots)';
 const REQ_DELAY  = 1500; // polite delay between requests, ms
@@ -235,6 +238,7 @@ async function run() {
 	console.log( `[logos] ${ uniqueTeams.size } unique teams across all fixtures` );
 
 	let logoSummary = { resolved: {}, missing: [], newDownloads: 0 };
+	let compLogoSummary = { resolved: {}, missing: [], newDownloads: 0 };
 	if ( ! DRY_RUN ) {
 		logoSummary = await resolveLogos(
 			Array.from( uniqueTeams, ( [ slug, name ] ) => ( { slug, name } ) ),
@@ -244,6 +248,18 @@ async function run() {
 		if ( logoSummary.missing.length ) {
 			console.log( '[logos] missing names (add to TEAM_WIKI in src/teams.js):' );
 			logoSummary.missing.forEach( m => console.log( `   • ${ m.name } (${ m.slug })` ) );
+		}
+
+		// Competition logos: hand-curated Wikipedia titles in src/comp-logos.js.
+		console.log( `[comp-logos] ${ COMPETITIONS.length } competitions` );
+		compLogoSummary = await resolveCompLogos(
+			COMPETITIONS.map( c => ( { slug: c.slug, label: c.label } ) ),
+			{ compsDir: COMPS_DIR, manifestPath: COMP_MANIFEST_FILE }
+		);
+		console.log( `[comp-logos] ${ Object.keys( compLogoSummary.resolved ).length } resolved, ${ compLogoSummary.missing.length } missing, ${ compLogoSummary.newDownloads } new downloads` );
+		if ( compLogoSummary.missing.length ) {
+			console.log( '[comp-logos] missing (edit COMP_WIKI in src/comp-logos.js):' );
+			compLogoSummary.missing.forEach( m => console.log( `   • ${ m.label } (${ m.slug })` ) );
 		}
 	}
 
@@ -262,6 +278,10 @@ async function run() {
 		teams_meta: {
 			resolved_count: Object.keys( logoSummary.resolved ).length,
 			missing_count:  logoSummary.missing.length,
+		},
+		comps_meta: {
+			resolved_count: Object.keys( compLogoSummary.resolved ).length,
+			missing_count:  compLogoSummary.missing.length,
 		},
 	};
 

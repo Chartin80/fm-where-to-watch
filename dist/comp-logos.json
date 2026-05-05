@@ -1,0 +1,163 @@
+{
+  "arg-primera": {
+    "label": "Liga Profesional Argentina",
+    "title": "AFA Liga Profesional de Fútbol",
+    "file": "competitions/arg-primera.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Liga_profesional_afa_logo26.png/256px-Liga_profesional_afa_logo26.png",
+    "fetched_at": "2026-05-05T23:17:22.654Z"
+  },
+  "bel-pro": {
+    "label": "Belgian Pro League",
+    "title": "Belgian Pro League",
+    "file": "competitions/bel-pro.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Pro_League_logo2020.jpg/256px-Pro_League_logo2020.jpg",
+    "fetched_at": "2026-05-05T23:17:11.496Z"
+  },
+  "bra-serieA": {
+    "label": "Brasileirão Série A",
+    "title": "Campeonato Brasileiro Série A",
+    "file": "competitions/bra-serieA.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Campeonato_Brasileiro_S%C3%A9rie_A_logo_%282024%29.svg/256px-Campeonato_Brasileiro_S%C3%A9rie_A_logo_%282024%29.svg.png",
+    "fetched_at": "2026-05-05T23:17:24.503Z"
+  },
+  "caf-afcon": {
+    "label": "Africa Cup of Nations",
+    "title": "Africa Cup of Nations",
+    "file": "competitions/caf-afcon.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/c/cf/Africa_Cup_of_Nation_official_logo.png",
+    "fetched_at": "2026-05-05T23:17:35.370Z"
+  },
+  "concacaf-cc": {
+    "label": "CONCACAF Champions Cup",
+    "title": "CONCACAF Champions Cup",
+    "file": "competitions/concacaf-cc.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/CONCACAF_Champions_Cup_logo.svg/256px-CONCACAF_Champions_Cup_logo.svg.png",
+    "fetched_at": "2026-05-05T23:17:26.181Z"
+  },
+  "concacaf-gold": {
+    "label": "CONCACAF Gold Cup",
+    "title": "CONCACAF Gold Cup",
+    "file": "competitions/concacaf-gold.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Concacaf_Gold_Cup_2021.svg/256px-Concacaf_Gold_Cup_2021.svg.png",
+    "fetched_at": "2026-05-05T23:17:33.321Z"
+  },
+  "conmebol-copaam": {
+    "label": "Copa América",
+    "title": "2024 Copa América",
+    "file": "competitions/conmebol-copaam.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/256px-2024_Copa_Am%C3%A9rica_logo.svg.png",
+    "fetched_at": "2026-05-05T23:18:38.463Z"
+  },
+  "conmebol-libert": {
+    "label": "Copa Libertadores",
+    "title": "Copa Libertadores",
+    "file": "competitions/conmebol-libert.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/256px-Copa_Libertadores_logo.svg.png",
+    "fetched_at": "2026-05-05T23:17:27.914Z"
+  },
+  "conmebol-suda": {
+    "label": "Copa Sudamericana",
+    "title": "Copa Sudamericana",
+    "file": "competitions/conmebol-suda.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/CONMEBOL_Sudamericana_logo_%282017%29.svg/256px-CONMEBOL_Sudamericana_logo_%282017%29.svg.png",
+    "fetched_at": "2026-05-05T23:17:29.700Z"
+  },
+  "eng-champ": {
+    "label": "English Championship",
+    "title": "EFL Championship",
+    "file": "competitions/eng-champ.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/EFL_Championship_Logo.svg/256px-EFL_Championship_Logo.svg.png",
+    "fetched_at": "2026-05-05T23:17:13.221Z"
+  },
+  "eng-premier": {
+    "label": "English Premier League",
+    "title": "Premier League",
+    "file": "competitions/eng-premier.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/256px-Premier_League_Logo.svg.png",
+    "fetched_at": "2026-05-05T23:17:01.717Z"
+  },
+  "esp-laliga": {
+    "label": "La Liga",
+    "title": "La Liga",
+    "file": "competitions/esp-laliga.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/256px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png",
+    "fetched_at": "2026-05-05T23:17:02.989Z"
+  },
+  "fifa-wcq": {
+    "label": "World Cup Qualifiers",
+    "title": "2026 FIFA World Cup",
+    "file": "competitions/fifa-wcq.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/256px-2026_FIFA_World_Cup_emblem.svg.png",
+    "fetched_at": "2026-05-05T23:18:40.323Z"
+  },
+  "fra-ligue1": {
+    "label": "Ligue 1",
+    "title": "Ligue 1",
+    "file": "competitions/fra-ligue1.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Logo_Ligue_1_McDonald%27s_2024.svg/256px-Logo_Ligue_1_McDonald%27s_2024.svg.png",
+    "fetched_at": "2026-05-05T23:17:08.018Z"
+  },
+  "ger-bundesliga": {
+    "label": "Bundesliga",
+    "title": "Bundesliga",
+    "file": "competitions/ger-bundesliga.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/256px-Bundesliga_logo_%282017%29.svg.png",
+    "fetched_at": "2026-05-05T23:17:04.351Z"
+  },
+  "ita-seriea": {
+    "label": "Serie A",
+    "title": "Serie A",
+    "file": "competitions/ita-seriea.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Serie_A_ENILIVE_logo.svg/256px-Serie_A_ENILIVE_logo.svg.png",
+    "fetched_at": "2026-05-05T23:17:06.270Z"
+  },
+  "mex-ligamx": {
+    "label": "Liga MX",
+    "title": "Liga MX",
+    "file": "competitions/mex-ligamx.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Liga_MX_logo.svg/256px-Liga_MX_logo.svg.png",
+    "fetched_at": "2026-05-05T23:17:20.758Z"
+  },
+  "por-primeira": {
+    "label": "Primeira Liga",
+    "title": "Primeira Liga",
+    "file": "competitions/por-primeira.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Liga_Portugal_Betclic_logo.svg/256px-Liga_Portugal_Betclic_logo.svg.png",
+    "fetched_at": "2026-05-05T23:17:09.620Z"
+  },
+  "uefa-euros": {
+    "label": "UEFA European Championship",
+    "title": "UEFA Euro 2028",
+    "file": "competitions/uefa-euros.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/UEFA_Euro_2028_Logo.svg/256px-UEFA_Euro_2028_Logo.svg.png",
+    "fetched_at": "2026-05-05T23:19:22.100Z"
+  },
+  "uefa-ucl": {
+    "label": "UEFA Champions League",
+    "title": "UEFA Champions League",
+    "file": "competitions/uefa-ucl.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/256px-UEFA_Champions_League.svg.png",
+    "fetched_at": "2026-05-05T23:17:14.544Z"
+  },
+  "uefa-uecl": {
+    "label": "UEFA Conference League",
+    "title": "UEFA Conference League",
+    "file": "competitions/uefa-uecl.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/UEFA_Conference_League_full_logo_%282024_version%29.svg/256px-UEFA_Conference_League_full_logo_%282024_version%29.svg.png",
+    "fetched_at": "2026-05-05T23:17:17.738Z"
+  },
+  "uefa-uel": {
+    "label": "UEFA Europa League",
+    "title": "UEFA Europa League",
+    "file": "competitions/uefa-uel.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/UEFA_Europa_League_logo_%282024_version%29.svg/256px-UEFA_Europa_League_logo_%282024_version%29.svg.png",
+    "fetched_at": "2026-05-05T23:17:15.842Z"
+  },
+  "usa-mls": {
+    "label": "MLS",
+    "title": "Major League Soccer",
+    "file": "competitions/usa-mls.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Major_League_Soccer_logo.svg/256px-Major_League_Soccer_logo.svg.png",
+    "fetched_at": "2026-05-05T23:17:18.986Z"
+  }
+}

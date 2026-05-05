@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T22:03:45.005Z",
+  "generated_at": "2026-05-05T23:17:36.189Z",
   "source": "worldsoccertalk.com",
   "partial": false,
   "errors": [],
@@ -4448,5 +4448,9 @@
   "teams_meta": {
     "resolved_count": 188,
     "missing_count": 0
+  },
+  "comps_meta": {
+    "resolved_count": 21,
+    "missing_count": 2
   }
 }

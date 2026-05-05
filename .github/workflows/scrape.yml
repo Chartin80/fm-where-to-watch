@@ -34,7 +34,7 @@ jobs:
         run: |
           git config user.name  "fm-bot"
           git config user.email "bot@futbolmundial.com"
-          git add dist/where-to-watch.json dist/team-logos.json dist/teams
+          git add dist/where-to-watch.json dist/team-logos.json dist/teams dist/comp-logos.json dist/competitions
           if git diff --staged --quiet; then
             echo "No changes."
           else
