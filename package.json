@@ -1,0 +1,20 @@
+{
+  "name": "fm-where-to-watch-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Scrapes US TV broadcast schedules for ~23 soccer competitions. Runs every 48h via GitHub Actions and commits dist/where-to-watch.json back to the repo. The Fútbol Mundial WP plugin reads that JSON via raw.githubusercontent.com.",
+  "license": "UNLICENSED",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "scrape": "node src/scraper.js",
+    "scrape:dry": "DRY_RUN=1 node src/scraper.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0",
+    "luxon": "^3.5.0"
+  }
+}
