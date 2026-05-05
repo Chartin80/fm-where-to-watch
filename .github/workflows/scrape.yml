@@ -1,0 +1,48 @@
+name: Scrape Where to Watch
+
+on:
+  # Every 48h at 11:00 UTC (07:00 ET).
+  schedule:
+    - cron: '0 11 */2 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: where-to-watch-scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: tools/where-to-watch-scraper
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: tools/where-to-watch-scraper/package-lock.json
+
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund
+
+      - name: Run scraper
+        run: npm run scrape
+
+      - name: Commit JSON
+        run: |
+          cd "$GITHUB_WORKSPACE"
+          git config user.name  "fm-bot"
+          git config user.email "bot@futbolmundial.com"
+          git add tools/where-to-watch-scraper/dist/where-to-watch.json
+          if git diff --staged --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore(where-to-watch): refresh schedule [skip ci]"
+            git push
+          fi
