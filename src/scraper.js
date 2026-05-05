@@ -33,7 +33,7 @@ const __dirname  = path.dirname( url.fileURLToPath( import.meta.url ) );
 const ROOT       = path.join( __dirname, '..' );
 const DIST_DIR   = path.join( ROOT, 'dist' );
 const OUT_FILE   = path.join( DIST_DIR, 'where-to-watch.json' );
-const BASE_URL   = 'https://worldsoccertalk.com/tv-schedules';
+const BASE_URL   = 'https://worldsoccertalk.com';
 const USER_AGENT = 'Mozilla/5.0 (compatible; FMScraper/1.0; +https://www.futbolmundial.com/bots)';
 const REQ_DELAY  = 1500; // polite delay between requests, ms
 const MAX_RETRY  = 3;
@@ -69,67 +69,86 @@ async function fetchHtml( href ) {
 /* ---------- Parser ---------- */
 
 /**
- * WST renders schedules as a series of date headers followed by tables
- * (one row per fixture). We walk the document linearly and keep the
- * "current date" as state.
+ * WST schedule pages render as alternating day headers and <ul>/<li> match
+ * rows. We walk the document in DOM order and keep the "current date" as
+ * state, attaching every subsequent <li.text-stvsMatchHour parent>… row to it.
  *
- * Each row has columns roughly: time | home — away | competition | tv channel(s).
- * The selectors below absorb minor template drift.
+ * Per-row markup (May 2026):
+ *   <li class="...">
+ *     <span class="text-stvsMatchHour ...">07:30 AM ET</span>
+ *     <div>
+ *       <h4 class="text-stvsMatchTitle">Liverpool vs. Chelsea (English Premier League)</h4>
+ *       <div class="flex flex-wrap gap-[3px_5px]">
+ *         <div class="text-stvsProviderLink ..."><a>NBCSN</a></div>
+ *         <div class="text-stvsProviderLink ..."><a>Peacock Premium</a></div>
+ *       </div>
+ *     </div>
+ *   </li>
  */
 function parseCompetitionPage( html, competition ) {
 	const $       = cheerio.load( html );
 	const matches = [];
 
-	// "Schedule" tables are inside the article body. WST uses <h3>/<h2>
-	// like "Saturday, May 4, 2026" preceding each table.
 	let currentDateLabel = null;
 
-	$( 'article, main, .entry-content, body' ).first().find( 'h2, h3, h4, table' ).each( ( _, el ) => {
-		const $el = $( el );
-		const tag = ( el.tagName || el.name || '' ).toLowerCase();
+	// Walk every direct descendant in document order.
+	$( 'article, main, .entry-content, body' ).first()
+		.find( 'h2, h3, h4, li' )
+		.each( ( _, el ) => {
+			const $el = $( el );
+			const tag = ( el.tagName || el.name || '' ).toLowerCase();
 
-		if ( tag === 'h2' || tag === 'h3' || tag === 'h4' ) {
-			const txt = $el.text().trim();
-			// Looks like "Saturday, May 4, 2026" or "Tuesday, July 1"
-			if ( /\b(?:Mon|Tues|Wednes|Thurs|Fri|Satur|Sun)day\b/.test( txt ) ) {
-				currentDateLabel = txt;
+			if ( tag === 'h2' || tag === 'h3' || tag === 'h4' ) {
+				const txt = $el.text().trim();
+				if ( /\b(?:Mon|Tues|Wednes|Thurs|Fri|Satur|Sun)day\b/.test( txt ) ) {
+					currentDateLabel = txt;
+				}
+				return;
 			}
-			return;
-		}
 
-		if ( tag === 'table' && currentDateLabel ) {
-			$el.find( 'tr' ).each( ( idx, tr ) => {
-				if ( idx === 0 ) return; // skip header row
-				const cells = $( tr ).find( 'td' );
-				if ( cells.length < 3 ) return;
+			if ( tag !== 'li' || ! currentDateLabel ) return;
 
-				const timeRaw   = $( cells[ 0 ] ).text().trim();
-				const matchRaw  = $( cells[ 1 ] ).text().trim();
-				const channelRaw = cells.length >= 4
-					? $( cells[ 3 ] ).text().trim()
-					: $( cells[ 2 ] ).text().trim();
+			const $hour = $el.find( '> span' ).first();
+			if ( ! $hour.length || ! /\bET\b|AM|PM/.test( $hour.text() ) ) return;
 
-				const teams = splitTeams( matchRaw );
-				if ( ! teams ) return;
+			const $title = $el.find( 'h4' ).first();
+			if ( ! $title.length ) return;
 
-				const kickoff = parseKickoff( currentDateLabel, timeRaw );
-				if ( ! kickoff ) return;
+			// "Liverpool vs. Chelsea (English Premier League)" — strip the
+			// trailing "(competition)" parenthetical.
+			const titleRaw = $title.text().replace( /\s+/g, ' ' ).trim();
+			const matchRaw = titleRaw.replace( /\s*\([^)]*\)\s*$/, '' );
 
-				matches.push( {
-					id:           shortId( competition.slug, kickoff, teams ),
-					competition:  competition.slug,
-					home:         teams.home,
-					away:         teams.away,
-					home_slug:    slugify( teams.home ),
-					away_slug:    slugify( teams.away ),
-					kickoff_utc:  kickoff.toISO(),
-					kickoff_et:   kickoff.setZone( 'America/New_York' ).toFormat( "yyyy-LL-dd'T'HH:mm" ),
-					channels:     normalizeChannels( channelRaw ),
-					channels_raw: channelRaw,
-				} );
+			const teams = splitTeams( matchRaw );
+			if ( ! teams ) return;
+
+			const timeRaw = $hour.text().trim();
+
+			// Channel chips: provider links live in sibling div(s) below <h4>.
+			const channelTexts = [];
+			$el.find( 'a' ).each( ( __, a ) => {
+				const t = $( a ).text().trim();
+				if ( t ) channelTexts.push( t );
 			} );
-		}
-	} );
+			// Dedupe — WST renders mobile + desktop variants of each link.
+			const channelRaw = Array.from( new Set( channelTexts ) ).join( ', ' );
+
+			const kickoff = parseKickoff( currentDateLabel, timeRaw );
+			if ( ! kickoff ) return;
+
+			matches.push( {
+				id:           shortId( competition.slug, kickoff, teams ),
+				competition:  competition.slug,
+				home:         teams.home,
+				away:         teams.away,
+				home_slug:    slugify( teams.home ),
+				away_slug:    slugify( teams.away ),
+				kickoff_utc:  kickoff.toUTC().toISO(),
+				kickoff_et:   kickoff.setZone( 'America/New_York' ).toFormat( "yyyy-LL-dd'T'HH:mm" ),
+				channels:     normalizeChannels( channelRaw ),
+				channels_raw: channelRaw,
+			} );
+		} );
 
 	return matches;
 }
@@ -189,7 +208,7 @@ async function run() {
 			console.log( `[skip] ${ comp.slug } — no wstSlug configured` );
 			continue;
 		}
-		const url = `${ BASE_URL }/${ comp.wstSlug }/`;
+		const url = `${ BASE_URL }/${ comp.wstSlug }-tv-schedule/`;
 		try {
 			console.log( `[fetch] ${ comp.slug } ← ${ url }` );
 			const html  = await fetchHtml( url );
