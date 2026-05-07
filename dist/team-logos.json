@@ -27,6 +27,13 @@
     "source": "https://upload.wikimedia.org/wikipedia/en/e/eb/Alianza_Atl%C3%A9tico.png",
     "fetched_at": "2026-05-05T20:38:08.223Z"
   },
+  "alverca": {
+    "name": "Alverca",
+    "title": "F.C. Alverca",
+    "file": "teams/alverca.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/F.C._Alverca_logo.svg/256px-F.C._Alverca_logo.svg.png",
+    "fetched_at": "2026-05-07T12:27:01.311Z"
+  },
   "always-ready": {
     "name": "Always Ready",
     "title": "Club Always Ready",
@@ -132,6 +139,13 @@
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Austin_FC_logo.svg/256px-Austin_FC_logo.svg.png",
     "fetched_at": "2026-05-05T21:50:18.487Z"
   },
+  "avs": {
+    "name": "AVS",
+    "title": "ATK (football club)",
+    "file": "teams/avs.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/ATK_%28football_club%29.svg/256px-ATK_%28football_club%29.svg.png",
+    "fetched_at": "2026-05-07T12:26:57.550Z"
+  },
   "barcelona": {
     "name": "Barcelona",
     "title": "FC Barcelona",
@@ -166,6 +180,13 @@
     "file": "teams/bayern-munich.png",
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/256px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
     "fetched_at": "2026-05-05T20:37:32.384Z"
+  },
+  "benfica": {
+    "name": "Benfica",
+    "title": "S.L. Benfica",
+    "file": "teams/benfica.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/SL_Benfica_logo.svg/256px-SL_Benfica_logo.svg.png",
+    "fetched_at": "2026-05-07T12:27:06.646Z"
   },
   "boca-juniors": {
     "name": "Boca Juniors",
@@ -467,6 +488,11 @@
     "file": "teams/espanyol.png",
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/RCD_Espanyol_crest.svg/256px-RCD_Espanyol_crest.svg.png",
     "fetched_at": "2026-05-05T21:48:36.033Z"
+  },
+  "estoril": {
+    "name": "Estoril",
+    "missing": true,
+    "last_tried": "2026-05-07T12:27:05.413Z"
   },
   "estudiantes-de-la-plata": {
     "name": "Estudiantes de La Plata",
@@ -985,6 +1011,13 @@
     "file": "teams/portland-timbers.png",
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Portland_Timbers_logo.svg/256px-Portland_Timbers_logo.svg.png",
     "fetched_at": "2026-05-05T21:49:19.945Z"
+  },
+  "porto": {
+    "name": "Porto",
+    "title": "FC Porto",
+    "file": "teams/porto.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/FC_Porto.svg/256px-FC_Porto.svg.png",
+    "fetched_at": "2026-05-07T12:26:58.810Z"
   },
   "puerto-cabello": {
     "name": "Puerto Cabello",

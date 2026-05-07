@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T23:17:36.189Z",
+  "generated_at": "2026-05-07T12:27:06.650Z",
   "source": "worldsoccertalk.com",
   "partial": false,
   "errors": [],
@@ -145,640 +145,6 @@
   ],
   "matches": [
     {
-      "id": "uefa-ucl-202605051500-arsenal-vs-atletico-madrid",
-      "competition": "uefa-ucl",
-      "home": "Arsenal",
-      "away": "Atlético Madrid",
-      "home_slug": "arsenal",
-      "away_slug": "atletico-madrid",
-      "kickoff_utc": "2026-05-05T19:00:00.000Z",
-      "kickoff_et": "2026-05-05T15:00",
-      "channels": [
-        {
-          "slug": "cbs",
-          "label": "CBS",
-          "tier": 1
-        },
-        {
-          "slug": "other:univision",
-          "label": "Univision",
-          "tier": 4
-        },
-        {
-          "slug": "tudn",
-          "label": "TUDN",
-          "tier": 2
-        },
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
-        },
-        {
-          "slug": "other:hulu-live-tv",
-          "label": "Hulu + Live TV",
-          "tier": 4
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "CBS, Univision, TUDN, Paramount+, Fubo, DirecTV Stream, Hulu + Live TV, ViX"
-    },
-    {
-      "id": "conmebol-libert-202605051800-rosario-central-vs-libertad",
-      "competition": "conmebol-libert",
-      "home": "Rosario Central",
-      "away": "Libertad",
-      "home_slug": "rosario-central",
-      "away_slug": "libertad",
-      "kickoff_utc": "2026-05-05T22:00:00.000Z",
-      "kickoff_et": "2026-05-05T18:00",
-      "channels": [
-        {
-          "slug": "bein",
-          "label": "beIN Sports",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:fanatiz",
-          "label": "Fanatiz",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "beIN SPORTS Connect, Fubo, Fanatiz"
-    },
-    {
-      "id": "conmebol-libert-202605051800-sporting-cristal-vs-palmeiras",
-      "competition": "conmebol-libert",
-      "home": "Sporting Cristal",
-      "away": "Palmeiras",
-      "home_slug": "sporting-cristal",
-      "away_slug": "palmeiras",
-      "kickoff_utc": "2026-05-05T22:00:00.000Z",
-      "kickoff_et": "2026-05-05T18:00",
-      "channels": [
-        {
-          "slug": "bein",
-          "label": "beIN Sports",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:fanatiz",
-          "label": "Fanatiz",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "beIN SPORTS, beIN SPORTS en Español, beIN SPORTS Connect, Fubo, Fanatiz"
-    },
-    {
-      "id": "conmebol-suda-202605051800-juventud-vs-atletico-mineiro",
-      "competition": "conmebol-suda",
-      "home": "Juventud",
-      "away": "Atlético Mineiro",
-      "home_slug": "juventud",
-      "away_slug": "atletico-mineiro",
-      "kickoff_utc": "2026-05-05T22:00:00.000Z",
-      "kickoff_et": "2026-05-05T18:00",
-      "channels": [
-        {
-          "slug": "bein",
-          "label": "beIN Sports",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:fanatiz",
-          "label": "Fanatiz",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "beIN SPORTS Connect, Fubo, Fanatiz"
-    },
-    {
-      "id": "conmebol-suda-202605051800-deportivo-riestra-vs-gremio",
-      "competition": "conmebol-suda",
-      "home": "Deportivo Riestra",
-      "away": "Grêmio",
-      "home_slug": "deportivo-riestra",
-      "away_slug": "gremio",
-      "kickoff_utc": "2026-05-05T22:00:00.000Z",
-      "kickoff_et": "2026-05-05T18:00",
-      "channels": [
-        {
-          "slug": "bein",
-          "label": "beIN Sports",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:fanatiz",
-          "label": "Fanatiz",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "beIN SPORTS Connect, Fubo, Fanatiz"
-    },
-    {
-      "id": "conmebol-suda-202605051800-independiente-petrolero-vs-caracas-fc",
-      "competition": "conmebol-suda",
-      "home": "Independiente Petrolero",
-      "away": "Caracas FC",
-      "home_slug": "independiente-petrolero",
-      "away_slug": "caracas-fc",
-      "kickoff_utc": "2026-05-05T22:00:00.000Z",
-      "kickoff_et": "2026-05-05T18:00",
-      "channels": [
-        {
-          "slug": "bein",
-          "label": "beIN Sports",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:fanatiz",
-          "label": "Fanatiz",
-          "tier": 4
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
-        },
-        {
-          "slug": "other:amazon-prime-video",
-          "label": "Amazon Prime Video",
-          "tier": 4
-        },
-        {
-          "slug": "other:tubi",
-          "label": "Tubi",
-          "tier": 4
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "beIN SPORTS XTRA, beIN SPORTS XTRA Español, beIN SPORTS Connect, Fubo, Fanatiz, DirecTV Stream, Amazon Prime Video, Tubi, ViX"
-    },
-    {
-      "id": "conmebol-libert-202605052000-universidad-central-vs-independiente-del-valle",
-      "competition": "conmebol-libert",
-      "home": "Universidad Central",
-      "away": "Independiente del Valle",
-      "home_slug": "universidad-central",
-      "away_slug": "independiente-del-valle",
-      "kickoff_utc": "2026-05-06T00:00:00.000Z",
-      "kickoff_et": "2026-05-05T20:00",
-      "channels": [
-        {
-          "slug": "bein",
-          "label": "beIN Sports",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:fanatiz",
-          "label": "Fanatiz",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "beIN SPORTS Connect, Fubo, Fanatiz"
-    },
-    {
-      "id": "conmebol-libert-202605052000-barcelona-sc-vs-boca-juniors",
-      "competition": "conmebol-libert",
-      "home": "Barcelona SC",
-      "away": "Boca Juniors",
-      "home_slug": "barcelona-sc",
-      "away_slug": "boca-juniors",
-      "kickoff_utc": "2026-05-06T00:00:00.000Z",
-      "kickoff_et": "2026-05-05T20:00",
-      "channels": [
-        {
-          "slug": "bein",
-          "label": "beIN Sports",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:fanatiz",
-          "label": "Fanatiz",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "beIN SPORTS, beIN SPORTS en Español, beIN SPORTS Connect, Fubo, Fanatiz"
-    },
-    {
-      "id": "conmebol-libert-202605052030-always-ready-vs-lanus",
-      "competition": "conmebol-libert",
-      "home": "Always Ready",
-      "away": "Lanús",
-      "home_slug": "always-ready",
-      "away_slug": "lanus",
-      "kickoff_utc": "2026-05-06T00:30:00.000Z",
-      "kickoff_et": "2026-05-05T20:30",
-      "channels": [
-        {
-          "slug": "bein",
-          "label": "beIN Sports",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:fanatiz",
-          "label": "Fanatiz",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "beIN SPORTS Connect, Fubo, Fanatiz"
-    },
-    {
-      "id": "conmebol-suda-202605052030-recoleta-vs-santos",
-      "competition": "conmebol-suda",
-      "home": "Recoleta",
-      "away": "Santos",
-      "home_slug": "recoleta",
-      "away_slug": "santos",
-      "kickoff_utc": "2026-05-06T00:30:00.000Z",
-      "kickoff_et": "2026-05-05T20:30",
-      "channels": [
-        {
-          "slug": "bein",
-          "label": "beIN Sports",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:fanatiz",
-          "label": "Fanatiz",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "beIN SPORTS Connect, Fubo, Fanatiz"
-    },
-    {
-      "id": "conmebol-suda-202605052030-puerto-cabello-vs-cienciano",
-      "competition": "conmebol-suda",
-      "home": "Puerto Cabello",
-      "away": "Cienciano",
-      "home_slug": "puerto-cabello",
-      "away_slug": "cienciano",
-      "kickoff_utc": "2026-05-06T00:30:00.000Z",
-      "kickoff_et": "2026-05-05T20:30",
-      "channels": [
-        {
-          "slug": "bein",
-          "label": "beIN Sports",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:fanatiz",
-          "label": "Fanatiz",
-          "tier": 4
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
-        },
-        {
-          "slug": "other:amazon-prime-video",
-          "label": "Amazon Prime Video",
-          "tier": 4
-        },
-        {
-          "slug": "other:tubi",
-          "label": "Tubi",
-          "tier": 4
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "beIN SPORTS XTRA, beIN SPORTS XTRA Español, beIN SPORTS Connect, Fubo, Fanatiz, DirecTV Stream, Amazon Prime Video, Tubi, ViX"
-    },
-    {
-      "id": "concacaf-cc-202605052130-tigres-uanl-vs-nashville-sc",
-      "competition": "concacaf-cc",
-      "home": "Tigres UANL",
-      "away": "Nashville SC",
-      "home_slug": "tigres-uanl",
-      "away_slug": "nashville-sc",
-      "kickoff_utc": "2026-05-06T01:30:00.000Z",
-      "kickoff_et": "2026-05-05T21:30",
-      "channels": [
-        {
-          "slug": "fs1",
-          "label": "FS1",
-          "tier": 1
-        },
-        {
-          "slug": "tudn",
-          "label": "TUDN",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
-        },
-        {
-          "slug": "other:sling-blue",
-          "label": "Sling Blue",
-          "tier": 4
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "FS1, TUDN, Fubo, DirecTV Stream, Sling Blue, ViX"
-    },
-    {
-      "id": "conmebol-suda-202605052200-c-d-cuenca-vs-san-lorenzo",
-      "competition": "conmebol-suda",
-      "home": "C.D. Cuenca",
-      "away": "San Lorenzo",
-      "home_slug": "c-d-cuenca",
-      "away_slug": "san-lorenzo",
-      "kickoff_utc": "2026-05-06T02:00:00.000Z",
-      "kickoff_et": "2026-05-05T22:00",
-      "channels": [
-        {
-          "slug": "bein",
-          "label": "beIN Sports",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:fanatiz",
-          "label": "Fanatiz",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "beIN SPORTS, beIN SPORTS en Español, beIN SPORTS Connect, Fubo, Fanatiz"
-    },
-    {
-      "id": "uefa-ucl-202605061500-bayern-munich-vs-paris-saint-germain",
-      "competition": "uefa-ucl",
-      "home": "Bayern Munich",
-      "away": "Paris Saint-Germain",
-      "home_slug": "bayern-munich",
-      "away_slug": "paris-saint-germain",
-      "kickoff_utc": "2026-05-06T19:00:00.000Z",
-      "kickoff_et": "2026-05-06T15:00",
-      "channels": [
-        {
-          "slug": "cbs",
-          "label": "CBS",
-          "tier": 1
-        },
-        {
-          "slug": "other:univision",
-          "label": "Univision",
-          "tier": 4
-        },
-        {
-          "slug": "tudn",
-          "label": "TUDN",
-          "tier": 2
-        },
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
-        },
-        {
-          "slug": "other:hulu-live-tv",
-          "label": "Hulu + Live TV",
-          "tier": 4
-        },
-        {
-          "slug": "other:dazn",
-          "label": "DAZN",
-          "tier": 4
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "CBS, Univision, TUDN, Paramount+, Fubo, DirecTV Stream, Hulu + Live TV, DAZN, ViX"
-    },
-    {
-      "id": "conmebol-libert-202605061800-cusco-fc-vs-estudiantes-de-la-plata",
-      "competition": "conmebol-libert",
-      "home": "Cusco FC",
-      "away": "Estudiantes de La Plata",
-      "home_slug": "cusco-fc",
-      "away_slug": "estudiantes-de-la-plata",
-      "kickoff_utc": "2026-05-06T22:00:00.000Z",
-      "kickoff_et": "2026-05-06T18:00",
-      "channels": [
-        {
-          "slug": "bein",
-          "label": "beIN Sports",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:fanatiz",
-          "label": "Fanatiz",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "beIN SPORTS, beIN SPORTS en Español, beIN SPORTS Connect, Fubo, Fanatiz"
-    },
-    {
-      "id": "conmebol-libert-202605061800-deportivo-la-guaira-vs-bolivar",
-      "competition": "conmebol-libert",
-      "home": "Deportivo la Guaira",
-      "away": "Bolívar",
-      "home_slug": "deportivo-la-guaira",
-      "away_slug": "bolivar",
-      "kickoff_utc": "2026-05-06T22:00:00.000Z",
-      "kickoff_et": "2026-05-06T18:00",
-      "channels": [
-        {
-          "slug": "bein",
-          "label": "beIN Sports",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:fanatiz",
-          "label": "Fanatiz",
-          "tier": 4
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
-        },
-        {
-          "slug": "other:amazon-prime-video",
-          "label": "Amazon Prime Video",
-          "tier": 4
-        },
-        {
-          "slug": "other:tubi",
-          "label": "Tubi",
-          "tier": 4
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "beIN SPORTS XTRA, beIN SPORTS XTRA Español, beIN SPORTS Connect, Fubo, Fanatiz, DirecTV Stream, Amazon Prime Video, Tubi, ViX"
-    },
-    {
-      "id": "conmebol-suda-202605061800-audax-italiano-vs-vasco-da-gama",
-      "competition": "conmebol-suda",
-      "home": "Audax Italiano",
-      "away": "Vasco da Gama",
-      "home_slug": "audax-italiano",
-      "away_slug": "vasco-da-gama",
-      "kickoff_utc": "2026-05-06T22:00:00.000Z",
-      "kickoff_et": "2026-05-06T18:00",
-      "channels": [
-        {
-          "slug": "bein",
-          "label": "beIN Sports",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:fanatiz",
-          "label": "Fanatiz",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "beIN SPORTS Connect, Fubo, Fanatiz"
-    },
-    {
-      "id": "conmebol-suda-202605061800-montevideo-city-torque-vs-palestino",
-      "competition": "conmebol-suda",
-      "home": "Montevideo City Torque",
-      "away": "Palestino",
-      "home_slug": "montevideo-city-torque",
-      "away_slug": "palestino",
-      "kickoff_utc": "2026-05-06T22:00:00.000Z",
-      "kickoff_et": "2026-05-06T18:00",
-      "channels": [
-        {
-          "slug": "bein",
-          "label": "beIN Sports",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:fanatiz",
-          "label": "Fanatiz",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "beIN SPORTS Connect, Fubo, Fanatiz"
-    },
-    {
       "id": "conmebol-suda-202605062000-macara-vs-atletico-tigre",
       "competition": "conmebol-suda",
       "home": "Macará",
@@ -855,12 +221,12 @@
       "channels_raw": "beIN SPORTS Connect, Fubo, Fanatiz"
     },
     {
-      "id": "conmebol-libert-202605062030-independiente-santa-fe-vs-corinthians",
+      "id": "conmebol-libert-202605062030-independiente-rivadavia-vs-fluminense",
       "competition": "conmebol-libert",
-      "home": "Independiente Santa Fe",
-      "away": "Corinthians",
-      "home_slug": "independiente-santa-fe",
-      "away_slug": "corinthians",
+      "home": "Independiente Rivadavia",
+      "away": "Fluminense",
+      "home_slug": "independiente-rivadavia",
+      "away_slug": "fluminense",
       "kickoff_utc": "2026-05-07T00:30:00.000Z",
       "kickoff_et": "2026-05-06T20:30",
       "channels": [
@@ -883,12 +249,12 @@
       "channels_raw": "beIN SPORTS Connect, Fubo, Fanatiz"
     },
     {
-      "id": "conmebol-libert-202605062030-independiente-rivadavia-vs-fluminense",
+      "id": "conmebol-libert-202605062030-independiente-santa-fe-vs-corinthians",
       "competition": "conmebol-libert",
-      "home": "Independiente Rivadavia",
-      "away": "Fluminense",
-      "home_slug": "independiente-rivadavia",
-      "away_slug": "fluminense",
+      "home": "Independiente Santa Fe",
+      "away": "Corinthians",
+      "home_slug": "independiente-santa-fe",
+      "away_slug": "corinthians",
       "kickoff_utc": "2026-05-07T00:30:00.000Z",
       "kickoff_et": "2026-05-06T20:30",
       "channels": [
@@ -987,6 +353,34 @@
       "channels_raw": "FS1, UniMás, TUDN, Fubo, DirecTV Stream, Sling Blue, ViX"
     },
     {
+      "id": "conmebol-libert-202605062200-deportes-tolima-vs-club-nacional-de-football",
+      "competition": "conmebol-libert",
+      "home": "Deportes Tolima",
+      "away": "Club Nacional de Football",
+      "home_slug": "deportes-tolima",
+      "away_slug": "club-nacional-de-football",
+      "kickoff_utc": "2026-05-07T02:00:00.000Z",
+      "kickoff_et": "2026-05-06T22:00",
+      "channels": [
+        {
+          "slug": "bein",
+          "label": "beIN Sports",
+          "tier": 2
+        },
+        {
+          "slug": "fubo",
+          "label": "Fubo",
+          "tier": 3
+        },
+        {
+          "slug": "other:fanatiz",
+          "label": "Fanatiz",
+          "tier": 4
+        }
+      ],
+      "channels_raw": "beIN SPORTS Connect, Fubo, Fanatiz"
+    },
+    {
       "id": "conmebol-libert-202605062200-cd-universidad-catolica-chile-vs-cruzeiro",
       "competition": "conmebol-libert",
       "home": "CD Universidad Católica (Chile)",
@@ -1033,34 +427,6 @@
         }
       ],
       "channels_raw": "beIN SPORTS XTRA, beIN SPORTS XTRA Español, beIN SPORTS Connect, Fubo, Fanatiz, DirecTV Stream, Amazon Prime Video, Tubi, ViX"
-    },
-    {
-      "id": "conmebol-libert-202605062200-deportes-tolima-vs-club-nacional-de-football",
-      "competition": "conmebol-libert",
-      "home": "Deportes Tolima",
-      "away": "Club Nacional de Football",
-      "home_slug": "deportes-tolima",
-      "away_slug": "club-nacional-de-football",
-      "kickoff_utc": "2026-05-07T02:00:00.000Z",
-      "kickoff_et": "2026-05-06T22:00",
-      "channels": [
-        {
-          "slug": "bein",
-          "label": "beIN Sports",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:fanatiz",
-          "label": "Fanatiz",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "beIN SPORTS Connect, Fubo, Fanatiz"
     },
     {
       "id": "conmebol-suda-202605062200-alianza-atletico-vs-america-de-cali",
@@ -1213,34 +579,6 @@
       "channels_raw": "Paramount+, ViX"
     },
     {
-      "id": "conmebol-libert-202605071800-platense-vs-penarol",
-      "competition": "conmebol-libert",
-      "home": "Platense",
-      "away": "Peñarol",
-      "home_slug": "platense",
-      "away_slug": "penarol",
-      "kickoff_utc": "2026-05-07T22:00:00.000Z",
-      "kickoff_et": "2026-05-07T18:00",
-      "channels": [
-        {
-          "slug": "bein",
-          "label": "beIN Sports",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:fanatiz",
-          "label": "Fanatiz",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "beIN SPORTS Connect, Fubo, Fanatiz"
-    },
-    {
       "id": "conmebol-libert-202605071800-mirassol-vs-ldu-quito",
       "competition": "conmebol-libert",
       "home": "Mirassol",
@@ -1267,6 +605,34 @@
         }
       ],
       "channels_raw": "beIN SPORTS, beIN SPORTS en Español, beIN SPORTS Connect, Fubo, Fanatiz"
+    },
+    {
+      "id": "conmebol-libert-202605071800-platense-vs-penarol",
+      "competition": "conmebol-libert",
+      "home": "Platense",
+      "away": "Peñarol",
+      "home_slug": "platense",
+      "away_slug": "penarol",
+      "kickoff_utc": "2026-05-07T22:00:00.000Z",
+      "kickoff_et": "2026-05-07T18:00",
+      "channels": [
+        {
+          "slug": "bein",
+          "label": "beIN Sports",
+          "tier": 2
+        },
+        {
+          "slug": "fubo",
+          "label": "Fubo",
+          "tier": 3
+        },
+        {
+          "slug": "other:fanatiz",
+          "label": "Fanatiz",
+          "tier": 4
+        }
+      ],
+      "channels_raw": "beIN SPORTS Connect, Fubo, Fanatiz"
     },
     {
       "id": "conmebol-suda-202605071800-boston-river-vs-millonarios",
@@ -1633,6 +999,39 @@
         }
       ],
       "channels_raw": "NBCSN, Peacock Premium"
+    },
+    {
+      "id": "eng-champ-202605090730-middlesbrough-vs-southampton",
+      "competition": "eng-champ",
+      "home": "Middlesbrough",
+      "away": "Southampton",
+      "home_slug": "middlesbrough",
+      "away_slug": "southampton",
+      "kickoff_utc": "2026-05-09T11:30:00.000Z",
+      "kickoff_et": "2026-05-09T07:30",
+      "channels": [
+        {
+          "slug": "cbssn",
+          "label": "CBS Sports Net",
+          "tier": 2
+        },
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        },
+        {
+          "slug": "fubo",
+          "label": "Fubo",
+          "tier": 3
+        },
+        {
+          "slug": "other:directv-stream",
+          "label": "DirecTV Stream",
+          "tier": 4
+        }
+      ],
+      "channels_raw": "CBS Sports Network, Paramount+, Fubo, DirecTV Stream"
     },
     {
       "id": "esp-laliga-202605090800-elche-vs-alaves",
@@ -2699,6 +2098,24 @@
       "channels_raw": "ESPN+, ESPN Deportes, Fubo, DirecTV Stream"
     },
     {
+      "id": "por-primeira-202605101300-avs-vs-porto",
+      "competition": "por-primeira",
+      "home": "AVS",
+      "away": "Porto",
+      "home_slug": "avs",
+      "away_slug": "porto",
+      "kickoff_utc": "2026-05-10T17:00:00.000Z",
+      "kickoff_et": "2026-05-10T13:00",
+      "channels": [
+        {
+          "slug": "fubo",
+          "label": "Fubo",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Fubo"
+    },
+    {
       "id": "ger-bundesliga-202605101330-mainz-vs-fc-union-berlin",
       "competition": "ger-bundesliga",
       "home": "Mainz",
@@ -2781,6 +2198,24 @@
         }
       ],
       "channels_raw": "ESPN, ESPN Deportes, ESPN+, Fubo, DirecTV Stream, Sling Orange"
+    },
+    {
+      "id": "por-primeira-202605101530-alverca-vs-estoril",
+      "competition": "por-primeira",
+      "home": "Alverca",
+      "away": "Estoril",
+      "home_slug": "alverca",
+      "away_slug": "estoril",
+      "kickoff_utc": "2026-05-10T19:30:00.000Z",
+      "kickoff_et": "2026-05-10T15:30",
+      "channels": [
+        {
+          "slug": "fubo",
+          "label": "Fubo",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Fubo"
     },
     {
       "id": "usa-mls-202605101630-new-york-city-fc-vs-columbus-crew",
@@ -2870,6 +2305,11 @@
       "kickoff_et": "2026-05-10T21:15",
       "channels": [
         {
+          "slug": "cbs",
+          "label": "CBS",
+          "tier": 1
+        },
+        {
           "slug": "other:univision",
           "label": "Univision",
           "tier": 4
@@ -2878,6 +2318,16 @@
           "slug": "tudn",
           "label": "TUDN",
           "tier": 2
+        },
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        },
+        {
+          "slug": "other:amazon-prime-video",
+          "label": "Amazon Prime Video",
+          "tier": 4
         },
         {
           "slug": "other:directv-stream",
@@ -2890,7 +2340,7 @@
           "tier": 3
         }
       ],
-      "channels_raw": "Univision, TUDN, DirecTV Stream, ViX"
+      "channels_raw": "CBS Sports Golazo Network, Univision, TUDN, Paramount+, Amazon Prime Video, DirecTV Stream, ViX"
     },
     {
       "id": "ita-seriea-202605111445-napoli-vs-bologna",
@@ -3003,6 +2453,24 @@
         }
       ],
       "channels_raw": "Paramount+"
+    },
+    {
+      "id": "por-primeira-202605111515-benfica-vs-braga",
+      "competition": "por-primeira",
+      "home": "Benfica",
+      "away": "Braga",
+      "home_slug": "benfica",
+      "away_slug": "braga",
+      "kickoff_utc": "2026-05-11T19:15:00.000Z",
+      "kickoff_et": "2026-05-11T15:15",
+      "channels": [
+        {
+          "slug": "fubo",
+          "label": "Fubo",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Fubo"
     },
     {
       "id": "esp-laliga-202605121300-celta-vigo-vs-levante",
@@ -3626,39 +3094,6 @@
         }
       ],
       "channels_raw": "ESPN+, ESPN Deportes, Fubo, DirecTV Stream"
-    },
-    {
-      "id": "eng-champ-202605160730-middlesbrough-vs-southampton",
-      "competition": "eng-champ",
-      "home": "Middlesbrough",
-      "away": "Southampton",
-      "home_slug": "middlesbrough",
-      "away_slug": "southampton",
-      "kickoff_utc": "2026-05-16T11:30:00.000Z",
-      "kickoff_et": "2026-05-16T07:30",
-      "channels": [
-        {
-          "slug": "cbssn",
-          "label": "CBS Sports Net",
-          "tier": 2
-        },
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "CBS Sports Network, Paramount+, Fubo, DirecTV Stream"
     },
     {
       "id": "ger-bundesliga-202605160930-fc-heidenheim-1846-vs-mainz",
@@ -4443,14 +3878,62 @@
         }
       ],
       "channels_raw": "FOX, FOX Deportes, Apple TV, Fubo, DirecTV Stream, Sling Blue"
+    },
+    {
+      "id": "uefa-ucl-202605301200-paris-saint-germain-vs-arsenal",
+      "competition": "uefa-ucl",
+      "home": "Paris Saint-Germain",
+      "away": "Arsenal",
+      "home_slug": "paris-saint-germain",
+      "away_slug": "arsenal",
+      "kickoff_utc": "2026-05-30T16:00:00.000Z",
+      "kickoff_et": "2026-05-30T12:00",
+      "channels": [
+        {
+          "slug": "cbs",
+          "label": "CBS",
+          "tier": 1
+        },
+        {
+          "slug": "tudn",
+          "label": "TUDN",
+          "tier": 2
+        },
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        },
+        {
+          "slug": "fubo",
+          "label": "Fubo",
+          "tier": 3
+        },
+        {
+          "slug": "other:directv-stream",
+          "label": "DirecTV Stream",
+          "tier": 4
+        },
+        {
+          "slug": "other:hulu-live-tv",
+          "label": "Hulu + Live TV",
+          "tier": 4
+        },
+        {
+          "slug": "vix",
+          "label": "ViX",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "CBS, TUDN, Paramount+, Fubo, DirecTV Stream, Hulu + Live TV, ViX"
     }
   ],
   "teams_meta": {
-    "resolved_count": 188,
-    "missing_count": 0
+    "resolved_count": 162,
+    "missing_count": 1
   },
   "comps_meta": {
-    "resolved_count": 21,
-    "missing_count": 2
+    "resolved_count": 23,
+    "missing_count": 0
   }
 }
