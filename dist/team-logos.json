@@ -27,6 +27,13 @@
     "source": "https://upload.wikimedia.org/wikipedia/en/e/eb/Alianza_Atl%C3%A9tico.png",
     "fetched_at": "2026-05-05T20:38:08.223Z"
   },
+  "alianza-lima": {
+    "name": "Alianza Lima",
+    "title": "Alianza Lima",
+    "missing": true,
+    "last_tried": "2026-05-15T12:29:03.125Z",
+    "error": "Request failed with status code 400"
+  },
   "alverca": {
     "name": "Alverca",
     "title": "F.C. Alverca",
