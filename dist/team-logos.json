@@ -1166,6 +1166,13 @@
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/SC_Freiburg_logo.svg/256px-SC_Freiburg_logo.svg.png",
     "fetched_at": "2026-05-05T20:38:10.491Z"
   },
+  "sc-paderborn": {
+    "name": "SC Paderborn",
+    "title": "SC Paderborn 07",
+    "missing": true,
+    "last_tried": "2026-05-21T14:02:01.267Z",
+    "error": "Request failed with status code 400"
+  },
   "seattle-sounders-fc": {
     "name": "Seattle Sounders FC",
     "title": "Seattle Sounders FC",
