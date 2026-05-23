@@ -648,6 +648,13 @@
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Hull_City_A.F.C._logo.svg/256px-Hull_City_A.F.C._logo.svg.png",
     "fetched_at": "2026-05-05T21:48:01.815Z"
   },
+  "independiente": {
+    "name": "Independiente",
+    "title": "Club Atlético Independiente",
+    "missing": true,
+    "last_tried": "2026-05-23T11:57:13.333Z",
+    "error": "Request failed with status code 400"
+  },
   "independiente-del-valle": {
     "name": "Independiente del Valle",
     "title": "Independiente del Valle",
@@ -1284,6 +1291,13 @@
     "file": "teams/udinese.png",
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Udinese_Calcio_logo.svg/256px-Udinese_Calcio_logo.svg.png",
     "fetched_at": "2026-05-05T21:48:12.112Z"
+  },
+  "universidad-catolica-del-ecuador": {
+    "name": "Universidad Católica del Ecuador",
+    "title": "C.D. Universidad Católica (Ecuador)",
+    "missing": true,
+    "last_tried": "2026-05-23T11:57:14.220Z",
+    "error": "Request failed with status code 400"
   },
   "universidad-central": {
     "name": "Universidad Central",
