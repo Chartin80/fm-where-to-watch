@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T13:54:51.191Z",
+  "generated_at": "2026-05-31T12:07:12.201Z",
   "source": "worldsoccertalk.com",
   "partial": false,
   "errors": [],
@@ -144,196 +144,6 @@
     }
   ],
   "matches": [
-    {
-      "id": "conmebol-libert-202605282030-boca-juniors-vs-universidad-catolica-del-ecuador",
-      "competition": "conmebol-libert",
-      "home": "Boca Juniors",
-      "away": "Universidad Católica del Ecuador",
-      "home_slug": "boca-juniors",
-      "away_slug": "universidad-catolica-del-ecuador",
-      "kickoff_utc": "2026-05-29T00:30:00.000Z",
-      "kickoff_et": "2026-05-28T20:30",
-      "channels": [
-        {
-          "slug": "bein",
-          "label": "beIN Sports",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:fanatiz",
-          "label": "Fanatiz",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "beIN SPORTS, beIN SPORTS en Español, beIN SPORTS Connect, Fubo, Fanatiz"
-    },
-    {
-      "id": "conmebol-libert-202605282030-cruzeiro-vs-barcelona-sc",
-      "competition": "conmebol-libert",
-      "home": "Cruzeiro",
-      "away": "Barcelona SC",
-      "home_slug": "cruzeiro",
-      "away_slug": "barcelona-sc",
-      "kickoff_utc": "2026-05-29T00:30:00.000Z",
-      "kickoff_et": "2026-05-28T20:30",
-      "channels": [
-        {
-          "slug": "bein",
-          "label": "beIN Sports",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:fanatiz",
-          "label": "Fanatiz",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "beIN SPORTS Connect, Fubo, Fanatiz"
-    },
-    {
-      "id": "conmebol-suda-202605282030-america-de-cali-vs-macara",
-      "competition": "conmebol-suda",
-      "home": "América de Cali",
-      "away": "Macará",
-      "home_slug": "america-de-cali",
-      "away_slug": "macara",
-      "kickoff_utc": "2026-05-29T00:30:00.000Z",
-      "kickoff_et": "2026-05-28T20:30",
-      "channels": [
-        {
-          "slug": "bein",
-          "label": "beIN Sports",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:fanatiz",
-          "label": "Fanatiz",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "beIN SPORTS Connect, Fubo, Fanatiz"
-    },
-    {
-      "id": "conmebol-suda-202605282030-atletico-tigre-vs-alianza-atletico",
-      "competition": "conmebol-suda",
-      "home": "Atlético Tigre",
-      "away": "Alianza Atlético",
-      "home_slug": "atletico-tigre",
-      "away_slug": "alianza-atletico",
-      "kickoff_utc": "2026-05-29T00:30:00.000Z",
-      "kickoff_et": "2026-05-28T20:30",
-      "channels": [
-        {
-          "slug": "bein",
-          "label": "beIN Sports",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:fanatiz",
-          "label": "Fanatiz",
-          "tier": 4
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
-        },
-        {
-          "slug": "other:amazon-prime-video",
-          "label": "Amazon Prime Video",
-          "tier": 4
-        },
-        {
-          "slug": "other:tubi",
-          "label": "Tubi",
-          "tier": 4
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "beIN SPORTS XTRA, beIN SPORTS XTRA Español, beIN SPORTS Connect, Fubo, Fanatiz, DirecTV Stream, Amazon Prime Video, Tubi, ViX"
-    },
-    {
-      "id": "uefa-ucl-202605301200-paris-saint-germain-vs-arsenal",
-      "competition": "uefa-ucl",
-      "home": "Paris Saint-Germain",
-      "away": "Arsenal",
-      "home_slug": "paris-saint-germain",
-      "away_slug": "arsenal",
-      "kickoff_utc": "2026-05-30T16:00:00.000Z",
-      "kickoff_et": "2026-05-30T12:00",
-      "channels": [
-        {
-          "slug": "cbs",
-          "label": "CBS",
-          "tier": 1
-        },
-        {
-          "slug": "other:univision",
-          "label": "Univision",
-          "tier": 4
-        },
-        {
-          "slug": "tudn",
-          "label": "TUDN",
-          "tier": 2
-        },
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
-        },
-        {
-          "slug": "other:hulu-live-tv",
-          "label": "Hulu + Live TV",
-          "tier": 4
-        },
-        {
-          "slug": "other:dazn",
-          "label": "DAZN",
-          "tier": 4
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "CBS, Univision, TUDN, Paramount+, Fubo, DirecTV Stream, Hulu + Live TV, DAZN, ViX"
-    },
     {
       "id": "concacaf-cc-202605302000-toluca-vs-tigres-uanl",
       "competition": "concacaf-cc",
@@ -542,8 +352,8 @@
     }
   ],
   "teams_meta": {
-    "resolved_count": 23,
-    "missing_count": 1
+    "resolved_count": 14,
+    "missing_count": 0
   },
   "comps_meta": {
     "resolved_count": 23,
