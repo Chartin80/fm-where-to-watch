@@ -585,6 +585,13 @@
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fluminense_Football_Club.svg/256px-Fluminense_Football_Club.svg.png",
     "fetched_at": "2026-05-05T20:37:56.020Z"
   },
+  "frosinone-calcio": {
+    "name": "Frosinone Calcio",
+    "title": "Frosinone Calcio",
+    "missing": true,
+    "last_tried": "2026-06-29T14:45:00.285Z",
+    "error": "Request failed with status code 400"
+  },
   "fulham": {
     "name": "Fulham",
     "title": "Fulham F.C.",
@@ -878,6 +885,13 @@
     "file": "teams/montreal.png",
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Logo_of_CF_Montreal_2023.svg/256px-Logo_of_CF_Montreal_2023.svg.png",
     "fetched_at": "2026-05-05T21:58:05.789Z"
+  },
+  "monza": {
+    "name": "Monza",
+    "title": "AC Monza",
+    "missing": true,
+    "last_tried": "2026-06-29T14:44:59.478Z",
+    "error": "Request failed with status code 400"
   },
   "napoli": {
     "name": "Napoli",
@@ -1333,6 +1347,13 @@
     "file": "teams/vasco-da-gama.png",
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Club_de_Regatas_Vasco_da_Gama_logo_%282021%29.svg/256px-Club_de_Regatas_Vasco_da_Gama_logo_%282021%29.svg.png",
     "fetched_at": "2026-05-05T20:37:40.718Z"
+  },
+  "venezia": {
+    "name": "Venezia",
+    "title": "Venezia FC",
+    "missing": true,
+    "last_tried": "2026-06-29T14:45:01.092Z",
+    "error": "Request failed with status code 400"
   },
   "vfb-stuttgart": {
     "name": "VfB Stuttgart",
