@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T12:53:01.631Z",
+  "generated_at": "2026-07-05T12:11:13.753Z",
   "source": "worldsoccertalk.com",
   "partial": false,
   "errors": [],
@@ -1133,10 +1133,28 @@
         }
       ],
       "channels_raw": "Paramount+"
+    },
+    {
+      "id": "ger-bundesliga-202608281430-bayern-munich-vs-vfb-stuttgart",
+      "competition": "ger-bundesliga",
+      "home": "Bayern Munich",
+      "away": "VfB Stuttgart",
+      "home_slug": "bayern-munich",
+      "away_slug": "vfb-stuttgart",
+      "kickoff_utc": "2026-08-28T18:30:00.000Z",
+      "kickoff_et": "2026-08-28T14:30",
+      "channels": [
+        {
+          "slug": "espn-plus",
+          "label": "ESPN+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "ESPN+"
     }
   ],
   "teams_meta": {
-    "resolved_count": 47,
+    "resolved_count": 49,
     "missing_count": 3
   },
   "comps_meta": {
