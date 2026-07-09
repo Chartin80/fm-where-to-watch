@@ -508,6 +508,13 @@
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Estudiantes_de_la_Plata_crest_%282025%29.svg/256px-Estudiantes_de_la_Plata_crest_%282025%29.svg.png",
     "fetched_at": "2026-05-05T20:37:35.457Z"
   },
+  "eto-fc": {
+    "name": "ETO FC",
+    "title": "Győri ETO FC",
+    "file": "teams/eto-fc.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/d/de/ETO_FC_Gy%C5%91r.png",
+    "fetched_at": "2026-07-09T13:44:42.289Z"
+  },
   "everton": {
     "name": "Everton",
     "title": "Everton F.C.",
@@ -1368,6 +1375,13 @@
     "file": "teams/vfl-wolfsburg.png",
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/VfL_Wolfsburg_Logo.svg/256px-VfL_Wolfsburg_Logo.svg.png",
     "fetched_at": "2026-05-05T21:48:44.814Z"
+  },
+  "vikingur": {
+    "name": "Vikingur",
+    "title": "Club de Ciervos FC",
+    "file": "teams/vikingur.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_for_Chalco.png",
+    "fetched_at": "2026-07-09T13:44:47.533Z"
   },
   "villarreal": {
     "name": "Villarreal",
