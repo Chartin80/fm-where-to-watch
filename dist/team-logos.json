@@ -104,6 +104,13 @@
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Atlanta_MLS.svg/256px-Atlanta_MLS.svg.png",
     "fetched_at": "2026-05-05T21:49:00.411Z"
   },
+  "atlante-fc": {
+    "name": "Atlante FC",
+    "title": "Atlante F.C.",
+    "missing": true,
+    "last_tried": "2026-07-15T12:11:02.908Z",
+    "error": "Request failed with status code 400"
+  },
   "atlas": {
     "name": "Atlas",
     "title": "Atlas F.C.",
@@ -124,6 +131,13 @@
     "file": "teams/atletico-mineiro.png",
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Logo_of_Clube_Atl%C3%A9tico_Mineiro.svg/256px-Logo_of_Clube_Atl%C3%A9tico_Mineiro.svg.png",
     "fetched_at": "2026-05-05T20:37:07.358Z"
+  },
+  "atletico-san-luis": {
+    "name": "Atlético San Luis",
+    "title": "Atlético San Luis",
+    "missing": true,
+    "last_tried": "2026-07-15T12:11:05.421Z",
+    "error": "Request failed with status code 400"
   },
   "atletico-tigre": {
     "name": "Atlético Tigre",
@@ -550,6 +564,13 @@
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/1._FC_Heidenheim_1846.svg/256px-1._FC_Heidenheim_1846.svg.png",
     "fetched_at": "2026-05-05T21:49:57.930Z"
   },
+  "fc-juarez": {
+    "name": "FC Juarez",
+    "title": "FC Juárez",
+    "missing": true,
+    "last_tried": "2026-07-15T12:11:06.228Z",
+    "error": "Request failed with status code 400"
+  },
   "fc-koln": {
     "name": "FC Köln",
     "title": "1. FC Köln",
@@ -788,6 +809,13 @@
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/256px-Leeds_United_F.C._logo.svg.png",
     "fetched_at": "2026-05-05T21:50:30.679Z"
   },
+  "leon": {
+    "name": "León",
+    "title": "Club León",
+    "missing": true,
+    "last_tried": "2026-07-15T12:11:04.611Z",
+    "error": "Request failed with status code 400"
+  },
   "levante": {
     "name": "Levante",
     "title": "Levante UD",
@@ -879,6 +907,13 @@
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mirassol_FC_logo.png/256px-Mirassol_FC_logo.png",
     "fetched_at": "2026-05-05T21:56:20.787Z"
   },
+  "monterrey": {
+    "name": "Monterrey",
+    "title": "C.F. Monterrey",
+    "missing": true,
+    "last_tried": "2026-07-15T12:11:07.987Z",
+    "error": "Request failed with status code 400"
+  },
   "montevideo-city-torque": {
     "name": "Montevideo City Torque",
     "title": "Montevideo City Torque",
@@ -913,6 +948,13 @@
     "file": "teams/nashville-sc.png",
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Nashville_SC_logo%2C_2020.svg/256px-Nashville_SC_logo%2C_2020.svg.png",
     "fetched_at": "2026-05-05T20:37:28.596Z"
+  },
+  "necaxa": {
+    "name": "Necaxa",
+    "title": "Club Necaxa",
+    "missing": true,
+    "last_tried": "2026-07-15T12:11:02.100Z",
+    "error": "Request failed with status code 400"
   },
   "new-england-revolution": {
     "name": "New England Revolution",
@@ -1054,6 +1096,13 @@
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/FC_Porto.svg/256px-FC_Porto.svg.png",
     "fetched_at": "2026-05-07T12:26:58.810Z"
   },
+  "puebla": {
+    "name": "Puebla",
+    "title": "Club Puebla",
+    "missing": true,
+    "last_tried": "2026-07-15T12:11:07.044Z",
+    "error": "Request failed with status code 400"
+  },
   "puerto-cabello": {
     "name": "Puerto Cabello",
     "title": "Academia Puerto Cabello",
@@ -1067,6 +1116,13 @@
     "file": "teams/pumas-unam.png",
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Club_Universidad_Nacional_logo.svg/256px-Club_Universidad_Nacional_logo.svg.png",
     "fetched_at": "2026-05-05T21:50:23.611Z"
+  },
+  "queretaro": {
+    "name": "Querétaro",
+    "title": "Querétaro F.C.",
+    "missing": true,
+    "last_tried": "2026-07-15T12:11:09.601Z",
+    "error": "Request failed with status code 400"
   },
   "racing-club": {
     "name": "Racing Club",
@@ -1173,6 +1229,13 @@
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Santos_Futebol_Clube_logo_%28with_stars_and_crown%29.png/256px-Santos_Futebol_Clube_logo_%28with_stars_and_crown%29.png",
     "fetched_at": "2026-05-05T20:37:23.440Z"
   },
+  "santos-laguna": {
+    "name": "Santos Laguna",
+    "title": "Santos Laguna",
+    "missing": true,
+    "last_tried": "2026-07-15T12:11:08.793Z",
+    "error": "Request failed with status code 400"
+  },
   "sao-paulo": {
     "name": "São Paulo",
     "title": "São Paulo FC",
@@ -1270,6 +1333,13 @@
     "file": "teams/tigres-uanl.png",
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Tigres_UANL_logo_%28crest%29.svg/256px-Tigres_UANL_logo_%28crest%29.svg.png",
     "fetched_at": "2026-05-05T20:37:27.199Z"
+  },
+  "tijuana": {
+    "name": "Tijuana",
+    "title": "Club Tijuana",
+    "missing": true,
+    "last_tried": "2026-07-15T12:11:03.717Z",
+    "error": "Request failed with status code 400"
   },
   "toluca": {
     "name": "Toluca",
