@@ -536,6 +536,13 @@
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Everton_FC_logo.svg/256px-Everton_FC_logo.svg.png",
     "fetched_at": "2026-05-05T21:49:42.243Z"
   },
+  "fc-ararat-armenia": {
+    "name": "FC Ararat-Armenia",
+    "title": "FC Ararat-Armenia",
+    "missing": true,
+    "last_tried": "2026-07-19T11:51:10.088Z",
+    "error": "Request failed with status code 400"
+  },
   "fc-augsburg": {
     "name": "FC Augsburg",
     "title": "FC Augsburg",
@@ -655,12 +662,26 @@
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gremio_logo.svg/256px-Gremio_logo.svg.png",
     "fetched_at": "2026-05-05T20:37:09.720Z"
   },
+  "hajduk-split": {
+    "name": "Hajduk Split",
+    "title": "HNK Hajduk Split",
+    "missing": true,
+    "last_tried": "2026-07-19T11:51:18.987Z",
+    "error": "Request failed with status code 400"
+  },
   "hamburger-sv": {
     "name": "Hamburger SV",
     "title": "Hamburger SV",
     "file": "teams/hamburger-sv.png",
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hamburger_SV_logo.svg/256px-Hamburger_SV_logo.svg.png",
     "fetched_at": "2026-05-05T21:49:50.539Z"
+  },
+  "hearts": {
+    "name": "Hearts",
+    "title": "Heart of Midlothian F.C.",
+    "missing": true,
+    "last_tried": "2026-07-19T11:51:13.187Z",
+    "error": "Request failed with status code 400"
   },
   "hellas-verona": {
     "name": "Hellas Verona",
@@ -1026,6 +1047,20 @@
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Pachuca_Tuzos_logo.svg/256px-Pachuca_Tuzos_logo.svg.png",
     "fetched_at": "2026-05-05T21:50:20.104Z"
   },
+  "pafos-fc": {
+    "name": "Pafos FC",
+    "title": "Pafos FC",
+    "missing": true,
+    "last_tried": "2026-07-19T11:51:19.768Z",
+    "error": "Request failed with status code 400"
+  },
+  "paks": {
+    "name": "Paks",
+    "title": "Paris FC",
+    "missing": true,
+    "last_tried": "2026-07-19T11:51:17.429Z",
+    "error": "Request failed with status code 400"
+  },
   "palestino": {
     "name": "Palestino",
     "title": "Palestino F.C.",
@@ -1039,6 +1074,13 @@
     "file": "teams/palmeiras.png",
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/SE_Palmeiras_2025_crest.png/256px-SE_Palmeiras_2025_crest.png",
     "fetched_at": "2026-05-05T20:37:04.979Z"
+  },
+  "panathinaikos-f-c": {
+    "name": "Panathinaikos F.C.",
+    "title": "Panathinaikos F.C.",
+    "missing": true,
+    "last_tried": "2026-07-19T11:51:18.200Z",
+    "error": "Request failed with status code 400"
   },
   "paris-saint-germain": {
     "name": "Paris Saint-Germain",
@@ -1284,6 +1326,20 @@
     "file": "teams/shakhtar-donetsk.png",
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/FC_Shakhtar_Donetsk.svg/256px-FC_Shakhtar_Donetsk.svg.png",
     "fetched_at": "2026-05-05T20:38:19.180Z"
+  },
+  "shamrock-rovers": {
+    "name": "Shamrock Rovers",
+    "title": "Shamrock Rovers F.C.",
+    "missing": true,
+    "last_tried": "2026-07-19T11:51:10.862Z",
+    "error": "Request failed with status code 400"
+  },
+  "sk-sturm-graz": {
+    "name": "SK Sturm Graz",
+    "title": "SK Sturm Graz",
+    "missing": true,
+    "last_tried": "2026-07-19T11:51:11.628Z",
+    "error": "Request failed with status code 400"
   },
   "southampton": {
     "name": "Southampton",
