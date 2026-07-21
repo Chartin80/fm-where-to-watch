@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T11:51:19.771Z",
+  "generated_at": "2026-07-21T12:20:44.998Z",
   "source": "worldsoccertalk.com",
   "partial": false,
   "errors": [],
@@ -144,125 +144,6 @@
     }
   ],
   "matches": [
-    {
-      "id": "mex-ligamx-202607182105-chivas-de-guadalajara-vs-toluca",
-      "competition": "mex-ligamx",
-      "home": "Chivas de Guadalajara",
-      "away": "Toluca",
-      "home_slug": "chivas-de-guadalajara",
-      "away_slug": "toluca",
-      "kickoff_utc": "2026-07-19T01:05:00.000Z",
-      "kickoff_et": "2026-07-18T21:05",
-      "channels": [
-        {
-          "slug": "telemundo",
-          "label": "Telemundo",
-          "tier": 2
-        },
-        {
-          "slug": "other:universo",
-          "label": "Universo",
-          "tier": 4
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
-        },
-        {
-          "slug": "other:hulu-live-tv",
-          "label": "Hulu + Live TV",
-          "tier": 4
-        },
-        {
-          "slug": "peacock",
-          "label": "Peacock",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Telemundo, Universo, Fubo, DirecTV Stream, Hulu + Live TV, Peacock Premium"
-    },
-    {
-      "id": "mex-ligamx-202607182105-monterrey-vs-santos-laguna",
-      "competition": "mex-ligamx",
-      "home": "Monterrey",
-      "away": "Santos Laguna",
-      "home_slug": "monterrey",
-      "away_slug": "santos-laguna",
-      "kickoff_utc": "2026-07-19T01:05:00.000Z",
-      "kickoff_et": "2026-07-18T21:05",
-      "channels": [
-        {
-          "slug": "other:univision",
-          "label": "Univision",
-          "tier": 4
-        },
-        {
-          "slug": "tudn",
-          "label": "TUDN",
-          "tier": 2
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
-        },
-        {
-          "slug": "other:hulu-live-tv",
-          "label": "Hulu + Live TV",
-          "tier": 4
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Univision, TUDN, DirecTV Stream, Hulu + Live TV, ViX"
-    },
-    {
-      "id": "mex-ligamx-202607182310-queretaro-vs-america",
-      "competition": "mex-ligamx",
-      "home": "Querétaro",
-      "away": "América",
-      "home_slug": "queretaro",
-      "away_slug": "america",
-      "kickoff_utc": "2026-07-19T03:10:00.000Z",
-      "kickoff_et": "2026-07-18T23:10",
-      "channels": [
-        {
-          "slug": "other:univision",
-          "label": "Univision",
-          "tier": 4
-        },
-        {
-          "slug": "tudn",
-          "label": "TUDN",
-          "tier": 2
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
-        },
-        {
-          "slug": "other:hulu-live-tv",
-          "label": "Hulu + Live TV",
-          "tier": 4
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Univision, TUDN, DirecTV Stream, Hulu + Live TV, ViX"
-    },
     {
       "id": "uefa-ucl-202607211200-fc-ararat-armenia-vs-shamrock-rovers",
       "competition": "uefa-ucl",
@@ -933,6 +814,57 @@
       "channels_raw": "beIN SPORTS Connect, Fubo, Fanatiz"
     },
     {
+      "id": "mex-ligamx-202607242300-atlante-fc-vs-america",
+      "competition": "mex-ligamx",
+      "home": "Atlante FC",
+      "away": "América",
+      "home_slug": "atlante-fc",
+      "away_slug": "america",
+      "kickoff_utc": "2026-07-25T03:00:00.000Z",
+      "kickoff_et": "2026-07-24T23:00",
+      "channels": [
+        {
+          "slug": "tudn",
+          "label": "TUDN",
+          "tier": 2
+        },
+        {
+          "slug": "other:directv-stream",
+          "label": "DirecTV Stream",
+          "tier": 4
+        },
+        {
+          "slug": "other:hulu-live-tv",
+          "label": "Hulu + Live TV",
+          "tier": 4
+        },
+        {
+          "slug": "vix",
+          "label": "ViX",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "TUDN, DirecTV Stream, Hulu + Live TV, ViX"
+    },
+    {
+      "id": "mex-ligamx-202607242300-tijuana-vs-leon",
+      "competition": "mex-ligamx",
+      "home": "Tijuana",
+      "away": "León",
+      "home_slug": "tijuana",
+      "away_slug": "leon",
+      "kickoff_utc": "2026-07-25T03:00:00.000Z",
+      "kickoff_et": "2026-07-24T23:00",
+      "channels": [
+        {
+          "slug": "vix",
+          "label": "ViX",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "ViX"
+    },
+    {
       "id": "usa-mls-202607251830-new-york-red-bulls-vs-charlotte-fc",
       "competition": "usa-mls",
       "home": "New York Red Bulls",
@@ -997,6 +929,49 @@
         }
       ],
       "channels_raw": "FS1, FOX Deportes, Apple TV, Fubo, DirecTV Stream, Sling Blue, Hulu + Live TV"
+    },
+    {
+      "id": "mex-ligamx-202607251905-chivas-de-guadalajara-vs-fc-juarez",
+      "competition": "mex-ligamx",
+      "home": "Chivas de Guadalajara",
+      "away": "FC Juarez",
+      "home_slug": "chivas-de-guadalajara",
+      "away_slug": "fc-juarez",
+      "kickoff_utc": "2026-07-25T23:05:00.000Z",
+      "kickoff_et": "2026-07-25T19:05",
+      "channels": [
+        {
+          "slug": "telemundo",
+          "label": "Telemundo",
+          "tier": 2
+        },
+        {
+          "slug": "other:universo",
+          "label": "Universo",
+          "tier": 4
+        },
+        {
+          "slug": "fubo",
+          "label": "Fubo",
+          "tier": 3
+        },
+        {
+          "slug": "other:directv-stream",
+          "label": "DirecTV Stream",
+          "tier": 4
+        },
+        {
+          "slug": "other:hulu-live-tv",
+          "label": "Hulu + Live TV",
+          "tier": 4
+        },
+        {
+          "slug": "peacock",
+          "label": "Peacock",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Telemundo, Universo, Fubo, DirecTV Stream, Hulu + Live TV, Peacock Premium"
     },
     {
       "id": "usa-mls-202607251930-new-england-revolution-vs-atlanta-united-fc",
@@ -1243,6 +1218,141 @@
         }
       ],
       "channels_raw": "Apple TV"
+    },
+    {
+      "id": "mex-ligamx-202607252300-tigres-uanl-vs-atletico-san-luis",
+      "competition": "mex-ligamx",
+      "home": "Tigres UANL",
+      "away": "Atlético San Luis",
+      "home_slug": "tigres-uanl",
+      "away_slug": "atletico-san-luis",
+      "kickoff_utc": "2026-07-26T03:00:00.000Z",
+      "kickoff_et": "2026-07-25T23:00",
+      "channels": [
+        {
+          "slug": "fox-deportes",
+          "label": "Fox Deportes",
+          "tier": 2
+        },
+        {
+          "slug": "telemundo",
+          "label": "Telemundo",
+          "tier": 2
+        },
+        {
+          "slug": "fubo",
+          "label": "Fubo",
+          "tier": 3
+        },
+        {
+          "slug": "other:directv-stream",
+          "label": "DirecTV Stream",
+          "tier": 4
+        },
+        {
+          "slug": "other:hulu-live-tv",
+          "label": "Hulu + Live TV",
+          "tier": 4
+        },
+        {
+          "slug": "peacock",
+          "label": "Peacock",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "FOX Deportes, Telemundo, Fubo, DirecTV Stream, Hulu + Live TV, Peacock Premium"
+    },
+    {
+      "id": "mex-ligamx-202607252300-santos-laguna-vs-atlas",
+      "competition": "mex-ligamx",
+      "home": "Santos Laguna",
+      "away": "Atlas",
+      "home_slug": "santos-laguna",
+      "away_slug": "atlas",
+      "kickoff_utc": "2026-07-26T03:00:00.000Z",
+      "kickoff_et": "2026-07-25T23:00",
+      "channels": [
+        {
+          "slug": "vix",
+          "label": "ViX",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "ViX"
+    },
+    {
+      "id": "mex-ligamx-202607261900-necaxa-vs-monterrey",
+      "competition": "mex-ligamx",
+      "home": "Necaxa",
+      "away": "Monterrey",
+      "home_slug": "necaxa",
+      "away_slug": "monterrey",
+      "kickoff_utc": "2026-07-26T23:00:00.000Z",
+      "kickoff_et": "2026-07-26T19:00",
+      "channels": [
+        {
+          "slug": "fox-deportes",
+          "label": "Fox Deportes",
+          "tier": 2
+        },
+        {
+          "slug": "fubo",
+          "label": "Fubo",
+          "tier": 3
+        },
+        {
+          "slug": "other:directv-stream",
+          "label": "DirecTV Stream",
+          "tier": 4
+        }
+      ],
+      "channels_raw": "FOX Deportes, Fubo, DirecTV Stream"
+    },
+    {
+      "id": "mex-ligamx-202607262100-pachuca-vs-queretaro",
+      "competition": "mex-ligamx",
+      "home": "Pachuca",
+      "away": "Querétaro",
+      "home_slug": "pachuca",
+      "away_slug": "queretaro",
+      "kickoff_utc": "2026-07-27T01:00:00.000Z",
+      "kickoff_et": "2026-07-26T21:00",
+      "channels": [
+        {
+          "slug": "tudn",
+          "label": "TUDN",
+          "tier": 2
+        },
+        {
+          "slug": "other:directv-stream",
+          "label": "DirecTV Stream",
+          "tier": 4
+        },
+        {
+          "slug": "other:hulu-live-tv",
+          "label": "Hulu + Live TV",
+          "tier": 4
+        }
+      ],
+      "channels_raw": "TUDN, DirecTV Stream, Hulu + Live TV"
+    },
+    {
+      "id": "uefa-ucl-202607281445-hearts-vs-sk-sturm-graz",
+      "competition": "uefa-ucl",
+      "home": "Hearts",
+      "away": "SK Sturm Graz",
+      "home_slug": "hearts",
+      "away_slug": "sk-sturm-graz",
+      "kickoff_utc": "2026-07-28T18:45:00.000Z",
+      "kickoff_et": "2026-07-28T14:45",
+      "channels": [
+        {
+          "slug": "espn-plus",
+          "label": "ESPN+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "ESPN+"
     },
     {
       "id": "usa-mls-202607311930-new-york-city-fc-vs-toronto-fc",
@@ -2896,8 +3006,8 @@
     }
   ],
   "teams_meta": {
-    "resolved_count": 70,
-    "missing_count": 15
+    "resolved_count": 73,
+    "missing_count": 21
   },
   "comps_meta": {
     "resolved_count": 23,
