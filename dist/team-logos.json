@@ -209,6 +209,13 @@
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/SL_Benfica_logo.svg/256px-SL_Benfica_logo.svg.png",
     "fetched_at": "2026-05-07T12:27:06.646Z"
   },
+  "besiktas": {
+    "name": "Beşiktaş",
+    "title": "Beşiktaş J.K.",
+    "missing": true,
+    "last_tried": "2026-07-23T12:20:26.574Z",
+    "error": "Request failed with status code 400"
+  },
   "boca-juniors": {
     "name": "Boca Juniors",
     "title": "Boca Juniors",
@@ -426,6 +433,13 @@
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Sport_Club_Corinthians_Paulista_crest.svg/256px-Sport_Club_Corinthians_Paulista_crest.svg.png",
     "fetched_at": "2026-05-05T20:37:53.476Z"
   },
+  "coventry-city": {
+    "name": "Coventry City",
+    "title": "Coventry City F.C.",
+    "missing": true,
+    "last_tried": "2026-07-23T12:20:29.639Z",
+    "error": "Request failed with status code 400"
+  },
   "cremonese": {
     "name": "Cremonese",
     "title": "US Cremonese",
@@ -474,6 +488,13 @@
     "file": "teams/deportes-tolima.png",
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Tolima_Campe%C3%B3n_2018.png/256px-Tolima_Campe%C3%B3n_2018.png",
     "fetched_at": "2026-05-05T20:38:05.872Z"
+  },
+  "deportivo-la-coruna": {
+    "name": "Deportivo La Coruña",
+    "title": "Deportivo de A Coruña",
+    "missing": true,
+    "last_tried": "2026-07-23T12:20:28.106Z",
+    "error": "Request failed with status code 400"
   },
   "deportivo-la-guaira": {
     "name": "Deportivo la Guaira",
@@ -557,6 +578,13 @@
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/FC_Cincinnati_primary_logo_2018.svg/256px-FC_Cincinnati_primary_logo_2018.svg.png",
     "fetched_at": "2026-05-05T21:49:09.112Z"
   },
+  "fc-copenhagen": {
+    "name": "FC Copenhagen",
+    "title": "F.C. Copenhagen",
+    "missing": true,
+    "last_tried": "2026-07-23T12:20:21.924Z",
+    "error": "Request failed with status code 400"
+  },
   "fc-dallas": {
     "name": "FC Dallas",
     "title": "FC Dallas",
@@ -584,6 +612,13 @@
     "file": "teams/fc-koln.png",
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg/256px-1._FC_Koeln_Logo_2014%E2%80%93.svg.png",
     "fetched_at": "2026-05-05T21:49:56.216Z"
+  },
+  "fc-midtjylland": {
+    "name": "FC Midtjylland",
+    "title": "FC Midtjylland",
+    "missing": true,
+    "last_tried": "2026-07-23T12:20:23.865Z",
+    "error": "Request failed with status code 400"
   },
   "fc-st-pauli": {
     "name": "FC St. Pauli",
@@ -760,6 +795,13 @@
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/256px-FC_Internazionale_Milano_2021.svg.png",
     "fetched_at": "2026-05-05T21:48:38.553Z"
   },
+  "ipswich-town": {
+    "name": "Ipswich Town",
+    "title": "Ipswich Town F.C.",
+    "missing": true,
+    "last_tried": "2026-07-23T12:20:30.407Z",
+    "error": "Request failed with status code 400"
+  },
   "junior": {
     "name": "Junior",
     "title": "Atlético Junior",
@@ -871,6 +913,13 @@
     "file": "teams/mainz.png",
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/1._FSV_Mainz_05_logo.svg/256px-1._FSV_Mainz_05_logo.svg.png",
     "fetched_at": "2026-05-05T21:50:05.392Z"
+  },
+  "malaga-cf": {
+    "name": "Málaga CF",
+    "title": "Málaga CF",
+    "missing": true,
+    "last_tried": "2026-07-23T12:20:28.872Z",
+    "error": "Request failed with status code 400"
   },
   "mallorca": {
     "name": "Mallorca",
@@ -1124,6 +1173,13 @@
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Club_Alt%C3%A9tico_Platense_crest_%282025%29.svg/256px-Club_Alt%C3%A9tico_Platense_crest_%282025%29.svg.png",
     "fetched_at": "2026-05-05T21:58:04.051Z"
   },
+  "polissya-zhytomyr": {
+    "name": "Polissya Zhytomyr",
+    "title": "FC Polissya Zhytomyr",
+    "file": "teams/polissya-zhytomyr.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/9/9b/FC_Polissya_Zhytomyr.png",
+    "fetched_at": "2026-07-23T12:20:23.099Z"
+  },
   "portland-timbers": {
     "name": "Portland Timbers",
     "title": "Portland Timbers",
@@ -1172,6 +1228,13 @@
     "file": "teams/racing-club.png",
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Escudo_de_Racing_Club_%282014%29.svg/256px-Escudo_de_Racing_Club_%282014%29.svg.png",
     "fetched_at": "2026-05-05T21:56:15.763Z"
+  },
+  "racing-de-santander": {
+    "name": "Racing de Santander",
+    "title": "Racing de Santander",
+    "missing": true,
+    "last_tried": "2026-07-23T12:20:27.338Z",
+    "error": "Request failed with status code 400"
   },
   "rayo-vallecano": {
     "name": "Rayo Vallecano",
@@ -1303,7 +1366,14 @@
     "name": "SC Paderborn",
     "title": "SC Paderborn 07",
     "missing": true,
-    "last_tried": "2026-05-21T14:02:01.267Z",
+    "last_tried": "2026-07-23T12:20:31.175Z",
+    "error": "Request failed with status code 400"
+  },
+  "schalke-04": {
+    "name": "Schalke 04",
+    "title": "FC Schalke 04",
+    "missing": true,
+    "last_tried": "2026-07-23T12:20:32.699Z",
     "error": "Request failed with status code 400"
   },
   "seattle-sounders-fc": {
@@ -1382,6 +1452,13 @@
     "file": "teams/sunderland.png",
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Logo_Sunderland.svg/256px-Logo_Sunderland.svg.png",
     "fetched_at": "2026-05-05T21:56:25.658Z"
+  },
+  "sv-elversberg": {
+    "name": "SV Elversberg",
+    "title": "SV Elversberg",
+    "missing": true,
+    "last_tried": "2026-07-23T12:20:31.933Z",
+    "error": "Request failed with status code 400"
   },
   "tigres-uanl": {
     "name": "Tigres UANL",
