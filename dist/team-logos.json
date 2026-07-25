@@ -1110,6 +1110,13 @@
     "last_tried": "2026-07-19T11:51:17.429Z",
     "error": "Request failed with status code 400"
   },
+  "paksi": {
+    "name": "Paksi",
+    "title": "Paksi FC",
+    "missing": true,
+    "last_tried": "2026-07-25T11:59:22.544Z",
+    "error": "Request failed with status code 400"
+  },
   "palestino": {
     "name": "Palestino",
     "title": "Palestino F.C.",
