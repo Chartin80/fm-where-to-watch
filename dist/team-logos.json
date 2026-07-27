@@ -216,6 +216,20 @@
     "last_tried": "2026-07-23T12:20:26.574Z",
     "error": "Request failed with status code 400"
   },
+  "birmingham-city": {
+    "name": "Birmingham City",
+    "title": "Birmingham City F.C.",
+    "missing": true,
+    "last_tried": "2026-07-27T13:34:48.837Z",
+    "error": "Request failed with status code 400"
+  },
+  "blackburn-rovers": {
+    "name": "Blackburn Rovers",
+    "title": "Blackburn Rovers F.C.",
+    "missing": true,
+    "last_tried": "2026-07-27T13:34:37.205Z",
+    "error": "Request failed with status code 400"
+  },
   "boca-juniors": {
     "name": "Boca Juniors",
     "title": "Boca Juniors",
@@ -236,6 +250,13 @@
     "file": "teams/bologna.png",
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bologna_F.C._1909_logo.svg/256px-Bologna_F.C._1909_logo.svg.png",
     "fetched_at": "2026-05-05T21:50:28.126Z"
+  },
+  "bolton-wanderers": {
+    "name": "Bolton Wanderers",
+    "title": "Bolton Wanderers F.C.",
+    "missing": true,
+    "last_tried": "2026-07-27T13:34:37.974Z",
+    "error": "Request failed with status code 400"
   },
   "borussia-dortmund": {
     "name": "Borussia Dortmund",
@@ -286,6 +307,13 @@
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Brighton_and_Hove_Albion_FC_crest.svg/256px-Brighton_and_Hove_Albion_FC_crest.svg.png",
     "fetched_at": "2026-05-05T21:48:25.567Z"
   },
+  "bristol-city": {
+    "name": "Bristol City",
+    "title": "Bristol City F.C.",
+    "missing": true,
+    "last_tried": "2026-07-27T13:34:41.034Z",
+    "error": "Request failed with status code 400"
+  },
   "burnley": {
     "name": "Burnley",
     "title": "Burnley F.C.",
@@ -321,6 +349,13 @@
     "source": "https://upload.wikimedia.org/wikipedia/en/f/f4/Caracas_FC.png",
     "fetched_at": "2026-05-05T20:37:12.214Z"
   },
+  "cardiff-city": {
+    "name": "Cardiff City",
+    "title": "Cardiff City F.C.",
+    "missing": true,
+    "last_tried": "2026-07-27T13:34:50.364Z",
+    "error": "Request failed with status code 400"
+  },
   "cd-universidad-catolica-chile": {
     "name": "CD Universidad Católica (Chile)",
     "title": "Club Deportivo Universidad Católica",
@@ -348,6 +383,13 @@
     "file": "teams/charlotte-fc.png",
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Charlotte_FC_logo.svg/256px-Charlotte_FC_logo.svg.png",
     "fetched_at": "2026-05-05T21:49:07.401Z"
+  },
+  "charlton-athletic": {
+    "name": "Charlton Athletic",
+    "title": "Charlton Athletic F.C.",
+    "missing": true,
+    "last_tried": "2026-07-27T13:34:39.500Z",
+    "error": "Request failed with status code 400"
   },
   "chelsea": {
     "name": "Chelsea",
@@ -509,6 +551,13 @@
     "file": "teams/deportivo-riestra.png",
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Escudo_del_Club_Deportivo_Riestra.svg/256px-Escudo_del_Club_Deportivo_Riestra.svg.png",
     "fetched_at": "2026-05-05T20:37:08.789Z"
+  },
+  "derby-county": {
+    "name": "Derby County",
+    "title": "Derby County F.C.",
+    "missing": true,
+    "last_tried": "2026-07-27T13:34:40.266Z",
+    "error": "Request failed with status code 400"
   },
   "eintracht-frankfurt": {
     "name": "Eintracht Frankfurt",
@@ -893,6 +942,13 @@
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Club_Libertad_logo.png/256px-Club_Libertad_logo.png",
     "fetched_at": "2026-05-05T20:37:01.873Z"
   },
+  "lincoln-city": {
+    "name": "Lincoln City",
+    "title": "Lincoln City F.C.",
+    "missing": true,
+    "last_tried": "2026-07-27T13:34:45.609Z",
+    "error": "Request failed with status code 400"
+  },
   "liverpool": {
     "name": "Liverpool",
     "title": "Liverpool F.C.",
@@ -1054,6 +1110,13 @@
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/256px-Newcastle_United_Logo.svg.png",
     "fetched_at": "2026-05-05T21:49:43.530Z"
   },
+  "norwich-city": {
+    "name": "Norwich City",
+    "title": "Norwich City F.C.",
+    "missing": true,
+    "last_tried": "2026-07-27T13:34:46.376Z",
+    "error": "Request failed with status code 400"
+  },
   "nottingham-forest": {
     "name": "Nottingham Forest",
     "title": "Nottingham Forest F.C.",
@@ -1201,6 +1264,20 @@
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/FC_Porto.svg/256px-FC_Porto.svg.png",
     "fetched_at": "2026-05-07T12:26:58.810Z"
   },
+  "portsmouth": {
+    "name": "Portsmouth",
+    "title": "Portsmouth F.C.",
+    "missing": true,
+    "last_tried": "2026-07-27T13:34:41.797Z",
+    "error": "Request failed with status code 400"
+  },
+  "preston-north-end": {
+    "name": "Preston North End",
+    "title": "Preston North End F.C.",
+    "missing": true,
+    "last_tried": "2026-07-27T13:34:38.741Z",
+    "error": "Request failed with status code 400"
+  },
   "puebla": {
     "name": "Puebla",
     "title": "Club Puebla",
@@ -1221,6 +1298,13 @@
     "file": "teams/pumas-unam.png",
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Club_Universidad_Nacional_logo.svg/256px-Club_Universidad_Nacional_logo.svg.png",
     "fetched_at": "2026-05-05T21:50:23.611Z"
+  },
+  "queens-park-rangers": {
+    "name": "Queens Park Rangers",
+    "title": "Queens Park Rangers F.C.",
+    "missing": true,
+    "last_tried": "2026-07-27T13:34:42.554Z",
+    "error": "Request failed with status code 400"
   },
   "queretaro": {
     "name": "Querétaro",
@@ -1411,6 +1495,13 @@
     "last_tried": "2026-07-19T11:51:10.862Z",
     "error": "Request failed with status code 400"
   },
+  "sheffield-united": {
+    "name": "Sheffield United",
+    "title": "Sheffield United F.C.",
+    "missing": true,
+    "last_tried": "2026-07-27T13:34:48.009Z",
+    "error": "Request failed with status code 400"
+  },
   "sk-sturm-graz": {
     "name": "SK Sturm Graz",
     "title": "SK Sturm Graz",
@@ -1446,6 +1537,13 @@
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Logo_of_St._Louis_City_SC.svg/256px-Logo_of_St._Louis_City_SC.svg.png",
     "fetched_at": "2026-05-05T21:49:18.638Z"
   },
+  "stoke-city": {
+    "name": "Stoke City",
+    "title": "Stoke City F.C.",
+    "missing": true,
+    "last_tried": "2026-07-27T13:34:43.319Z",
+    "error": "Request failed with status code 400"
+  },
   "strasbourg": {
     "name": "Strasbourg",
     "title": "RC Strasbourg Alsace",
@@ -1465,6 +1563,13 @@
     "title": "SV Elversberg",
     "missing": true,
     "last_tried": "2026-07-23T12:20:31.933Z",
+    "error": "Request failed with status code 400"
+  },
+  "swansea-city": {
+    "name": "Swansea City",
+    "title": "Swansea City A.F.C.",
+    "missing": true,
+    "last_tried": "2026-07-27T13:34:44.079Z",
     "error": "Request failed with status code 400"
   },
   "tigres-uanl": {
@@ -1600,12 +1705,26 @@
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Villarreal_CF_logo-en.svg/256px-Villarreal_CF_logo-en.svg.png",
     "fetched_at": "2026-05-05T21:49:38.311Z"
   },
+  "watford": {
+    "name": "Watford",
+    "title": "Watford F.C.",
+    "missing": true,
+    "last_tried": "2026-07-27T13:34:49.595Z",
+    "error": "Request failed with status code 400"
+  },
   "werder-bremen": {
     "name": "Werder Bremen",
     "title": "SV Werder Bremen",
     "file": "teams/werder-bremen.png",
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/256px-SV-Werder-Bremen-Logo.svg.png",
     "fetched_at": "2026-05-05T21:48:21.193Z"
+  },
+  "west-bromwich-albion": {
+    "name": "West Bromwich Albion",
+    "title": "West Bromwich Albion F.C.",
+    "missing": true,
+    "last_tried": "2026-07-27T13:34:47.243Z",
+    "error": "Request failed with status code 400"
   },
   "west-ham-united": {
     "name": "West Ham United",
@@ -1620,5 +1739,12 @@
     "file": "teams/wolverhampton-wanderers.png",
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Wolverhampton_Wanderers_FC_crest.svg/256px-Wolverhampton_Wanderers_FC_crest.svg.png",
     "fetched_at": "2026-05-05T21:48:27.336Z"
+  },
+  "wrexham-afc": {
+    "name": "Wrexham AFC",
+    "title": "Wrexham A.F.C.",
+    "missing": true,
+    "last_tried": "2026-07-27T13:34:51.130Z",
+    "error": "Request failed with status code 400"
   }
 }
