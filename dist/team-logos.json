@@ -708,7 +708,7 @@
     "name": "Frosinone Calcio",
     "title": "Frosinone Calcio",
     "missing": true,
-    "last_tried": "2026-06-29T14:45:00.285Z",
+    "last_tried": "2026-07-31T12:51:36.935Z",
     "error": "Request failed with status code 400"
   },
   "fulham": {
@@ -1058,7 +1058,7 @@
     "name": "Monza",
     "title": "AC Monza",
     "missing": true,
-    "last_tried": "2026-06-29T14:44:59.478Z",
+    "last_tried": "2026-07-31T12:51:36.127Z",
     "error": "Request failed with status code 400"
   },
   "napoli": {
@@ -1674,7 +1674,7 @@
     "name": "Venezia",
     "title": "Venezia FC",
     "missing": true,
-    "last_tried": "2026-06-29T14:45:01.092Z",
+    "last_tried": "2026-07-31T12:51:37.693Z",
     "error": "Request failed with status code 400"
   },
   "vfb-stuttgart": {

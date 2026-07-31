@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T12:57:05.709Z",
+  "generated_at": "2026-07-31T12:51:37.697Z",
   "source": "worldsoccertalk.com",
   "partial": false,
   "errors": [],
@@ -144,200 +144,6 @@
     }
   ],
   "matches": [
-    {
-      "id": "conmebol-suda-202607282030-santos-vs-universidad-central",
-      "competition": "conmebol-suda",
-      "home": "Santos",
-      "away": "Universidad Central",
-      "home_slug": "santos",
-      "away_slug": "universidad-central",
-      "kickoff_utc": "2026-07-29T00:30:00.000Z",
-      "kickoff_et": "2026-07-28T20:30",
-      "channels": [
-        {
-          "slug": "bein",
-          "label": "beIN Sports",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:fanatiz",
-          "label": "Fanatiz",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "beIN SPORTS, beIN SPORTS en Español, beIN SPORTS Connect, Fubo, Fanatiz"
-    },
-    {
-      "id": "uefa-uecl-202607291300-fc-copenhagen-vs-polissya-zhytomyr",
-      "competition": "uefa-uecl",
-      "home": "FC Copenhagen",
-      "away": "Polissya Zhytomyr",
-      "home_slug": "fc-copenhagen",
-      "away_slug": "polissya-zhytomyr",
-      "kickoff_utc": "2026-07-29T17:00:00.000Z",
-      "kickoff_et": "2026-07-29T13:00",
-      "channels": [
-        {
-          "slug": "espn-plus",
-          "label": "ESPN+",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "ESPN+"
-    },
-    {
-      "id": "conmebol-suda-202607291800-vasco-da-gama-vs-independiente-medellin",
-      "competition": "conmebol-suda",
-      "home": "Vasco da Gama",
-      "away": "Independiente Medellín",
-      "home_slug": "vasco-da-gama",
-      "away_slug": "independiente-medellin",
-      "kickoff_utc": "2026-07-29T22:00:00.000Z",
-      "kickoff_et": "2026-07-29T18:00",
-      "channels": [
-        {
-          "slug": "bein",
-          "label": "beIN Sports",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:fanatiz",
-          "label": "Fanatiz",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "beIN SPORTS, beIN SPORTS en Español, beIN SPORTS Connect, Fubo, Fanatiz"
-    },
-    {
-      "id": "conmebol-suda-202607292030-rb-bragantino-vs-sporting-cristal",
-      "competition": "conmebol-suda",
-      "home": "RB Bragantino",
-      "away": "Sporting Cristal",
-      "home_slug": "rb-bragantino",
-      "away_slug": "sporting-cristal",
-      "kickoff_utc": "2026-07-30T00:30:00.000Z",
-      "kickoff_et": "2026-07-29T20:30",
-      "channels": [
-        {
-          "slug": "bein",
-          "label": "beIN Sports",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:fanatiz",
-          "label": "Fanatiz",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "beIN SPORTS, beIN SPORTS Connect, Fubo, Fanatiz"
-    },
-    {
-      "id": "conmebol-suda-202607292030-cienciano-vs-lanus",
-      "competition": "conmebol-suda",
-      "home": "Cienciano",
-      "away": "Lanús",
-      "home_slug": "cienciano",
-      "away_slug": "lanus",
-      "kickoff_utc": "2026-07-30T00:30:00.000Z",
-      "kickoff_et": "2026-07-29T20:30",
-      "channels": [
-        {
-          "slug": "bein",
-          "label": "beIN Sports",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:fanatiz",
-          "label": "Fanatiz",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "beIN SPORTS Connect, beIN SPORTS en Español, Fubo, Fanatiz"
-    },
-    {
-      "id": "uefa-uel-202607301300-fc-midtjylland-vs-besiktas",
-      "competition": "uefa-uel",
-      "home": "FC Midtjylland",
-      "away": "Beşiktaş",
-      "home_slug": "fc-midtjylland",
-      "away_slug": "besiktas",
-      "kickoff_utc": "2026-07-30T17:00:00.000Z",
-      "kickoff_et": "2026-07-30T13:00",
-      "channels": [
-        {
-          "slug": "espn-plus",
-          "label": "ESPN+",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "ESPN+"
-    },
-    {
-      "id": "uefa-uecl-202607301430-panathinaikos-f-c-vs-paksi",
-      "competition": "uefa-uecl",
-      "home": "Panathinaikos F.C.",
-      "away": "Paksi",
-      "home_slug": "panathinaikos-f-c",
-      "away_slug": "paksi",
-      "kickoff_utc": "2026-07-30T18:30:00.000Z",
-      "kickoff_et": "2026-07-30T14:30",
-      "channels": [
-        {
-          "slug": "espn-plus",
-          "label": "ESPN+",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "ESPN+"
-    },
-    {
-      "id": "conmebol-suda-202607301800-gremio-vs-bolivar",
-      "competition": "conmebol-suda",
-      "home": "Grêmio",
-      "away": "Bolívar",
-      "home_slug": "gremio",
-      "away_slug": "bolivar",
-      "kickoff_utc": "2026-07-30T22:00:00.000Z",
-      "kickoff_et": "2026-07-30T18:00",
-      "channels": [
-        {
-          "slug": "bein",
-          "label": "beIN Sports",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:fanatiz",
-          "label": "Fanatiz",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "beIN SPORTS, beIN SPORTS en Español, beIN SPORTS Connect, Fubo, Fanatiz"
-    },
     {
       "id": "conmebol-suda-202607302030-o-higgins-vs-boca-juniors",
       "competition": "conmebol-suda",
@@ -738,14 +544,14 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "mex-ligamx-202608012100-atlas-vs-monterrey",
+      "id": "mex-ligamx-202608012105-atlas-vs-monterrey",
       "competition": "mex-ligamx",
       "home": "Atlas",
       "away": "Monterrey",
       "home_slug": "atlas",
       "away_slug": "monterrey",
-      "kickoff_utc": "2026-08-02T01:00:00.000Z",
-      "kickoff_et": "2026-08-01T21:00",
+      "kickoff_utc": "2026-08-02T01:05:00.000Z",
+      "kickoff_et": "2026-08-01T21:05",
       "channels": [
         {
           "slug": "other:univision",
@@ -771,14 +577,14 @@
       "channels_raw": "Univision, TUDN, DirecTV Stream, Hulu + Live TV"
     },
     {
-      "id": "mex-ligamx-202608012100-leon-vs-pachuca",
+      "id": "mex-ligamx-202608012105-leon-vs-pachuca",
       "competition": "mex-ligamx",
       "home": "León",
       "away": "Pachuca",
       "home_slug": "leon",
       "away_slug": "pachuca",
-      "kickoff_utc": "2026-08-02T01:00:00.000Z",
-      "kickoff_et": "2026-08-01T21:00",
+      "kickoff_utc": "2026-08-02T01:05:00.000Z",
+      "kickoff_et": "2026-08-01T21:05",
       "channels": [
         {
           "slug": "vix",
@@ -939,14 +745,14 @@
       "channels_raw": "TUDN, DirecTV Stream, Hulu + Live TV"
     },
     {
-      "id": "mex-ligamx-202608022100-toluca-vs-necaxa",
+      "id": "mex-ligamx-202608022105-toluca-vs-necaxa",
       "competition": "mex-ligamx",
       "home": "Toluca",
       "away": "Necaxa",
       "home_slug": "toluca",
       "away_slug": "necaxa",
-      "kickoff_utc": "2026-08-03T01:00:00.000Z",
-      "kickoff_et": "2026-08-02T21:00",
+      "kickoff_utc": "2026-08-03T01:05:00.000Z",
+      "kickoff_et": "2026-08-02T21:05",
       "channels": [
         {
           "slug": "tudn",
@@ -3335,8 +3141,8 @@
     }
   ],
   "teams_meta": {
-    "resolved_count": 126,
-    "missing_count": 44
+    "resolved_count": 115,
+    "missing_count": 39
   },
   "comps_meta": {
     "resolved_count": 23,
