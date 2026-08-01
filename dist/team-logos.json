@@ -6,6 +6,13 @@
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/256px-Logo_of_AC_Milan.svg.png",
     "fetched_at": "2026-05-05T21:50:07.966Z"
   },
+  "academico-de-viseu": {
+    "name": "Académico de Viseu",
+    "title": "Académico de Viseu F.C.",
+    "missing": true,
+    "last_tried": "2026-08-01T11:58:24.717Z",
+    "error": "Request failed with status code 400"
+  },
   "afc-bournemouth": {
     "name": "AFC Bournemouth",
     "title": "AFC Bournemouth",
@@ -584,6 +591,13 @@
     "name": "Estoril",
     "missing": true,
     "last_tried": "2026-05-07T12:27:05.413Z"
+  },
+  "estrela-da-amadora": {
+    "name": "Estrela da Amadora",
+    "title": "C.F. Estrela da Amadora",
+    "missing": true,
+    "last_tried": "2026-08-01T11:58:23.181Z",
+    "error": "Request failed with status code 400"
   },
   "estudiantes-de-la-plata": {
     "name": "Estudiantes de La Plata",
@@ -1515,6 +1529,13 @@
     "file": "teams/southampton.png",
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/FC_Southampton.svg/256px-FC_Southampton.svg.png",
     "fetched_at": "2026-05-05T21:56:40.543Z"
+  },
+  "sporting-cp": {
+    "name": "Sporting CP",
+    "title": "Sporting CP",
+    "missing": true,
+    "last_tried": "2026-08-01T11:58:23.937Z",
+    "error": "Request failed with status code 400"
   },
   "sporting-cristal": {
     "name": "Sporting Cristal",
