@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T13:35:05.768Z",
+  "generated_at": "2026-08-05T12:49:21.751Z",
   "source": "worldsoccertalk.com",
   "partial": false,
   "errors": [],
@@ -145,37 +145,58 @@
   ],
   "matches": [
     {
-      "id": "mex-ligamx-202608022110-toluca-vs-necaxa",
-      "competition": "mex-ligamx",
-      "home": "Toluca",
-      "away": "Necaxa",
-      "home_slug": "toluca",
-      "away_slug": "necaxa",
-      "kickoff_utc": "2026-08-03T01:10:00.000Z",
-      "kickoff_et": "2026-08-02T21:10",
+      "id": "uefa-uel-202608051415-ferencvaros-vs-gornik-zabrze",
+      "competition": "uefa-uel",
+      "home": "Ferencvaros",
+      "away": "Górnik Zabrze",
+      "home_slug": "ferencvaros",
+      "away_slug": "gornik-zabrze",
+      "kickoff_utc": "2026-08-05T18:15:00.000Z",
+      "kickoff_et": "2026-08-05T14:15",
       "channels": [
         {
-          "slug": "tudn",
-          "label": "TUDN",
-          "tier": 2
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
-        },
-        {
-          "slug": "other:hulu-live-tv",
-          "label": "Hulu + Live TV",
-          "tier": 4
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
+          "slug": "espn-plus",
+          "label": "ESPN+",
           "tier": 3
         }
       ],
-      "channels_raw": "TUDN, DirecTV Stream, Hulu + Live TV, ViX"
+      "channels_raw": "ESPN+"
+    },
+    {
+      "id": "uefa-uecl-202608051430-panathinaikos-f-c-vs-cska-sofia",
+      "competition": "uefa-uecl",
+      "home": "Panathinaikos F.C.",
+      "away": "CSKA Sofia",
+      "home_slug": "panathinaikos-f-c",
+      "away_slug": "cska-sofia",
+      "kickoff_utc": "2026-08-05T18:30:00.000Z",
+      "kickoff_et": "2026-08-05T14:30",
+      "channels": [
+        {
+          "slug": "espn-plus",
+          "label": "ESPN+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "ESPN+"
+    },
+    {
+      "id": "uefa-uel-202608061345-paok-thessaloniki-vs-anderlecht",
+      "competition": "uefa-uel",
+      "home": "PAOK Thessaloniki",
+      "away": "Anderlecht",
+      "home_slug": "paok-thessaloniki",
+      "away_slug": "anderlecht",
+      "kickoff_utc": "2026-08-06T17:45:00.000Z",
+      "kickoff_et": "2026-08-06T13:45",
+      "channels": [
+        {
+          "slug": "espn-plus",
+          "label": "ESPN+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "ESPN+"
     },
     {
       "id": "por-primeira-202608081530-estrela-da-amadora-vs-sporting-cp",
@@ -859,12 +880,12 @@
       "channels_raw": "ESPN+, ESPN Deportes, Fubo, DirecTV Stream"
     },
     {
-      "id": "usa-mls-202608161800-chicago-fire-fc-vs-portland-timbers",
+      "id": "usa-mls-202608161800-new-york-city-fc-vs-philadelphia-union",
       "competition": "usa-mls",
-      "home": "Chicago Fire FC",
-      "away": "Portland Timbers",
-      "home_slug": "chicago-fire-fc",
-      "away_slug": "portland-timbers",
+      "home": "New York City FC",
+      "away": "Philadelphia Union",
+      "home_slug": "new-york-city-fc",
+      "away_slug": "philadelphia-union",
       "kickoff_utc": "2026-08-16T22:00:00.000Z",
       "kickoff_et": "2026-08-16T18:00",
       "channels": [
@@ -877,14 +898,14 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202608161830-new-york-city-fc-vs-philadelphia-union",
+      "id": "usa-mls-202608161800-chicago-fire-fc-vs-portland-timbers",
       "competition": "usa-mls",
-      "home": "New York City FC",
-      "away": "Philadelphia Union",
-      "home_slug": "new-york-city-fc",
-      "away_slug": "philadelphia-union",
-      "kickoff_utc": "2026-08-16T22:30:00.000Z",
-      "kickoff_et": "2026-08-16T18:30",
+      "home": "Chicago Fire FC",
+      "away": "Portland Timbers",
+      "home_slug": "chicago-fire-fc",
+      "away_slug": "portland-timbers",
+      "kickoff_utc": "2026-08-16T22:00:00.000Z",
+      "kickoff_et": "2026-08-16T18:00",
       "channels": [
         {
           "slug": "apple",
@@ -2625,8 +2646,8 @@
     }
   ],
   "teams_meta": {
-    "resolved_count": 107,
-    "missing_count": 33
+    "resolved_count": 106,
+    "missing_count": 38
   },
   "comps_meta": {
     "resolved_count": 23,

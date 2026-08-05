@@ -69,6 +69,13 @@
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Am%C3%A9rica_de_Cali_logo.svg/256px-Am%C3%A9rica_de_Cali_logo.svg.png",
     "fetched_at": "2026-05-05T20:38:09.578Z"
   },
+  "anderlecht": {
+    "name": "Anderlecht",
+    "title": "RSC Anderlecht",
+    "missing": true,
+    "last_tried": "2026-08-05T12:49:21.743Z",
+    "error": "Request failed with status code 400"
+  },
   "arsenal": {
     "name": "Arsenal",
     "title": "Arsenal F.C.",
@@ -517,6 +524,13 @@
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Crystal_Palace_FC_logo_%282022%29.svg/256px-Crystal_Palace_FC_logo_%282022%29.svg.png",
     "fetched_at": "2026-05-05T21:56:18.811Z"
   },
+  "cska-sofia": {
+    "name": "CSKA Sofia",
+    "title": "PFC CSKA Sofia",
+    "missing": true,
+    "last_tried": "2026-08-05T12:49:19.583Z",
+    "error": "Request failed with status code 400"
+  },
   "cusco-fc": {
     "name": "Cusco FC",
     "title": "Cusco FC",
@@ -697,6 +711,13 @@
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/1._FC_Union_Berlin_Logo.svg/256px-1._FC_Union_Berlin_Logo.svg.png",
     "fetched_at": "2026-05-05T21:50:06.679Z"
   },
+  "ferencvaros": {
+    "name": "Ferencvaros",
+    "title": "Ferencvárosi TC",
+    "missing": true,
+    "last_tried": "2026-08-05T12:49:17.985Z",
+    "error": "Request failed with status code 400"
+  },
   "fiorentina": {
     "name": "Fiorentina",
     "title": "ACF Fiorentina",
@@ -752,6 +773,13 @@
     "file": "teams/girona.png",
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Girona_FC_Logo.svg/256px-Girona_FC_Logo.svg.png",
     "fetched_at": "2026-05-05T21:50:32.411Z"
+  },
+  "gornik-zabrze": {
+    "name": "Górnik Zabrze",
+    "title": "Górnik Zabrze",
+    "missing": true,
+    "last_tried": "2026-08-05T12:49:18.779Z",
+    "error": "Request failed with status code 400"
   },
   "gremio": {
     "name": "Grêmio",
@@ -1213,6 +1241,13 @@
     "title": "Panathinaikos F.C.",
     "missing": true,
     "last_tried": "2026-07-19T11:51:18.200Z",
+    "error": "Request failed with status code 400"
+  },
+  "paok-thessaloniki": {
+    "name": "PAOK Thessaloniki",
+    "title": "P.A.O.K.",
+    "missing": true,
+    "last_tried": "2026-08-05T12:49:20.941Z",
     "error": "Request failed with status code 400"
   },
   "paris-saint-germain": {
