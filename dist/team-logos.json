@@ -370,6 +370,13 @@
     "last_tried": "2026-07-27T13:34:50.364Z",
     "error": "Request failed with status code 400"
   },
+  "casa-pia-a-c": {
+    "name": "Casa Pia A.C.",
+    "title": "Casa Pia A.C.",
+    "missing": true,
+    "last_tried": "2026-08-07T11:40:14.011Z",
+    "error": "Request failed with status code 400"
+  },
   "cd-universidad-catolica-chile": {
     "name": "CD Universidad Católica (Chile)",
     "title": "Club Deportivo Universidad Católica",
@@ -1432,6 +1439,13 @@
     "source": "https://upload.wikimedia.org/wikipedia/en/4/4e/Deportivo_Recoleta_logo.png",
     "fetched_at": "2026-05-05T20:37:21.977Z"
   },
+  "rio-ave": {
+    "name": "Rio Ave",
+    "title": "Rio Ave F.C.",
+    "missing": true,
+    "last_tried": "2026-08-07T11:40:13.220Z",
+    "error": "Request failed with status code 400"
+  },
   "river-plate": {
     "name": "River Plate",
     "title": "Club Atlético River Plate",
@@ -1760,6 +1774,13 @@
     "file": "teams/villarreal.png",
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Villarreal_CF_logo-en.svg/256px-Villarreal_CF_logo-en.svg.png",
     "fetched_at": "2026-05-05T21:49:38.311Z"
+  },
+  "vitoria-s-c": {
+    "name": "Vitória S.C.",
+    "title": "Vitória S.C.",
+    "missing": true,
+    "last_tried": "2026-08-07T11:40:12.288Z",
+    "error": "Request failed with status code 400"
   },
   "watford": {
     "name": "Watford",
