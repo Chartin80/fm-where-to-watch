@@ -552,6 +552,13 @@
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/D.C._United_logo_%282016%29.svg/256px-D.C._United_logo_%282016%29.svg.png",
     "fetched_at": "2026-05-05T21:49:13.978Z"
   },
+  "debrecen": {
+    "name": "Debrecen",
+    "title": "Debreceni Cívis Póló Vízilabda SE",
+    "missing": true,
+    "last_tried": "2026-08-11T11:39:17.162Z",
+    "error": "Request failed with status code 400"
+  },
   "deportes-tolima": {
     "name": "Deportes Tolima",
     "title": "Deportes Tolima",
@@ -718,6 +725,13 @@
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/1._FC_Union_Berlin_Logo.svg/256px-1._FC_Union_Berlin_Logo.svg.png",
     "fetched_at": "2026-05-05T21:50:06.679Z"
   },
+  "fenerbahce": {
+    "name": "Fenerbahçe",
+    "title": "Fenerbahçe S.K.",
+    "missing": true,
+    "last_tried": "2026-08-11T11:39:09.051Z",
+    "error": "Request failed with status code 400"
+  },
   "ferencvaros": {
     "name": "Ferencvaros",
     "title": "Ferencvárosi TC",
@@ -781,6 +795,13 @@
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Girona_FC_Logo.svg/256px-Girona_FC_Logo.svg.png",
     "fetched_at": "2026-05-05T21:50:32.411Z"
   },
+  "gks-katowice": {
+    "name": "GKS Katowice",
+    "title": "GKS Katowice",
+    "missing": true,
+    "last_tried": "2026-08-11T11:39:17.976Z",
+    "error": "Request failed with status code 400"
+  },
   "gornik-zabrze": {
     "name": "Górnik Zabrze",
     "title": "Górnik Zabrze",
@@ -808,6 +829,13 @@
     "file": "teams/hamburger-sv.png",
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hamburger_SV_logo.svg/256px-Hamburger_SV_logo.svg.png",
     "fetched_at": "2026-05-05T21:49:50.539Z"
+  },
+  "hapoel-tel-aviv": {
+    "name": "Hapoel Tel Aviv",
+    "title": "Hapoel Tel Aviv",
+    "file": "teams/hapoel-tel-aviv.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/7/7c/Hapoel_Tel_Aviv.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "fetched_at": "2026-08-11T11:39:19.323Z"
   },
   "hearts": {
     "name": "Hearts",
@@ -1004,6 +1032,13 @@
     "file": "teams/liverpool.png",
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/256px-Liverpool_FC.svg.png",
     "fetched_at": "2026-05-05T21:56:23.811Z"
+  },
+  "lyon": {
+    "name": "Lyon",
+    "title": "Olympique Lyonnais",
+    "missing": true,
+    "last_tried": "2026-08-11T11:39:10.672Z",
+    "error": "Request failed with status code 400"
   },
   "macara": {
     "name": "Macará",
@@ -1578,6 +1613,13 @@
     "file": "teams/southampton.png",
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/FC_Southampton.svg/256px-FC_Southampton.svg.png",
     "fetched_at": "2026-05-05T21:56:40.543Z"
+  },
+  "sparta-prague": {
+    "name": "Sparta Prague",
+    "title": "AC Sparta Prague",
+    "missing": true,
+    "last_tried": "2026-08-11T11:39:11.484Z",
+    "error": "Request failed with status code 400"
   },
   "sporting-cp": {
     "name": "Sporting CP",
