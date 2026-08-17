@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T11:13:26.313Z",
+  "generated_at": "2026-08-17T11:19:25.941Z",
   "source": "worldsoccertalk.com",
   "partial": false,
   "errors": [],
@@ -144,795 +144,6 @@
     }
   ],
   "matches": [
-    {
-      "id": "eng-champ-202608150730-bolton-wanderers-vs-preston-north-end",
-      "competition": "eng-champ",
-      "home": "Bolton Wanderers",
-      "away": "Preston North End",
-      "home_slug": "bolton-wanderers",
-      "away_slug": "preston-north-end",
-      "kickoff_utc": "2026-08-15T11:30:00.000Z",
-      "kickoff_et": "2026-08-15T07:30",
-      "channels": [
-        {
-          "slug": "cbs",
-          "label": "CBS",
-          "tier": 1
-        },
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "other:amazon-prime-video",
-          "label": "Amazon Prime Video",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "CBS Sports Golazo Network, Paramount+, Amazon Prime Video"
-    },
-    {
-      "id": "eng-champ-202608151000-charlton-athletic-vs-derby-county",
-      "competition": "eng-champ",
-      "home": "Charlton Athletic",
-      "away": "Derby County",
-      "home_slug": "charlton-athletic",
-      "away_slug": "derby-county",
-      "kickoff_utc": "2026-08-15T14:00:00.000Z",
-      "kickoff_et": "2026-08-15T10:00",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+"
-    },
-    {
-      "id": "eng-champ-202608151000-bristol-city-vs-millwall",
-      "competition": "eng-champ",
-      "home": "Bristol City",
-      "away": "Millwall",
-      "home_slug": "bristol-city",
-      "away_slug": "millwall",
-      "kickoff_utc": "2026-08-15T14:00:00.000Z",
-      "kickoff_et": "2026-08-15T10:00",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+"
-    },
-    {
-      "id": "eng-champ-202608151000-portsmouth-vs-queens-park-rangers",
-      "competition": "eng-champ",
-      "home": "Portsmouth",
-      "away": "Queens Park Rangers",
-      "home_slug": "portsmouth",
-      "away_slug": "queens-park-rangers",
-      "kickoff_utc": "2026-08-15T14:00:00.000Z",
-      "kickoff_et": "2026-08-15T10:00",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+"
-    },
-    {
-      "id": "eng-champ-202608151000-stoke-city-vs-swansea-city",
-      "competition": "eng-champ",
-      "home": "Stoke City",
-      "away": "Swansea City",
-      "home_slug": "stoke-city",
-      "away_slug": "swansea-city",
-      "kickoff_utc": "2026-08-15T14:00:00.000Z",
-      "kickoff_et": "2026-08-15T10:00",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+"
-    },
-    {
-      "id": "eng-champ-202608151000-middlesbrough-vs-lincoln-city",
-      "competition": "eng-champ",
-      "home": "Middlesbrough",
-      "away": "Lincoln City",
-      "home_slug": "middlesbrough",
-      "away_slug": "lincoln-city",
-      "kickoff_utc": "2026-08-15T14:00:00.000Z",
-      "kickoff_et": "2026-08-15T10:00",
-      "channels": [
-        {
-          "slug": "cbssn",
-          "label": "CBS Sports Net",
-          "tier": 2
-        },
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
-        },
-        {
-          "slug": "other:hulu-live-tv",
-          "label": "Hulu + Live TV",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "CBS Sports Network, Paramount+, Fubo, DirecTV Stream, Hulu + Live TV"
-    },
-    {
-      "id": "eng-champ-202608151000-norwich-city-vs-west-bromwich-albion",
-      "competition": "eng-champ",
-      "home": "Norwich City",
-      "away": "West Bromwich Albion",
-      "home_slug": "norwich-city",
-      "away_slug": "west-bromwich-albion",
-      "kickoff_utc": "2026-08-15T14:00:00.000Z",
-      "kickoff_et": "2026-08-15T10:00",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+"
-    },
-    {
-      "id": "eng-champ-202608151230-sheffield-united-vs-birmingham-city",
-      "competition": "eng-champ",
-      "home": "Sheffield United",
-      "away": "Birmingham City",
-      "home_slug": "sheffield-united",
-      "away_slug": "birmingham-city",
-      "kickoff_utc": "2026-08-15T16:30:00.000Z",
-      "kickoff_et": "2026-08-15T12:30",
-      "channels": [
-        {
-          "slug": "cbs",
-          "label": "CBS",
-          "tier": 1
-        },
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "other:amazon-prime-video",
-          "label": "Amazon Prime Video",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "CBS Sports Golazo Network, Paramount+, Amazon Prime Video"
-    },
-    {
-      "id": "esp-laliga-202608151330-alaves-vs-getafe",
-      "competition": "esp-laliga",
-      "home": "Alavés",
-      "away": "Getafe",
-      "home_slug": "alaves",
-      "away_slug": "getafe",
-      "kickoff_utc": "2026-08-15T17:30:00.000Z",
-      "kickoff_et": "2026-08-15T13:30",
-      "channels": [
-        {
-          "slug": "espn-plus",
-          "label": "ESPN+",
-          "tier": 3
-        },
-        {
-          "slug": "espn-dep",
-          "label": "ESPN Deportes",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "ESPN+, ESPN Deportes, Fubo, DirecTV Stream"
-    },
-    {
-      "id": "esp-laliga-202608151530-sevilla-fc-vs-rayo-vallecano",
-      "competition": "esp-laliga",
-      "home": "Sevilla FC",
-      "away": "Rayo Vallecano",
-      "home_slug": "sevilla-fc",
-      "away_slug": "rayo-vallecano",
-      "kickoff_utc": "2026-08-15T19:30:00.000Z",
-      "kickoff_et": "2026-08-15T15:30",
-      "channels": [
-        {
-          "slug": "espn-plus",
-          "label": "ESPN+",
-          "tier": 3
-        },
-        {
-          "slug": "espn-dep",
-          "label": "ESPN Deportes",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "ESPN+, ESPN Deportes, Fubo, DirecTV Stream"
-    },
-    {
-      "id": "por-primeira-202608151530-rio-ave-vs-porto",
-      "competition": "por-primeira",
-      "home": "Rio Ave",
-      "away": "Porto",
-      "home_slug": "rio-ave",
-      "away_slug": "porto",
-      "kickoff_utc": "2026-08-15T19:30:00.000Z",
-      "kickoff_et": "2026-08-15T15:30",
-      "channels": [
-        {
-          "slug": "bein",
-          "label": "beIN Sports",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:fanatiz",
-          "label": "Fanatiz",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "beIN SPORTS, beIN SPORTS Connect, Fubo, Fanatiz"
-    },
-    {
-      "id": "mex-ligamx-202608151900-atlante-fc-vs-toluca",
-      "competition": "mex-ligamx",
-      "home": "Atlante FC",
-      "away": "Toluca",
-      "home_slug": "atlante-fc",
-      "away_slug": "toluca",
-      "kickoff_utc": "2026-08-15T23:00:00.000Z",
-      "kickoff_et": "2026-08-15T19:00",
-      "channels": [
-        {
-          "slug": "other:univision",
-          "label": "Univision",
-          "tier": 4
-        },
-        {
-          "slug": "tudn",
-          "label": "TUDN",
-          "tier": 2
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
-        },
-        {
-          "slug": "other:hulu-live-tv",
-          "label": "Hulu + Live TV",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "Univision, TUDN, DirecTV Stream, Hulu + Live TV"
-    },
-    {
-      "id": "usa-mls-202608151930-atlanta-united-fc-vs-new-york-red-bulls",
-      "competition": "usa-mls",
-      "home": "Atlanta United FC",
-      "away": "New York Red Bulls",
-      "home_slug": "atlanta-united-fc",
-      "away_slug": "new-york-red-bulls",
-      "kickoff_utc": "2026-08-15T23:30:00.000Z",
-      "kickoff_et": "2026-08-15T19:30",
-      "channels": [
-        {
-          "slug": "apple",
-          "label": "Apple TV",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Apple TV"
-    },
-    {
-      "id": "usa-mls-202608151930-toronto-fc-vs-new-england-revolution",
-      "competition": "usa-mls",
-      "home": "Toronto FC",
-      "away": "New England Revolution",
-      "home_slug": "toronto-fc",
-      "away_slug": "new-england-revolution",
-      "kickoff_utc": "2026-08-15T23:30:00.000Z",
-      "kickoff_et": "2026-08-15T19:30",
-      "channels": [
-        {
-          "slug": "apple",
-          "label": "Apple TV",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Apple TV"
-    },
-    {
-      "id": "usa-mls-202608151930-orlando-city-sc-vs-fc-cincinnati",
-      "competition": "usa-mls",
-      "home": "Orlando City SC",
-      "away": "FC Cincinnati",
-      "home_slug": "orlando-city-sc",
-      "away_slug": "fc-cincinnati",
-      "kickoff_utc": "2026-08-15T23:30:00.000Z",
-      "kickoff_et": "2026-08-15T19:30",
-      "channels": [
-        {
-          "slug": "apple",
-          "label": "Apple TV",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Apple TV"
-    },
-    {
-      "id": "usa-mls-202608151930-montreal-vs-d-c-united",
-      "competition": "usa-mls",
-      "home": "Montréal",
-      "away": "D.C. United",
-      "home_slug": "montreal",
-      "away_slug": "d-c-united",
-      "kickoff_utc": "2026-08-15T23:30:00.000Z",
-      "kickoff_et": "2026-08-15T19:30",
-      "channels": [
-        {
-          "slug": "apple",
-          "label": "Apple TV",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Apple TV"
-    },
-    {
-      "id": "usa-mls-202608151930-charlotte-fc-vs-columbus-crew",
-      "competition": "usa-mls",
-      "home": "Charlotte FC",
-      "away": "Columbus Crew",
-      "home_slug": "charlotte-fc",
-      "away_slug": "columbus-crew",
-      "kickoff_utc": "2026-08-15T23:30:00.000Z",
-      "kickoff_et": "2026-08-15T19:30",
-      "channels": [
-        {
-          "slug": "apple",
-          "label": "Apple TV",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Apple TV"
-    },
-    {
-      "id": "usa-mls-202608152030-nashville-sc-vs-inter-miami-cf",
-      "competition": "usa-mls",
-      "home": "Nashville SC",
-      "away": "Inter Miami CF",
-      "home_slug": "nashville-sc",
-      "away_slug": "inter-miami-cf",
-      "kickoff_utc": "2026-08-16T00:30:00.000Z",
-      "kickoff_et": "2026-08-15T20:30",
-      "channels": [
-        {
-          "slug": "apple",
-          "label": "Apple TV",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Apple TV"
-    },
-    {
-      "id": "usa-mls-202608152030-houston-dynamo-vs-la-galaxy",
-      "competition": "usa-mls",
-      "home": "Houston Dynamo",
-      "away": "LA Galaxy",
-      "home_slug": "houston-dynamo",
-      "away_slug": "la-galaxy",
-      "kickoff_utc": "2026-08-16T00:30:00.000Z",
-      "kickoff_et": "2026-08-15T20:30",
-      "channels": [
-        {
-          "slug": "apple",
-          "label": "Apple TV",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Apple TV"
-    },
-    {
-      "id": "mex-ligamx-202608152110-monterrey-vs-fc-juarez",
-      "competition": "mex-ligamx",
-      "home": "Monterrey",
-      "away": "FC Juarez",
-      "home_slug": "monterrey",
-      "away_slug": "fc-juarez",
-      "kickoff_utc": "2026-08-16T01:10:00.000Z",
-      "kickoff_et": "2026-08-15T21:10",
-      "channels": [
-        {
-          "slug": "other:univision",
-          "label": "Univision",
-          "tier": 4
-        },
-        {
-          "slug": "tudn",
-          "label": "TUDN",
-          "tier": 2
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
-        },
-        {
-          "slug": "other:hulu-live-tv",
-          "label": "Hulu + Live TV",
-          "tier": 4
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Univision, TUDN, DirecTV Stream, Hulu + Live TV, ViX"
-    },
-    {
-      "id": "usa-mls-202608152130-real-salt-lake-vs-minnesota-united-fc",
-      "competition": "usa-mls",
-      "home": "Real Salt Lake",
-      "away": "Minnesota United FC",
-      "home_slug": "real-salt-lake",
-      "away_slug": "minnesota-united-fc",
-      "kickoff_utc": "2026-08-16T01:30:00.000Z",
-      "kickoff_et": "2026-08-15T21:30",
-      "channels": [
-        {
-          "slug": "apple",
-          "label": "Apple TV",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Apple TV"
-    },
-    {
-      "id": "usa-mls-202608152130-colorado-rapids-vs-sporting-kansas-city",
-      "competition": "usa-mls",
-      "home": "Colorado Rapids",
-      "away": "Sporting Kansas City",
-      "home_slug": "colorado-rapids",
-      "away_slug": "sporting-kansas-city",
-      "kickoff_utc": "2026-08-16T01:30:00.000Z",
-      "kickoff_et": "2026-08-15T21:30",
-      "channels": [
-        {
-          "slug": "apple",
-          "label": "Apple TV",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Apple TV"
-    },
-    {
-      "id": "usa-mls-202608152230-lafc-vs-san-diego-fc",
-      "competition": "usa-mls",
-      "home": "LAFC",
-      "away": "San Diego FC",
-      "home_slug": "lafc",
-      "away_slug": "san-diego-fc",
-      "kickoff_utc": "2026-08-16T02:30:00.000Z",
-      "kickoff_et": "2026-08-15T22:30",
-      "channels": [
-        {
-          "slug": "apple",
-          "label": "Apple TV",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Apple TV"
-    },
-    {
-      "id": "usa-mls-202608152230-san-jose-earthquakes-vs-st-louis-city-sc",
-      "competition": "usa-mls",
-      "home": "San Jose Earthquakes",
-      "away": "St. Louis City SC",
-      "home_slug": "san-jose-earthquakes",
-      "away_slug": "st-louis-city-sc",
-      "kickoff_utc": "2026-08-16T02:30:00.000Z",
-      "kickoff_et": "2026-08-15T22:30",
-      "channels": [
-        {
-          "slug": "apple",
-          "label": "Apple TV",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Apple TV"
-    },
-    {
-      "id": "mex-ligamx-202608152310-atlas-vs-tigres-uanl",
-      "competition": "mex-ligamx",
-      "home": "Atlas",
-      "away": "Tigres UANL",
-      "home_slug": "atlas",
-      "away_slug": "tigres-uanl",
-      "kickoff_utc": "2026-08-16T03:10:00.000Z",
-      "kickoff_et": "2026-08-15T23:10",
-      "channels": [
-        {
-          "slug": "other:univision",
-          "label": "Univision",
-          "tier": 4
-        },
-        {
-          "slug": "tudn",
-          "label": "TUDN",
-          "tier": 2
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
-        },
-        {
-          "slug": "other:hulu-live-tv",
-          "label": "Hulu + Live TV",
-          "tier": 4
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Univision, TUDN, DirecTV Stream, Hulu + Live TV, ViX"
-    },
-    {
-      "id": "eng-champ-202608160830-watford-vs-southampton",
-      "competition": "eng-champ",
-      "home": "Watford",
-      "away": "Southampton",
-      "home_slug": "watford",
-      "away_slug": "southampton",
-      "kickoff_utc": "2026-08-16T12:30:00.000Z",
-      "kickoff_et": "2026-08-16T08:30",
-      "channels": [
-        {
-          "slug": "cbs",
-          "label": "CBS",
-          "tier": 1
-        },
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "other:amazon-prime-video",
-          "label": "Amazon Prime Video",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "CBS Sports Golazo Network, Paramount+, Amazon Prime Video"
-    },
-    {
-      "id": "esp-laliga-202608161100-racing-de-santander-vs-villarreal",
-      "competition": "esp-laliga",
-      "home": "Racing de Santander",
-      "away": "Villarreal",
-      "home_slug": "racing-de-santander",
-      "away_slug": "villarreal",
-      "kickoff_utc": "2026-08-16T15:00:00.000Z",
-      "kickoff_et": "2026-08-16T11:00",
-      "channels": [
-        {
-          "slug": "espn-plus",
-          "label": "ESPN+",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "ESPN+"
-    },
-    {
-      "id": "eng-champ-202608161100-burnley-vs-west-ham-united",
-      "competition": "eng-champ",
-      "home": "Burnley",
-      "away": "West Ham United",
-      "home_slug": "burnley",
-      "away_slug": "west-ham-united",
-      "kickoff_utc": "2026-08-16T15:00:00.000Z",
-      "kickoff_et": "2026-08-16T11:00",
-      "channels": [
-        {
-          "slug": "cbssn",
-          "label": "CBS Sports Net",
-          "tier": 2
-        },
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
-        },
-        {
-          "slug": "other:hulu-live-tv",
-          "label": "Hulu + Live TV",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "CBS Sports Network, Paramount+, Fubo, DirecTV Stream, Hulu + Live TV"
-    },
-    {
-      "id": "esp-laliga-202608161300-espanyol-vs-levante",
-      "competition": "esp-laliga",
-      "home": "Espanyol",
-      "away": "Levante",
-      "home_slug": "espanyol",
-      "away_slug": "levante",
-      "kickoff_utc": "2026-08-16T17:00:00.000Z",
-      "kickoff_et": "2026-08-16T13:00",
-      "channels": [
-        {
-          "slug": "espn-plus",
-          "label": "ESPN+",
-          "tier": 3
-        },
-        {
-          "slug": "espn-dep",
-          "label": "ESPN Deportes",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "ESPN+, ESPN Deportes, Fubo, DirecTV Stream"
-    },
-    {
-      "id": "mex-ligamx-202608161400-pumas-unam-vs-queretaro",
-      "competition": "mex-ligamx",
-      "home": "Pumas UNAM",
-      "away": "Querétaro",
-      "home_slug": "pumas-unam",
-      "away_slug": "queretaro",
-      "kickoff_utc": "2026-08-16T18:00:00.000Z",
-      "kickoff_et": "2026-08-16T14:00",
-      "channels": [
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "ViX"
-    },
-    {
-      "id": "usa-mls-202608161800-new-york-city-fc-vs-philadelphia-union",
-      "competition": "usa-mls",
-      "home": "New York City FC",
-      "away": "Philadelphia Union",
-      "home_slug": "new-york-city-fc",
-      "away_slug": "philadelphia-union",
-      "kickoff_utc": "2026-08-16T22:00:00.000Z",
-      "kickoff_et": "2026-08-16T18:00",
-      "channels": [
-        {
-          "slug": "apple",
-          "label": "Apple TV",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Apple TV"
-    },
-    {
-      "id": "usa-mls-202608161800-chicago-fire-fc-vs-portland-timbers",
-      "competition": "usa-mls",
-      "home": "Chicago Fire FC",
-      "away": "Portland Timbers",
-      "home_slug": "chicago-fire-fc",
-      "away_slug": "portland-timbers",
-      "kickoff_utc": "2026-08-16T22:00:00.000Z",
-      "kickoff_et": "2026-08-16T18:00",
-      "channels": [
-        {
-          "slug": "apple",
-          "label": "Apple TV",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Apple TV"
-    },
-    {
-      "id": "mex-ligamx-202608161900-america-vs-atletico-san-luis",
-      "competition": "mex-ligamx",
-      "home": "América",
-      "away": "Atlético San Luis",
-      "home_slug": "america",
-      "away_slug": "atletico-san-luis",
-      "kickoff_utc": "2026-08-16T23:00:00.000Z",
-      "kickoff_et": "2026-08-16T19:00",
-      "channels": [
-        {
-          "slug": "tudn",
-          "label": "TUDN",
-          "tier": 2
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
-        },
-        {
-          "slug": "other:hulu-live-tv",
-          "label": "Hulu + Live TV",
-          "tier": 4
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "TUDN, DirecTV Stream, Hulu + Live TV, ViX"
-    },
     {
       "id": "usa-mls-202608162030-austin-fc-vs-fc-dallas",
       "competition": "usa-mls",
@@ -1204,6 +415,90 @@
       "channels_raw": "ESPN+, ESPN Deportes, Fubo, DirecTV Stream"
     },
     {
+      "id": "uefa-ucl-202608181500-fenerbahce-vs-lyon",
+      "competition": "uefa-ucl",
+      "home": "Fenerbahçe",
+      "away": "Lyon",
+      "home_slug": "fenerbahce",
+      "away_slug": "lyon",
+      "kickoff_utc": "2026-08-18T19:00:00.000Z",
+      "kickoff_et": "2026-08-18T15:00",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        },
+        {
+          "slug": "other:dazn",
+          "label": "DAZN",
+          "tier": 4
+        }
+      ],
+      "channels_raw": "Paramount+, DAZN"
+    },
+    {
+      "id": "uefa-ucl-202608181500-pfc-levski-sofia-vs-aek-athens",
+      "competition": "uefa-ucl",
+      "home": "PFC Levski Sofia",
+      "away": "AEK Athens",
+      "home_slug": "pfc-levski-sofia",
+      "away_slug": "aek-athens",
+      "kickoff_utc": "2026-08-18T19:00:00.000Z",
+      "kickoff_et": "2026-08-18T15:00",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        },
+        {
+          "slug": "tudn",
+          "label": "TUDN",
+          "tier": 2
+        },
+        {
+          "slug": "other:directv-stream",
+          "label": "DirecTV Stream",
+          "tier": 4
+        },
+        {
+          "slug": "other:hulu-live-tv",
+          "label": "Hulu + Live TV",
+          "tier": 4
+        },
+        {
+          "slug": "vix",
+          "label": "ViX",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+, TUDN, DirecTV Stream, Hulu + Live TV, ViX"
+    },
+    {
+      "id": "uefa-ucl-202608181500-dinamo-zagreb-vs-viking",
+      "competition": "uefa-ucl",
+      "home": "Dinamo Zagreb",
+      "away": "Viking",
+      "home_slug": "dinamo-zagreb",
+      "away_slug": "viking",
+      "kickoff_utc": "2026-08-18T19:00:00.000Z",
+      "kickoff_et": "2026-08-18T15:00",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        },
+        {
+          "slug": "vix",
+          "label": "ViX",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+, ViX"
+    },
+    {
       "id": "conmebol-libert-202608181800-independiente-rivadavia-vs-fluminense",
       "competition": "conmebol-libert",
       "home": "Independiente Rivadavia",
@@ -1260,34 +555,6 @@
       "channels_raw": "beIN SPORTS, beIN SPORTS en Español, beIN SPORTS Connect, Fubo, Fanatiz"
     },
     {
-      "id": "conmebol-libert-202608182030-cd-universidad-catolica-chile-vs-estudiantes-de-la-plata",
-      "competition": "conmebol-libert",
-      "home": "CD Universidad Católica (Chile)",
-      "away": "Estudiantes de La Plata",
-      "home_slug": "cd-universidad-catolica-chile",
-      "away_slug": "estudiantes-de-la-plata",
-      "kickoff_utc": "2026-08-19T00:30:00.000Z",
-      "kickoff_et": "2026-08-18T20:30",
-      "channels": [
-        {
-          "slug": "bein",
-          "label": "beIN Sports",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:fanatiz",
-          "label": "Fanatiz",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "beIN SPORTS Connect, Fubo, Fanatiz"
-    },
-    {
       "id": "conmebol-libert-202608182030-deportes-tolima-vs-independiente-del-valle",
       "competition": "conmebol-libert",
       "home": "Deportes Tolima",
@@ -1316,6 +583,34 @@
       "channels_raw": "beIN SPORTS, beIN SPORTS en Español, beIN SPORTS Connect, Fubo, Fanatiz"
     },
     {
+      "id": "conmebol-libert-202608182030-cd-universidad-catolica-chile-vs-estudiantes-de-la-plata",
+      "competition": "conmebol-libert",
+      "home": "CD Universidad Católica (Chile)",
+      "away": "Estudiantes de La Plata",
+      "home_slug": "cd-universidad-catolica-chile",
+      "away_slug": "estudiantes-de-la-plata",
+      "kickoff_utc": "2026-08-19T00:30:00.000Z",
+      "kickoff_et": "2026-08-18T20:30",
+      "channels": [
+        {
+          "slug": "bein",
+          "label": "beIN Sports",
+          "tier": 2
+        },
+        {
+          "slug": "fubo",
+          "label": "Fubo",
+          "tier": 3
+        },
+        {
+          "slug": "other:fanatiz",
+          "label": "Fanatiz",
+          "tier": 4
+        }
+      ],
+      "channels_raw": "beIN SPORTS Connect, Fubo, Fanatiz"
+    },
+    {
       "id": "conmebol-suda-202608182030-sao-paulo-vs-bolivar",
       "competition": "conmebol-suda",
       "home": "São Paulo",
@@ -1339,9 +634,141 @@
           "slug": "other:fanatiz",
           "label": "Fanatiz",
           "tier": 4
+        },
+        {
+          "slug": "other:directv-stream",
+          "label": "DirecTV Stream",
+          "tier": 4
+        },
+        {
+          "slug": "other:hulu-live-tv",
+          "label": "Hulu + Live TV",
+          "tier": 4
+        },
+        {
+          "slug": "other:amazon-prime-video",
+          "label": "Amazon Prime Video",
+          "tier": 4
+        },
+        {
+          "slug": "other:tubi",
+          "label": "Tubi",
+          "tier": 4
+        },
+        {
+          "slug": "vix",
+          "label": "ViX",
+          "tier": 3
         }
       ],
-      "channels_raw": "beIN SPORTS Connect, Fubo, Fanatiz"
+      "channels_raw": "beIN SPORTS XTRA, beIN SPORTS XTRA Español, beIN SPORTS Connect, Fubo, Fanatiz, DirecTV Stream, Hulu + Live TV, Amazon Prime Video, Tubi, ViX"
+    },
+    {
+      "id": "uefa-ucl-202608191500-nec-nijmegen-vs-fk-bod-glimt",
+      "competition": "uefa-ucl",
+      "home": "NEC Nijmegen",
+      "away": "FK Bodø/Glimt",
+      "home_slug": "nec-nijmegen",
+      "away_slug": "fk-bod-glimt",
+      "kickoff_utc": "2026-08-19T19:00:00.000Z",
+      "kickoff_et": "2026-08-19T15:00",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        },
+        {
+          "slug": "other:dazn",
+          "label": "DAZN",
+          "tier": 4
+        }
+      ],
+      "channels_raw": "Paramount+, DAZN"
+    },
+    {
+      "id": "uefa-ucl-202608191500-celtic-vs-lask",
+      "competition": "uefa-ucl",
+      "home": "Celtic",
+      "away": "LASK",
+      "home_slug": "celtic",
+      "away_slug": "lask",
+      "kickoff_utc": "2026-08-19T19:00:00.000Z",
+      "kickoff_et": "2026-08-19T15:00",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        },
+        {
+          "slug": "tudn",
+          "label": "TUDN",
+          "tier": 2
+        },
+        {
+          "slug": "other:directv-stream",
+          "label": "DirecTV Stream",
+          "tier": 4
+        },
+        {
+          "slug": "other:hulu-live-tv",
+          "label": "Hulu + Live TV",
+          "tier": 4
+        },
+        {
+          "slug": "vix",
+          "label": "ViX",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+, TUDN, DirecTV Stream, Hulu + Live TV, ViX"
+    },
+    {
+      "id": "uefa-ucl-202608191500-hapoel-beer-sheva-fc-vs-sabah",
+      "competition": "uefa-ucl",
+      "home": "Hapoel Beer-Sheva FC",
+      "away": "Sabah",
+      "home_slug": "hapoel-beer-sheva-fc",
+      "away_slug": "sabah",
+      "kickoff_utc": "2026-08-19T19:00:00.000Z",
+      "kickoff_et": "2026-08-19T15:00",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        },
+        {
+          "slug": "vix",
+          "label": "ViX",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+, ViX"
+    },
+    {
+      "id": "uefa-ucl-202608191500-slovan-bratislava-vs-celje",
+      "competition": "uefa-ucl",
+      "home": "Slovan Bratislava",
+      "away": "Celje",
+      "home_slug": "slovan-bratislava",
+      "away_slug": "celje",
+      "kickoff_utc": "2026-08-19T19:00:00.000Z",
+      "kickoff_et": "2026-08-19T15:00",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        },
+        {
+          "slug": "vix",
+          "label": "ViX",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+, ViX"
     },
     {
       "id": "conmebol-libert-202608191800-coquimbo-unido-vs-platense",
@@ -1367,9 +794,34 @@
           "slug": "other:fanatiz",
           "label": "Fanatiz",
           "tier": 4
+        },
+        {
+          "slug": "other:directv-stream",
+          "label": "DirecTV Stream",
+          "tier": 4
+        },
+        {
+          "slug": "other:hulu-live-tv",
+          "label": "Hulu + Live TV",
+          "tier": 4
+        },
+        {
+          "slug": "other:amazon-prime-video",
+          "label": "Amazon Prime Video",
+          "tier": 4
+        },
+        {
+          "slug": "other:tubi",
+          "label": "Tubi",
+          "tier": 4
+        },
+        {
+          "slug": "vix",
+          "label": "ViX",
+          "tier": 3
         }
       ],
-      "channels_raw": "beIN SPORTS Connect, Fubo, Fanatiz"
+      "channels_raw": "beIN SPORTS XTRA, beIN SPORTS XTRA Español, beIN SPORTS Connect, Fubo, Fanatiz, DirecTV Stream, Hulu + Live TV, Amazon Prime Video, Tubi, ViX"
     },
     {
       "id": "conmebol-libert-202608191800-cerro-porteno-vs-palmeiras",
@@ -1446,12 +898,30 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202608191930-columbus-crew-vs-montreal",
+      "id": "usa-mls-202608191930-toronto-fc-vs-charlotte-fc",
       "competition": "usa-mls",
-      "home": "Columbus Crew",
-      "away": "Montréal",
-      "home_slug": "columbus-crew",
-      "away_slug": "montreal",
+      "home": "Toronto FC",
+      "away": "Charlotte FC",
+      "home_slug": "toronto-fc",
+      "away_slug": "charlotte-fc",
+      "kickoff_utc": "2026-08-19T23:30:00.000Z",
+      "kickoff_et": "2026-08-19T19:30",
+      "channels": [
+        {
+          "slug": "apple",
+          "label": "Apple TV",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Apple TV"
+    },
+    {
+      "id": "usa-mls-202608191930-fc-cincinnati-vs-new-york-city-fc",
+      "competition": "usa-mls",
+      "home": "FC Cincinnati",
+      "away": "New York City FC",
+      "home_slug": "fc-cincinnati",
+      "away_slug": "new-york-city-fc",
       "kickoff_utc": "2026-08-19T23:30:00.000Z",
       "kickoff_et": "2026-08-19T19:30",
       "channels": [
@@ -1500,48 +970,30 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202608191930-fc-cincinnati-vs-new-york-city-fc",
-      "competition": "usa-mls",
-      "home": "FC Cincinnati",
-      "away": "New York City FC",
-      "home_slug": "fc-cincinnati",
-      "away_slug": "new-york-city-fc",
-      "kickoff_utc": "2026-08-19T23:30:00.000Z",
-      "kickoff_et": "2026-08-19T19:30",
-      "channels": [
-        {
-          "slug": "apple",
-          "label": "Apple TV",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Apple TV"
-    },
-    {
-      "id": "usa-mls-202608191930-toronto-fc-vs-charlotte-fc",
-      "competition": "usa-mls",
-      "home": "Toronto FC",
-      "away": "Charlotte FC",
-      "home_slug": "toronto-fc",
-      "away_slug": "charlotte-fc",
-      "kickoff_utc": "2026-08-19T23:30:00.000Z",
-      "kickoff_et": "2026-08-19T19:30",
-      "channels": [
-        {
-          "slug": "apple",
-          "label": "Apple TV",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Apple TV"
-    },
-    {
       "id": "usa-mls-202608191930-philadelphia-union-vs-inter-miami-cf",
       "competition": "usa-mls",
       "home": "Philadelphia Union",
       "away": "Inter Miami CF",
       "home_slug": "philadelphia-union",
       "away_slug": "inter-miami-cf",
+      "kickoff_utc": "2026-08-19T23:30:00.000Z",
+      "kickoff_et": "2026-08-19T19:30",
+      "channels": [
+        {
+          "slug": "apple",
+          "label": "Apple TV",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Apple TV"
+    },
+    {
+      "id": "usa-mls-202608191930-columbus-crew-vs-montreal",
+      "competition": "usa-mls",
+      "home": "Columbus Crew",
+      "away": "Montréal",
+      "home_slug": "columbus-crew",
+      "away_slug": "montreal",
       "kickoff_utc": "2026-08-19T23:30:00.000Z",
       "kickoff_et": "2026-08-19T19:30",
       "channels": [
@@ -1704,12 +1156,12 @@
       "channels_raw": "beIN SPORTS, beIN SPORTS en Español, beIN SPORTS Connect, Fubo, Fanatiz"
     },
     {
-      "id": "usa-mls-202608192130-colorado-rapids-vs-lafc",
+      "id": "usa-mls-202608192130-seattle-sounders-fc-vs-austin-fc",
       "competition": "usa-mls",
-      "home": "Colorado Rapids",
-      "away": "LAFC",
-      "home_slug": "colorado-rapids",
-      "away_slug": "lafc",
+      "home": "Seattle Sounders FC",
+      "away": "Austin FC",
+      "home_slug": "seattle-sounders-fc",
+      "away_slug": "austin-fc",
       "kickoff_utc": "2026-08-20T01:30:00.000Z",
       "kickoff_et": "2026-08-19T21:30",
       "channels": [
@@ -1722,12 +1174,12 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202608192130-seattle-sounders-fc-vs-austin-fc",
+      "id": "usa-mls-202608192130-colorado-rapids-vs-lafc",
       "competition": "usa-mls",
-      "home": "Seattle Sounders FC",
-      "away": "Austin FC",
-      "home_slug": "seattle-sounders-fc",
-      "away_slug": "austin-fc",
+      "home": "Colorado Rapids",
+      "away": "LAFC",
+      "home_slug": "colorado-rapids",
+      "away_slug": "lafc",
       "kickoff_utc": "2026-08-20T01:30:00.000Z",
       "kickoff_et": "2026-08-19T21:30",
       "channels": [
@@ -1903,6 +1355,59 @@
       "channels_raw": "beIN SPORTS Connect, Fubo, Fanatiz"
     },
     {
+      "id": "conmebol-suda-202608201800-club-olimpia-vs-vasco-da-gama",
+      "competition": "conmebol-suda",
+      "home": "Club Olimpia",
+      "away": "Vasco da Gama",
+      "home_slug": "club-olimpia",
+      "away_slug": "vasco-da-gama",
+      "kickoff_utc": "2026-08-20T22:00:00.000Z",
+      "kickoff_et": "2026-08-20T18:00",
+      "channels": [
+        {
+          "slug": "bein",
+          "label": "beIN Sports",
+          "tier": 2
+        },
+        {
+          "slug": "fubo",
+          "label": "Fubo",
+          "tier": 3
+        },
+        {
+          "slug": "other:fanatiz",
+          "label": "Fanatiz",
+          "tier": 4
+        },
+        {
+          "slug": "other:directv-stream",
+          "label": "DirecTV Stream",
+          "tier": 4
+        },
+        {
+          "slug": "other:hulu-live-tv",
+          "label": "Hulu + Live TV",
+          "tier": 4
+        },
+        {
+          "slug": "other:amazon-prime-video",
+          "label": "Amazon Prime Video",
+          "tier": 4
+        },
+        {
+          "slug": "other:tubi",
+          "label": "Tubi",
+          "tier": 4
+        },
+        {
+          "slug": "vix",
+          "label": "ViX",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "beIN SPORTS XTRA, beIN SPORTS XTRA Español, beIN SPORTS Connect, Fubo, Fanatiz, DirecTV Stream, Hulu + Live TV, Amazon Prime Video, Tubi, ViX"
+    },
+    {
       "id": "conmebol-suda-202608201800-macara-vs-santos",
       "competition": "conmebol-suda",
       "home": "Macará",
@@ -1929,34 +1434,6 @@
         }
       ],
       "channels_raw": "beIN SPORTS, beIN SPORTS en Español, beIN SPORTS Connect, Fubo, Fanatiz"
-    },
-    {
-      "id": "conmebol-suda-202608201800-club-olimpia-vs-vasco-da-gama",
-      "competition": "conmebol-suda",
-      "home": "Club Olimpia",
-      "away": "Vasco da Gama",
-      "home_slug": "club-olimpia",
-      "away_slug": "vasco-da-gama",
-      "kickoff_utc": "2026-08-20T22:00:00.000Z",
-      "kickoff_et": "2026-08-20T18:00",
-      "channels": [
-        {
-          "slug": "bein",
-          "label": "beIN Sports",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:fanatiz",
-          "label": "Fanatiz",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "beIN SPORTS Connect, Fubo, Fanatiz"
     },
     {
       "id": "conmebol-libert-202608202030-corinthians-vs-rosario-central",
@@ -2134,12 +1611,12 @@
       "channels_raw": "USA Network, Universo, DirecTV Stream, Sling Blue, Hulu + Live TV, Fubo Latino"
     },
     {
-      "id": "eng-champ-202608220730-birmingham-city-vs-bristol-city",
+      "id": "eng-champ-202608220730-lincoln-city-vs-portsmouth",
       "competition": "eng-champ",
-      "home": "Birmingham City",
-      "away": "Bristol City",
-      "home_slug": "birmingham-city",
-      "away_slug": "bristol-city",
+      "home": "Lincoln City",
+      "away": "Portsmouth",
+      "home_slug": "lincoln-city",
+      "away_slug": "portsmouth",
       "kickoff_utc": "2026-08-22T11:30:00.000Z",
       "kickoff_et": "2026-08-22T07:30",
       "channels": [
@@ -2152,12 +1629,12 @@
       "channels_raw": "Paramount+"
     },
     {
-      "id": "eng-champ-202608220730-lincoln-city-vs-portsmouth",
+      "id": "eng-champ-202608220730-birmingham-city-vs-bristol-city",
       "competition": "eng-champ",
-      "home": "Lincoln City",
-      "away": "Portsmouth",
-      "home_slug": "lincoln-city",
-      "away_slug": "portsmouth",
+      "home": "Birmingham City",
+      "away": "Bristol City",
+      "home_slug": "birmingham-city",
+      "away_slug": "bristol-city",
       "kickoff_utc": "2026-08-22T11:30:00.000Z",
       "kickoff_et": "2026-08-22T07:30",
       "channels": [
@@ -2259,6 +1736,60 @@
       "channels_raw": "NBCSN, Peacock Premium"
     },
     {
+      "id": "eng-champ-202608221000-wrexham-afc-vs-watford",
+      "competition": "eng-champ",
+      "home": "Wrexham AFC",
+      "away": "Watford",
+      "home_slug": "wrexham-afc",
+      "away_slug": "watford",
+      "kickoff_utc": "2026-08-22T14:00:00.000Z",
+      "kickoff_et": "2026-08-22T10:00",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
+    },
+    {
+      "id": "eng-champ-202608221000-west-ham-united-vs-charlton-athletic",
+      "competition": "eng-champ",
+      "home": "West Ham United",
+      "away": "Charlton Athletic",
+      "home_slug": "west-ham-united",
+      "away_slug": "charlton-athletic",
+      "kickoff_utc": "2026-08-22T14:00:00.000Z",
+      "kickoff_et": "2026-08-22T10:00",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
+    },
+    {
+      "id": "eng-champ-202608221000-blackburn-rovers-vs-middlesbrough",
+      "competition": "eng-champ",
+      "home": "Blackburn Rovers",
+      "away": "Middlesbrough",
+      "home_slug": "blackburn-rovers",
+      "away_slug": "middlesbrough",
+      "kickoff_utc": "2026-08-22T14:00:00.000Z",
+      "kickoff_et": "2026-08-22T10:00",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
+    },
+    {
       "id": "eng-champ-202608221000-preston-north-end-vs-wolverhampton-wanderers",
       "competition": "eng-champ",
       "home": "Preston North End",
@@ -2295,60 +1826,6 @@
         }
       ],
       "channels_raw": "CBS Sports Network, Paramount+, Fubo, DirecTV Stream, Hulu + Live TV"
-    },
-    {
-      "id": "eng-champ-202608221000-blackburn-rovers-vs-middlesbrough",
-      "competition": "eng-champ",
-      "home": "Blackburn Rovers",
-      "away": "Middlesbrough",
-      "home_slug": "blackburn-rovers",
-      "away_slug": "middlesbrough",
-      "kickoff_utc": "2026-08-22T14:00:00.000Z",
-      "kickoff_et": "2026-08-22T10:00",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+"
-    },
-    {
-      "id": "eng-champ-202608221000-west-ham-united-vs-charlton-athletic",
-      "competition": "eng-champ",
-      "home": "West Ham United",
-      "away": "Charlton Athletic",
-      "home_slug": "west-ham-united",
-      "away_slug": "charlton-athletic",
-      "kickoff_utc": "2026-08-22T14:00:00.000Z",
-      "kickoff_et": "2026-08-22T10:00",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+"
-    },
-    {
-      "id": "eng-champ-202608221000-wrexham-afc-vs-watford",
-      "competition": "eng-champ",
-      "home": "Wrexham AFC",
-      "away": "Watford",
-      "home_slug": "wrexham-afc",
-      "away_slug": "watford",
-      "kickoff_utc": "2026-08-22T14:00:00.000Z",
-      "kickoff_et": "2026-08-22T10:00",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+"
     },
     {
       "id": "esp-laliga-202608221100-athletic-bilbao-vs-sevilla-fc",
@@ -2460,9 +1937,29 @@
           "slug": "paramount",
           "label": "Paramount+",
           "tier": 3
+        },
+        {
+          "slug": "telemundo",
+          "label": "Telemundo",
+          "tier": 2
+        },
+        {
+          "slug": "fubo",
+          "label": "Fubo",
+          "tier": 3
+        },
+        {
+          "slug": "other:directv-stream",
+          "label": "DirecTV Stream",
+          "tier": 4
+        },
+        {
+          "slug": "other:hulu-live-tv",
+          "label": "Hulu + Live TV",
+          "tier": 4
         }
       ],
-      "channels_raw": "Paramount+"
+      "channels_raw": "Paramount+, Telemundo, Fubo, DirecTV Stream, Hulu + Live TV"
     },
     {
       "id": "ita-seriea-202608221230-udinese-vs-como-1907",
@@ -2536,6 +2033,44 @@
       "channels_raw": "ESPN+, ESPN Deportes, Fubo, DirecTV Stream"
     },
     {
+      "id": "ita-seriea-202608221445-genoa-vs-napoli",
+      "competition": "ita-seriea",
+      "home": "Genoa",
+      "away": "Napoli",
+      "home_slug": "genoa",
+      "away_slug": "napoli",
+      "kickoff_utc": "2026-08-22T18:45:00.000Z",
+      "kickoff_et": "2026-08-22T14:45",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        },
+        {
+          "slug": "other:universo",
+          "label": "Universo",
+          "tier": 4
+        },
+        {
+          "slug": "fubo",
+          "label": "Fubo",
+          "tier": 3
+        },
+        {
+          "slug": "other:directv-stream",
+          "label": "DirecTV Stream",
+          "tier": 4
+        },
+        {
+          "slug": "other:hulu-live-tv",
+          "label": "Hulu + Live TV",
+          "tier": 4
+        }
+      ],
+      "channels_raw": "Paramount+, Universo, Fubo, DirecTV Stream, Hulu + Live TV"
+    },
+    {
       "id": "ita-seriea-202608221445-parma-vs-cagliari",
       "competition": "ita-seriea",
       "home": "Parma",
@@ -2572,24 +2107,6 @@
         }
       ],
       "channels_raw": "CBS Sports Network, Paramount+, Fubo, DirecTV Stream, Hulu + Live TV"
-    },
-    {
-      "id": "ita-seriea-202608221445-genoa-vs-napoli",
-      "competition": "ita-seriea",
-      "home": "Genoa",
-      "away": "Napoli",
-      "home_slug": "genoa",
-      "away_slug": "napoli",
-      "kickoff_utc": "2026-08-22T18:45:00.000Z",
-      "kickoff_et": "2026-08-22T14:45",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+"
     },
     {
       "id": "esp-laliga-202608221530-espanyol-vs-real-madrid",
@@ -2663,30 +2180,12 @@
       "channels_raw": "beIN SPORTS Connect, Fubo, Fanatiz"
     },
     {
-      "id": "usa-mls-202608221930-new-york-red-bulls-vs-chicago-fire-fc",
+      "id": "usa-mls-202608221930-montreal-vs-la-galaxy",
       "competition": "usa-mls",
-      "home": "New York Red Bulls",
-      "away": "Chicago Fire FC",
-      "home_slug": "new-york-red-bulls",
-      "away_slug": "chicago-fire-fc",
-      "kickoff_utc": "2026-08-22T23:30:00.000Z",
-      "kickoff_et": "2026-08-22T19:30",
-      "channels": [
-        {
-          "slug": "apple",
-          "label": "Apple TV",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Apple TV"
-    },
-    {
-      "id": "usa-mls-202608221930-charlotte-fc-vs-d-c-united",
-      "competition": "usa-mls",
-      "home": "Charlotte FC",
-      "away": "D.C. United",
-      "home_slug": "charlotte-fc",
-      "away_slug": "d-c-united",
+      "home": "Montréal",
+      "away": "LA Galaxy",
+      "home_slug": "montreal",
+      "away_slug": "la-galaxy",
       "kickoff_utc": "2026-08-22T23:30:00.000Z",
       "kickoff_et": "2026-08-22T19:30",
       "channels": [
@@ -2717,12 +2216,12 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202608221930-inter-miami-cf-vs-toronto-fc",
+      "id": "usa-mls-202608221930-charlotte-fc-vs-d-c-united",
       "competition": "usa-mls",
-      "home": "Inter Miami CF",
-      "away": "Toronto FC",
-      "home_slug": "inter-miami-cf",
-      "away_slug": "toronto-fc",
+      "home": "Charlotte FC",
+      "away": "D.C. United",
+      "home_slug": "charlotte-fc",
+      "away_slug": "d-c-united",
       "kickoff_utc": "2026-08-22T23:30:00.000Z",
       "kickoff_et": "2026-08-22T19:30",
       "channels": [
@@ -2753,14 +2252,50 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202608221930-montreal-vs-la-galaxy",
+      "id": "usa-mls-202608221930-inter-miami-cf-vs-toronto-fc",
       "competition": "usa-mls",
-      "home": "Montréal",
-      "away": "LA Galaxy",
-      "home_slug": "montreal",
-      "away_slug": "la-galaxy",
+      "home": "Inter Miami CF",
+      "away": "Toronto FC",
+      "home_slug": "inter-miami-cf",
+      "away_slug": "toronto-fc",
       "kickoff_utc": "2026-08-22T23:30:00.000Z",
       "kickoff_et": "2026-08-22T19:30",
+      "channels": [
+        {
+          "slug": "apple",
+          "label": "Apple TV",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Apple TV"
+    },
+    {
+      "id": "usa-mls-202608221930-new-york-red-bulls-vs-chicago-fire-fc",
+      "competition": "usa-mls",
+      "home": "New York Red Bulls",
+      "away": "Chicago Fire FC",
+      "home_slug": "new-york-red-bulls",
+      "away_slug": "chicago-fire-fc",
+      "kickoff_utc": "2026-08-22T23:30:00.000Z",
+      "kickoff_et": "2026-08-22T19:30",
+      "channels": [
+        {
+          "slug": "apple",
+          "label": "Apple TV",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Apple TV"
+    },
+    {
+      "id": "usa-mls-202608222030-nashville-sc-vs-columbus-crew",
+      "competition": "usa-mls",
+      "home": "Nashville SC",
+      "away": "Columbus Crew",
+      "home_slug": "nashville-sc",
+      "away_slug": "columbus-crew",
+      "kickoff_utc": "2026-08-23T00:30:00.000Z",
+      "kickoff_et": "2026-08-22T20:30",
       "channels": [
         {
           "slug": "apple",
@@ -2807,24 +2342,6 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202608222030-nashville-sc-vs-columbus-crew",
-      "competition": "usa-mls",
-      "home": "Nashville SC",
-      "away": "Columbus Crew",
-      "home_slug": "nashville-sc",
-      "away_slug": "columbus-crew",
-      "kickoff_utc": "2026-08-23T00:30:00.000Z",
-      "kickoff_et": "2026-08-22T20:30",
-      "channels": [
-        {
-          "slug": "apple",
-          "label": "Apple TV",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Apple TV"
-    },
-    {
       "id": "usa-mls-202608222130-vancouver-whitecaps-vs-fc-dallas",
       "competition": "usa-mls",
       "home": "Vancouver Whitecaps",
@@ -2843,12 +2360,12 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202608222230-san-jose-earthquakes-vs-minnesota-united-fc",
+      "id": "usa-mls-202608222230-san-diego-fc-vs-colorado-rapids",
       "competition": "usa-mls",
-      "home": "San Jose Earthquakes",
-      "away": "Minnesota United FC",
-      "home_slug": "san-jose-earthquakes",
-      "away_slug": "minnesota-united-fc",
+      "home": "San Diego FC",
+      "away": "Colorado Rapids",
+      "home_slug": "san-diego-fc",
+      "away_slug": "colorado-rapids",
       "kickoff_utc": "2026-08-23T02:30:00.000Z",
       "kickoff_et": "2026-08-22T22:30",
       "channels": [
@@ -2861,12 +2378,12 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202608222230-san-diego-fc-vs-colorado-rapids",
+      "id": "usa-mls-202608222230-san-jose-earthquakes-vs-minnesota-united-fc",
       "competition": "usa-mls",
-      "home": "San Diego FC",
-      "away": "Colorado Rapids",
-      "home_slug": "san-diego-fc",
-      "away_slug": "colorado-rapids",
+      "home": "San Jose Earthquakes",
+      "away": "Minnesota United FC",
+      "home_slug": "san-jose-earthquakes",
+      "away_slug": "minnesota-united-fc",
       "kickoff_utc": "2026-08-23T02:30:00.000Z",
       "kickoff_et": "2026-08-22T22:30",
       "channels": [
@@ -3067,24 +2584,6 @@
       "channels_raw": "USA Network, Telemundo, DirecTV Stream, Sling Blue, Hulu + Live TV, Fubo"
     },
     {
-      "id": "ita-seriea-202608231230-frosinone-calcio-vs-juventus",
-      "competition": "ita-seriea",
-      "home": "Frosinone Calcio",
-      "away": "Juventus",
-      "home_slug": "frosinone-calcio",
-      "away_slug": "juventus",
-      "kickoff_utc": "2026-08-23T16:30:00.000Z",
-      "kickoff_et": "2026-08-23T12:30",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+"
-    },
-    {
       "id": "ita-seriea-202608231230-venezia-vs-lecce",
       "competition": "ita-seriea",
       "home": "Venezia",
@@ -3101,6 +2600,44 @@
         }
       ],
       "channels_raw": "Paramount+"
+    },
+    {
+      "id": "ita-seriea-202608231230-frosinone-calcio-vs-juventus",
+      "competition": "ita-seriea",
+      "home": "Frosinone Calcio",
+      "away": "Juventus",
+      "home_slug": "frosinone-calcio",
+      "away_slug": "juventus",
+      "kickoff_utc": "2026-08-23T16:30:00.000Z",
+      "kickoff_et": "2026-08-23T12:30",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        },
+        {
+          "slug": "other:universo",
+          "label": "Universo",
+          "tier": 4
+        },
+        {
+          "slug": "fubo",
+          "label": "Fubo",
+          "tier": 3
+        },
+        {
+          "slug": "other:directv-stream",
+          "label": "DirecTV Stream",
+          "tier": 4
+        },
+        {
+          "slug": "other:hulu-live-tv",
+          "label": "Hulu + Live TV",
+          "tier": 4
+        }
+      ],
+      "channels_raw": "Paramount+, Universo, Fubo, DirecTV Stream, Hulu + Live TV"
     },
     {
       "id": "esp-laliga-202608231330-getafe-vs-racing-de-santander",
@@ -3149,9 +2686,29 @@
           "slug": "paramount",
           "label": "Paramount+",
           "tier": 3
+        },
+        {
+          "slug": "telemundo",
+          "label": "Telemundo",
+          "tier": 2
+        },
+        {
+          "slug": "fubo",
+          "label": "Fubo",
+          "tier": 3
+        },
+        {
+          "slug": "other:directv-stream",
+          "label": "DirecTV Stream",
+          "tier": 4
+        },
+        {
+          "slug": "other:hulu-live-tv",
+          "label": "Hulu + Live TV",
+          "tier": 4
         }
       ],
-      "channels_raw": "Paramount+"
+      "channels_raw": "Paramount+, Telemundo, Fubo, DirecTV Stream, Hulu + Live TV"
     },
     {
       "id": "ita-seriea-202608231445-atalanta-vs-sassuolo",
@@ -3289,12 +2846,37 @@
       "kickoff_et": "2026-08-24T12:30",
       "channels": [
         {
+          "slug": "cbssn",
+          "label": "CBS Sports Net",
+          "tier": 2
+        },
+        {
+          "slug": "other:universo",
+          "label": "Universo",
+          "tier": 4
+        },
+        {
           "slug": "paramount",
           "label": "Paramount+",
           "tier": 3
+        },
+        {
+          "slug": "fubo",
+          "label": "Fubo",
+          "tier": 3
+        },
+        {
+          "slug": "other:directv-stream",
+          "label": "DirecTV Stream",
+          "tier": 4
+        },
+        {
+          "slug": "other:hulu-live-tv",
+          "label": "Hulu + Live TV",
+          "tier": 4
         }
       ],
-      "channels_raw": "Paramount+"
+      "channels_raw": "CBS Sports Network, Universo, Paramount+, Fubo, DirecTV Stream, Hulu + Live TV"
     },
     {
       "id": "esp-laliga-202608241330-osasuna-vs-levante",
@@ -3424,6 +3006,29 @@
       "channels_raw": "ESPN+, ESPN Deportes, Fubo, DirecTV Stream"
     },
     {
+      "id": "uefa-ucl-202608251245-sabah-vs-hapoel-beer-sheva-fc",
+      "competition": "uefa-ucl",
+      "home": "Sabah",
+      "away": "Hapoel Beer-Sheva FC",
+      "home_slug": "sabah",
+      "away_slug": "hapoel-beer-sheva-fc",
+      "kickoff_utc": "2026-08-25T16:45:00.000Z",
+      "kickoff_et": "2026-08-25T12:45",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        },
+        {
+          "slug": "vix",
+          "label": "ViX",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+, ViX"
+    },
+    {
       "id": "esp-laliga-202608251500-valencia-vs-real-betis",
       "competition": "esp-laliga",
       "home": "Valencia",
@@ -3455,6 +3060,67 @@
         }
       ],
       "channels_raw": "ESPN+, ESPN Deportes, Fubo, DirecTV Stream"
+    },
+    {
+      "id": "uefa-ucl-202608251500-lask-vs-celtic",
+      "competition": "uefa-ucl",
+      "home": "LASK",
+      "away": "Celtic",
+      "home_slug": "lask",
+      "away_slug": "celtic",
+      "kickoff_utc": "2026-08-25T19:00:00.000Z",
+      "kickoff_et": "2026-08-25T15:00",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        },
+        {
+          "slug": "tudn",
+          "label": "TUDN",
+          "tier": 2
+        },
+        {
+          "slug": "other:directv-stream",
+          "label": "DirecTV Stream",
+          "tier": 4
+        },
+        {
+          "slug": "other:hulu-live-tv",
+          "label": "Hulu + Live TV",
+          "tier": 4
+        },
+        {
+          "slug": "vix",
+          "label": "ViX",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+, TUDN, DirecTV Stream, Hulu + Live TV, ViX"
+    },
+    {
+      "id": "uefa-ucl-202608251500-fk-bod-glimt-vs-nec-nijmegen",
+      "competition": "uefa-ucl",
+      "home": "FK Bodø/Glimt",
+      "away": "NEC Nijmegen",
+      "home_slug": "fk-bod-glimt",
+      "away_slug": "nec-nijmegen",
+      "kickoff_utc": "2026-08-25T19:00:00.000Z",
+      "kickoff_et": "2026-08-25T15:00",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        },
+        {
+          "slug": "other:dazn",
+          "label": "DAZN",
+          "tier": 4
+        }
+      ],
+      "channels_raw": "Paramount+, DAZN"
     },
     {
       "id": "conmebol-libert-202608252030-independiente-del-valle-vs-deportes-tolima",
@@ -3516,6 +3182,113 @@
         }
       ],
       "channels_raw": "ESPN+, ESPN Deportes, Fubo, DirecTV Stream"
+    },
+    {
+      "id": "uefa-ucl-202608261500-celje-vs-slovan-bratislava",
+      "competition": "uefa-ucl",
+      "home": "Celje",
+      "away": "Slovan Bratislava",
+      "home_slug": "celje",
+      "away_slug": "slovan-bratislava",
+      "kickoff_utc": "2026-08-26T19:00:00.000Z",
+      "kickoff_et": "2026-08-26T15:00",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        },
+        {
+          "slug": "vix",
+          "label": "ViX",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+, ViX"
+    },
+    {
+      "id": "uefa-ucl-202608261500-aek-athens-vs-pfc-levski-sofia",
+      "competition": "uefa-ucl",
+      "home": "AEK Athens",
+      "away": "PFC Levski Sofia",
+      "home_slug": "aek-athens",
+      "away_slug": "pfc-levski-sofia",
+      "kickoff_utc": "2026-08-26T19:00:00.000Z",
+      "kickoff_et": "2026-08-26T15:00",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        },
+        {
+          "slug": "tudn",
+          "label": "TUDN",
+          "tier": 2
+        },
+        {
+          "slug": "other:directv-stream",
+          "label": "DirecTV Stream",
+          "tier": 4
+        },
+        {
+          "slug": "other:hulu-live-tv",
+          "label": "Hulu + Live TV",
+          "tier": 4
+        },
+        {
+          "slug": "vix",
+          "label": "ViX",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+, TUDN, DirecTV Stream, Hulu + Live TV, ViX"
+    },
+    {
+      "id": "uefa-ucl-202608261500-viking-vs-dinamo-zagreb",
+      "competition": "uefa-ucl",
+      "home": "Viking",
+      "away": "Dinamo Zagreb",
+      "home_slug": "viking",
+      "away_slug": "dinamo-zagreb",
+      "kickoff_utc": "2026-08-26T19:00:00.000Z",
+      "kickoff_et": "2026-08-26T15:00",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        },
+        {
+          "slug": "vix",
+          "label": "ViX",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+, ViX"
+    },
+    {
+      "id": "uefa-ucl-202608261500-lyon-vs-fenerbahce",
+      "competition": "uefa-ucl",
+      "home": "Lyon",
+      "away": "Fenerbahçe",
+      "home_slug": "lyon",
+      "away_slug": "fenerbahce",
+      "kickoff_utc": "2026-08-26T19:00:00.000Z",
+      "kickoff_et": "2026-08-26T15:00",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        },
+        {
+          "slug": "other:dazn",
+          "label": "DAZN",
+          "tier": 4
+        }
+      ],
+      "channels_raw": "Paramount+, DAZN"
     },
     {
       "id": "conmebol-suda-202608262030-river-plate-vs-independiente-santa-fe",
@@ -3605,8 +3378,77 @@
       "away_slug": "vfb-stuttgart",
       "kickoff_utc": "2026-08-28T18:30:00.000Z",
       "kickoff_et": "2026-08-28T14:30",
-      "channels": [],
-      "channels_raw": ""
+      "channels": [
+        {
+          "slug": "other:fandango",
+          "label": "Fandango",
+          "tier": 4
+        },
+        {
+          "slug": "telemundo",
+          "label": "Telemundo",
+          "tier": 2
+        },
+        {
+          "slug": "fubo",
+          "label": "Fubo",
+          "tier": 3
+        },
+        {
+          "slug": "other:directv-stream",
+          "label": "DirecTV Stream",
+          "tier": 4
+        },
+        {
+          "slug": "other:hulu-live-tv",
+          "label": "Hulu + Live TV",
+          "tier": 4
+        },
+        {
+          "slug": "peacock",
+          "label": "Peacock",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Fandango, Telemundo, Fubo, DirecTV Stream, Hulu + Live TV, Peacock Premium"
+    },
+    {
+      "id": "ita-seriea-202608281445-ac-milan-vs-venezia",
+      "competition": "ita-seriea",
+      "home": "AC Milan",
+      "away": "Venezia",
+      "home_slug": "ac-milan",
+      "away_slug": "venezia",
+      "kickoff_utc": "2026-08-28T18:45:00.000Z",
+      "kickoff_et": "2026-08-28T14:45",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        },
+        {
+          "slug": "other:universo",
+          "label": "Universo",
+          "tier": 4
+        },
+        {
+          "slug": "fubo",
+          "label": "Fubo",
+          "tier": 3
+        },
+        {
+          "slug": "other:directv-stream",
+          "label": "DirecTV Stream",
+          "tier": 4
+        },
+        {
+          "slug": "other:hulu-live-tv",
+          "label": "Hulu + Live TV",
+          "tier": 4
+        }
+      ],
+      "channels_raw": "Paramount+, Universo, Fubo, DirecTV Stream, Hulu + Live TV"
     },
     {
       "id": "eng-champ-202608281500-wrexham-afc-vs-birmingham-city",
@@ -3663,28 +3505,27 @@
       "channels_raw": "Paramount+"
     },
     {
-      "id": "ger-bundesliga-202608290930-rb-leipzig-vs-borussia-monchengladbach",
+      "id": "ger-bundesliga-202608290930-fc-koln-vs-tsg-hoffenheim",
       "competition": "ger-bundesliga",
-      "home": "RB Leipzig",
-      "away": "Borussia Mönchengladbach",
-      "home_slug": "rb-leipzig",
-      "away_slug": "borussia-monchengladbach",
+      "home": "FC Köln",
+      "away": "TSG Hoffenheim",
+      "home_slug": "fc-koln",
+      "away_slug": "tsg-hoffenheim",
       "kickoff_utc": "2026-08-29T13:30:00.000Z",
       "kickoff_et": "2026-08-29T09:30",
-      "channels": [],
-      "channels_raw": ""
-    },
-    {
-      "id": "ger-bundesliga-202608290930-fc-union-berlin-vs-eintracht-frankfurt",
-      "competition": "ger-bundesliga",
-      "home": "FC Union Berlin",
-      "away": "Eintracht Frankfurt",
-      "home_slug": "fc-union-berlin",
-      "away_slug": "eintracht-frankfurt",
-      "kickoff_utc": "2026-08-29T13:30:00.000Z",
-      "kickoff_et": "2026-08-29T09:30",
-      "channels": [],
-      "channels_raw": ""
+      "channels": [
+        {
+          "slug": "other:fandango",
+          "label": "Fandango",
+          "tier": 4
+        },
+        {
+          "slug": "peacock",
+          "label": "Peacock",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Fandango, Peacock Premium"
     },
     {
       "id": "ger-bundesliga-202608290930-mainz-vs-sc-paderborn",
@@ -3695,8 +3536,65 @@
       "away_slug": "sc-paderborn",
       "kickoff_utc": "2026-08-29T13:30:00.000Z",
       "kickoff_et": "2026-08-29T09:30",
-      "channels": [],
-      "channels_raw": ""
+      "channels": [
+        {
+          "slug": "other:fandango",
+          "label": "Fandango",
+          "tier": 4
+        },
+        {
+          "slug": "peacock",
+          "label": "Peacock",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Fandango, Peacock Premium"
+    },
+    {
+      "id": "ger-bundesliga-202608290930-rb-leipzig-vs-borussia-monchengladbach",
+      "competition": "ger-bundesliga",
+      "home": "RB Leipzig",
+      "away": "Borussia Mönchengladbach",
+      "home_slug": "rb-leipzig",
+      "away_slug": "borussia-monchengladbach",
+      "kickoff_utc": "2026-08-29T13:30:00.000Z",
+      "kickoff_et": "2026-08-29T09:30",
+      "channels": [
+        {
+          "slug": "other:fandango",
+          "label": "Fandango",
+          "tier": 4
+        },
+        {
+          "slug": "peacock",
+          "label": "Peacock",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Fandango, Peacock Premium"
+    },
+    {
+      "id": "ger-bundesliga-202608290930-fc-union-berlin-vs-eintracht-frankfurt",
+      "competition": "ger-bundesliga",
+      "home": "FC Union Berlin",
+      "away": "Eintracht Frankfurt",
+      "home_slug": "fc-union-berlin",
+      "away_slug": "eintracht-frankfurt",
+      "kickoff_utc": "2026-08-29T13:30:00.000Z",
+      "kickoff_et": "2026-08-29T09:30",
+      "channels": [
+        {
+          "slug": "other:fandango",
+          "label": "Fandango",
+          "tier": 4
+        },
+        {
+          "slug": "peacock",
+          "label": "Peacock",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Fandango, Peacock Premium"
     },
     {
       "id": "ger-bundesliga-202608290930-sv-elversberg-vs-bayer-leverkusen",
@@ -3707,38 +3605,19 @@
       "away_slug": "bayer-leverkusen",
       "kickoff_utc": "2026-08-29T13:30:00.000Z",
       "kickoff_et": "2026-08-29T09:30",
-      "channels": [],
-      "channels_raw": ""
-    },
-    {
-      "id": "ger-bundesliga-202608290930-fc-koln-vs-tsg-hoffenheim",
-      "competition": "ger-bundesliga",
-      "home": "FC Köln",
-      "away": "TSG Hoffenheim",
-      "home_slug": "fc-koln",
-      "away_slug": "tsg-hoffenheim",
-      "kickoff_utc": "2026-08-29T13:30:00.000Z",
-      "kickoff_et": "2026-08-29T09:30",
-      "channels": [],
-      "channels_raw": ""
-    },
-    {
-      "id": "eng-champ-202608291000-cardiff-city-vs-sheffield-united",
-      "competition": "eng-champ",
-      "home": "Cardiff City",
-      "away": "Sheffield United",
-      "home_slug": "cardiff-city",
-      "away_slug": "sheffield-united",
-      "kickoff_utc": "2026-08-29T14:00:00.000Z",
-      "kickoff_et": "2026-08-29T10:00",
       "channels": [
         {
-          "slug": "paramount",
-          "label": "Paramount+",
+          "slug": "other:fandango",
+          "label": "Fandango",
+          "tier": 4
+        },
+        {
+          "slug": "peacock",
+          "label": "Peacock",
           "tier": 3
         }
       ],
-      "channels_raw": "Paramount+"
+      "channels_raw": "Fandango, Peacock Premium"
     },
     {
       "id": "eng-champ-202608291000-norwich-city-vs-burnley",
@@ -3795,6 +3674,44 @@
       "channels_raw": "Paramount+"
     },
     {
+      "id": "eng-champ-202608291000-cardiff-city-vs-sheffield-united",
+      "competition": "eng-champ",
+      "home": "Cardiff City",
+      "away": "Sheffield United",
+      "home_slug": "cardiff-city",
+      "away_slug": "sheffield-united",
+      "kickoff_utc": "2026-08-29T14:00:00.000Z",
+      "kickoff_et": "2026-08-29T10:00",
+      "channels": [
+        {
+          "slug": "cbssn",
+          "label": "CBS Sports Net",
+          "tier": 2
+        },
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        },
+        {
+          "slug": "fubo",
+          "label": "Fubo",
+          "tier": 3
+        },
+        {
+          "slug": "other:directv-stream",
+          "label": "DirecTV Stream",
+          "tier": 4
+        },
+        {
+          "slug": "other:hulu-live-tv",
+          "label": "Hulu + Live TV",
+          "tier": 4
+        }
+      ],
+      "channels_raw": "CBS Sports Network, Paramount+, Fubo, DirecTV Stream, Hulu + Live TV"
+    },
+    {
       "id": "ger-bundesliga-202608291230-borussia-dortmund-vs-hamburger-sv",
       "competition": "ger-bundesliga",
       "home": "Borussia Dortmund",
@@ -3803,8 +3720,136 @@
       "away_slug": "hamburger-sv",
       "kickoff_utc": "2026-08-29T16:30:00.000Z",
       "kickoff_et": "2026-08-29T12:30",
-      "channels": [],
-      "channels_raw": ""
+      "channels": [
+        {
+          "slug": "usa",
+          "label": "USA Network",
+          "tier": 2
+        },
+        {
+          "slug": "telemundo",
+          "label": "Telemundo",
+          "tier": 2
+        },
+        {
+          "slug": "other:directv-stream",
+          "label": "DirecTV Stream",
+          "tier": 4
+        },
+        {
+          "slug": "other:sling-blue",
+          "label": "Sling Blue",
+          "tier": 4
+        },
+        {
+          "slug": "other:hulu-live-tv",
+          "label": "Hulu + Live TV",
+          "tier": 4
+        },
+        {
+          "slug": "fubo",
+          "label": "Fubo",
+          "tier": 3
+        },
+        {
+          "slug": "peacock",
+          "label": "Peacock",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "USA Network, Telemundo, DirecTV Stream, Sling Blue, Hulu + Live TV, Fubo, Peacock Premium"
+    },
+    {
+      "id": "ita-seriea-202608291230-monza-vs-udinese",
+      "competition": "ita-seriea",
+      "home": "Monza",
+      "away": "Udinese",
+      "home_slug": "monza",
+      "away_slug": "udinese",
+      "kickoff_utc": "2026-08-29T16:30:00.000Z",
+      "kickoff_et": "2026-08-29T12:30",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
+    },
+    {
+      "id": "ita-seriea-202608291230-fiorentina-vs-frosinone-calcio",
+      "competition": "ita-seriea",
+      "home": "Fiorentina",
+      "away": "Frosinone Calcio",
+      "home_slug": "fiorentina",
+      "away_slug": "frosinone-calcio",
+      "kickoff_utc": "2026-08-29T16:30:00.000Z",
+      "kickoff_et": "2026-08-29T12:30",
+      "channels": [
+        {
+          "slug": "cbssn",
+          "label": "CBS Sports Net",
+          "tier": 2
+        },
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        },
+        {
+          "slug": "fubo",
+          "label": "Fubo",
+          "tier": 3
+        },
+        {
+          "slug": "other:directv-stream",
+          "label": "DirecTV Stream",
+          "tier": 4
+        },
+        {
+          "slug": "other:hulu-live-tv",
+          "label": "Hulu + Live TV",
+          "tier": 4
+        }
+      ],
+      "channels_raw": "CBS Sports Network, Paramount+, Fubo, DirecTV Stream, Hulu + Live TV"
+    },
+    {
+      "id": "ita-seriea-202608291230-sassuolo-vs-torino",
+      "competition": "ita-seriea",
+      "home": "Sassuolo",
+      "away": "Torino",
+      "home_slug": "sassuolo",
+      "away_slug": "torino",
+      "kickoff_utc": "2026-08-29T16:30:00.000Z",
+      "kickoff_et": "2026-08-29T12:30",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
+    },
+    {
+      "id": "ita-seriea-202608291445-juventus-vs-parma",
+      "competition": "ita-seriea",
+      "home": "Juventus",
+      "away": "Parma",
+      "home_slug": "juventus",
+      "away_slug": "parma",
+      "kickoff_utc": "2026-08-29T18:45:00.000Z",
+      "kickoff_et": "2026-08-29T14:45",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
     },
     {
       "id": "usa-mls-202608291630-seattle-sounders-fc-vs-chicago-fire-fc",
@@ -3825,48 +3870,12 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202608291930-d-c-united-vs-lafc",
+      "id": "usa-mls-202608291930-toronto-fc-vs-new-york-city-fc",
       "competition": "usa-mls",
-      "home": "D.C. United",
-      "away": "LAFC",
-      "home_slug": "d-c-united",
-      "away_slug": "lafc",
-      "kickoff_utc": "2026-08-29T23:30:00.000Z",
-      "kickoff_et": "2026-08-29T19:30",
-      "channels": [
-        {
-          "slug": "apple",
-          "label": "Apple TV",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Apple TV"
-    },
-    {
-      "id": "usa-mls-202608291930-atlanta-united-fc-vs-charlotte-fc",
-      "competition": "usa-mls",
-      "home": "Atlanta United FC",
-      "away": "Charlotte FC",
-      "home_slug": "atlanta-united-fc",
-      "away_slug": "charlotte-fc",
-      "kickoff_utc": "2026-08-29T23:30:00.000Z",
-      "kickoff_et": "2026-08-29T19:30",
-      "channels": [
-        {
-          "slug": "apple",
-          "label": "Apple TV",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Apple TV"
-    },
-    {
-      "id": "usa-mls-202608291930-new-york-red-bulls-vs-philadelphia-union",
-      "competition": "usa-mls",
-      "home": "New York Red Bulls",
-      "away": "Philadelphia Union",
-      "home_slug": "new-york-red-bulls",
-      "away_slug": "philadelphia-union",
+      "home": "Toronto FC",
+      "away": "New York City FC",
+      "home_slug": "toronto-fc",
+      "away_slug": "new-york-city-fc",
       "kickoff_utc": "2026-08-29T23:30:00.000Z",
       "kickoff_et": "2026-08-29T19:30",
       "channels": [
@@ -3897,24 +3906,6 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202608291930-toronto-fc-vs-new-york-city-fc",
-      "competition": "usa-mls",
-      "home": "Toronto FC",
-      "away": "New York City FC",
-      "home_slug": "toronto-fc",
-      "away_slug": "new-york-city-fc",
-      "kickoff_utc": "2026-08-29T23:30:00.000Z",
-      "kickoff_et": "2026-08-29T19:30",
-      "channels": [
-        {
-          "slug": "apple",
-          "label": "Apple TV",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Apple TV"
-    },
-    {
       "id": "usa-mls-202608291930-inter-miami-cf-vs-montreal",
       "competition": "usa-mls",
       "home": "Inter Miami CF",
@@ -3933,12 +3924,66 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202608292030-houston-dynamo-vs-san-jose-earthquakes",
+      "id": "usa-mls-202608291930-new-york-red-bulls-vs-philadelphia-union",
       "competition": "usa-mls",
-      "home": "Houston Dynamo",
-      "away": "San Jose Earthquakes",
-      "home_slug": "houston-dynamo",
-      "away_slug": "san-jose-earthquakes",
+      "home": "New York Red Bulls",
+      "away": "Philadelphia Union",
+      "home_slug": "new-york-red-bulls",
+      "away_slug": "philadelphia-union",
+      "kickoff_utc": "2026-08-29T23:30:00.000Z",
+      "kickoff_et": "2026-08-29T19:30",
+      "channels": [
+        {
+          "slug": "apple",
+          "label": "Apple TV",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Apple TV"
+    },
+    {
+      "id": "usa-mls-202608291930-atlanta-united-fc-vs-charlotte-fc",
+      "competition": "usa-mls",
+      "home": "Atlanta United FC",
+      "away": "Charlotte FC",
+      "home_slug": "atlanta-united-fc",
+      "away_slug": "charlotte-fc",
+      "kickoff_utc": "2026-08-29T23:30:00.000Z",
+      "kickoff_et": "2026-08-29T19:30",
+      "channels": [
+        {
+          "slug": "apple",
+          "label": "Apple TV",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Apple TV"
+    },
+    {
+      "id": "usa-mls-202608291930-d-c-united-vs-lafc",
+      "competition": "usa-mls",
+      "home": "D.C. United",
+      "away": "LAFC",
+      "home_slug": "d-c-united",
+      "away_slug": "lafc",
+      "kickoff_utc": "2026-08-29T23:30:00.000Z",
+      "kickoff_et": "2026-08-29T19:30",
+      "channels": [
+        {
+          "slug": "apple",
+          "label": "Apple TV",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Apple TV"
+    },
+    {
+      "id": "usa-mls-202608292030-minnesota-united-fc-vs-orlando-city-sc",
+      "competition": "usa-mls",
+      "home": "Minnesota United FC",
+      "away": "Orlando City SC",
+      "home_slug": "minnesota-united-fc",
+      "away_slug": "orlando-city-sc",
       "kickoff_utc": "2026-08-30T00:30:00.000Z",
       "kickoff_et": "2026-08-29T20:30",
       "channels": [
@@ -3969,12 +4014,12 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202608292030-minnesota-united-fc-vs-orlando-city-sc",
+      "id": "usa-mls-202608292030-nashville-sc-vs-fc-cincinnati",
       "competition": "usa-mls",
-      "home": "Minnesota United FC",
-      "away": "Orlando City SC",
-      "home_slug": "minnesota-united-fc",
-      "away_slug": "orlando-city-sc",
+      "home": "Nashville SC",
+      "away": "FC Cincinnati",
+      "home_slug": "nashville-sc",
+      "away_slug": "fc-cincinnati",
       "kickoff_utc": "2026-08-30T00:30:00.000Z",
       "kickoff_et": "2026-08-29T20:30",
       "channels": [
@@ -3987,12 +4032,12 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202608292030-nashville-sc-vs-fc-cincinnati",
+      "id": "usa-mls-202608292030-houston-dynamo-vs-san-jose-earthquakes",
       "competition": "usa-mls",
-      "home": "Nashville SC",
-      "away": "FC Cincinnati",
-      "home_slug": "nashville-sc",
-      "away_slug": "fc-cincinnati",
+      "home": "Houston Dynamo",
+      "away": "San Jose Earthquakes",
+      "home_slug": "houston-dynamo",
+      "away_slug": "san-jose-earthquakes",
       "kickoff_utc": "2026-08-30T00:30:00.000Z",
       "kickoff_et": "2026-08-29T20:30",
       "channels": [
@@ -4023,12 +4068,12 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202608292230-san-diego-fc-vs-la-galaxy",
+      "id": "usa-mls-202608292230-portland-timbers-vs-austin-fc",
       "competition": "usa-mls",
-      "home": "San Diego FC",
-      "away": "LA Galaxy",
-      "home_slug": "san-diego-fc",
-      "away_slug": "la-galaxy",
+      "home": "Portland Timbers",
+      "away": "Austin FC",
+      "home_slug": "portland-timbers",
+      "away_slug": "austin-fc",
       "kickoff_utc": "2026-08-30T02:30:00.000Z",
       "kickoff_et": "2026-08-29T22:30",
       "channels": [
@@ -4041,12 +4086,12 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202608292230-portland-timbers-vs-austin-fc",
+      "id": "usa-mls-202608292230-san-diego-fc-vs-la-galaxy",
       "competition": "usa-mls",
-      "home": "Portland Timbers",
-      "away": "Austin FC",
-      "home_slug": "portland-timbers",
-      "away_slug": "austin-fc",
+      "home": "San Diego FC",
+      "away": "LA Galaxy",
+      "home_slug": "san-diego-fc",
+      "away_slug": "la-galaxy",
       "kickoff_utc": "2026-08-30T02:30:00.000Z",
       "kickoff_et": "2026-08-29T22:30",
       "channels": [
@@ -4067,8 +4112,34 @@
       "away_slug": "werder-bremen",
       "kickoff_utc": "2026-08-30T13:30:00.000Z",
       "kickoff_et": "2026-08-30T09:30",
-      "channels": [],
-      "channels_raw": ""
+      "channels": [
+        {
+          "slug": "other:fandango",
+          "label": "Fandango",
+          "tier": 4
+        },
+        {
+          "slug": "other:universo",
+          "label": "Universo",
+          "tier": 4
+        },
+        {
+          "slug": "other:directv-stream",
+          "label": "DirecTV Stream",
+          "tier": 4
+        },
+        {
+          "slug": "fubo",
+          "label": "Fubo",
+          "tier": 3
+        },
+        {
+          "slug": "peacock",
+          "label": "Peacock",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Fandango, Universo, DirecTV Stream, Fubo Latino, Peacock Premium"
     },
     {
       "id": "ger-bundesliga-202608301130-fc-augsburg-vs-schalke-04",
@@ -4079,8 +4150,98 @@
       "away_slug": "schalke-04",
       "kickoff_utc": "2026-08-30T15:30:00.000Z",
       "kickoff_et": "2026-08-30T11:30",
-      "channels": [],
-      "channels_raw": ""
+      "channels": [
+        {
+          "slug": "other:fandango",
+          "label": "Fandango",
+          "tier": 4
+        },
+        {
+          "slug": "peacock",
+          "label": "Peacock",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Fandango, Peacock Premium"
+    },
+    {
+      "id": "ita-seriea-202608301230-napoli-vs-como-1907",
+      "competition": "ita-seriea",
+      "home": "Napoli",
+      "away": "Como 1907",
+      "home_slug": "napoli",
+      "away_slug": "como-1907",
+      "kickoff_utc": "2026-08-30T16:30:00.000Z",
+      "kickoff_et": "2026-08-30T12:30",
+      "channels": [
+        {
+          "slug": "cbssn",
+          "label": "CBS Sports Net",
+          "tier": 2
+        },
+        {
+          "slug": "other:universo",
+          "label": "Universo",
+          "tier": 4
+        },
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        },
+        {
+          "slug": "fubo",
+          "label": "Fubo",
+          "tier": 3
+        },
+        {
+          "slug": "other:directv-stream",
+          "label": "DirecTV Stream",
+          "tier": 4
+        },
+        {
+          "slug": "other:hulu-live-tv",
+          "label": "Hulu + Live TV",
+          "tier": 4
+        }
+      ],
+      "channels_raw": "CBS Sports Network, Universo, Paramount+, Fubo, DirecTV Stream, Hulu + Live TV"
+    },
+    {
+      "id": "ita-seriea-202608301445-cagliari-vs-inter-milan",
+      "competition": "ita-seriea",
+      "home": "Cagliari",
+      "away": "Inter Milan",
+      "home_slug": "cagliari",
+      "away_slug": "inter-milan",
+      "kickoff_utc": "2026-08-30T18:45:00.000Z",
+      "kickoff_et": "2026-08-30T14:45",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
+    },
+    {
+      "id": "ita-seriea-202608301445-lazio-vs-genoa",
+      "competition": "ita-seriea",
+      "home": "Lazio",
+      "away": "Genoa",
+      "home_slug": "lazio",
+      "away_slug": "genoa",
+      "kickoff_utc": "2026-08-30T18:45:00.000Z",
+      "kickoff_et": "2026-08-30T14:45",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
     },
     {
       "id": "usa-mls-202608301900-st-louis-city-sc-vs-fc-dallas",
@@ -4101,6 +4262,60 @@
       "channels_raw": "Apple TV"
     },
     {
+      "id": "ita-seriea-202608311230-lecce-vs-as-roma",
+      "competition": "ita-seriea",
+      "home": "Lecce",
+      "away": "AS Roma",
+      "home_slug": "lecce",
+      "away_slug": "as-roma",
+      "kickoff_utc": "2026-08-31T16:30:00.000Z",
+      "kickoff_et": "2026-08-31T12:30",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
+    },
+    {
+      "id": "ita-seriea-202608311445-atalanta-vs-bologna",
+      "competition": "ita-seriea",
+      "home": "Atalanta",
+      "away": "Bologna",
+      "home_slug": "atalanta",
+      "away_slug": "bologna",
+      "kickoff_utc": "2026-08-31T18:45:00.000Z",
+      "kickoff_et": "2026-08-31T14:45",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
+    },
+    {
+      "id": "ita-seriea-202609041445-genoa-vs-como-1907",
+      "competition": "ita-seriea",
+      "home": "Genoa",
+      "away": "Como 1907",
+      "home_slug": "genoa",
+      "away_slug": "como-1907",
+      "kickoff_utc": "2026-09-04T18:45:00.000Z",
+      "kickoff_et": "2026-09-04T14:45",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
+    },
+    {
       "id": "usa-mls-202609041930-new-york-city-fc-vs-nashville-sc",
       "competition": "usa-mls",
       "home": "New York City FC",
@@ -4119,84 +4334,66 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202609051930-columbus-crew-vs-colorado-rapids",
-      "competition": "usa-mls",
-      "home": "Columbus Crew",
-      "away": "Colorado Rapids",
-      "home_slug": "columbus-crew",
-      "away_slug": "colorado-rapids",
-      "kickoff_utc": "2026-09-05T23:30:00.000Z",
-      "kickoff_et": "2026-09-05T19:30",
+      "id": "ita-seriea-202609050900-fiorentina-vs-torino",
+      "competition": "ita-seriea",
+      "home": "Fiorentina",
+      "away": "Torino",
+      "home_slug": "fiorentina",
+      "away_slug": "torino",
+      "kickoff_utc": "2026-09-05T13:00:00.000Z",
+      "kickoff_et": "2026-09-05T09:00",
       "channels": [
         {
-          "slug": "apple",
-          "label": "Apple TV",
+          "slug": "paramount",
+          "label": "Paramount+",
           "tier": 3
         }
       ],
-      "channels_raw": "Apple TV"
+      "channels_raw": "Paramount+"
     },
     {
-      "id": "usa-mls-202609051930-inter-miami-cf-vs-atlanta-united-fc",
-      "competition": "usa-mls",
-      "home": "Inter Miami CF",
-      "away": "Atlanta United FC",
-      "home_slug": "inter-miami-cf",
-      "away_slug": "atlanta-united-fc",
-      "kickoff_utc": "2026-09-05T23:30:00.000Z",
-      "kickoff_et": "2026-09-05T19:30",
+      "id": "ita-seriea-202609051200-inter-milan-vs-napoli",
+      "competition": "ita-seriea",
+      "home": "Inter Milan",
+      "away": "Napoli",
+      "home_slug": "inter-milan",
+      "away_slug": "napoli",
+      "kickoff_utc": "2026-09-05T16:00:00.000Z",
+      "kickoff_et": "2026-09-05T12:00",
       "channels": [
         {
-          "slug": "apple",
-          "label": "Apple TV",
+          "slug": "paramount",
+          "label": "Paramount+",
           "tier": 3
         }
       ],
-      "channels_raw": "Apple TV"
+      "channels_raw": "Paramount+"
     },
     {
-      "id": "usa-mls-202609051930-charlotte-fc-vs-houston-dynamo",
-      "competition": "usa-mls",
-      "home": "Charlotte FC",
-      "away": "Houston Dynamo",
-      "home_slug": "charlotte-fc",
-      "away_slug": "houston-dynamo",
-      "kickoff_utc": "2026-09-05T23:30:00.000Z",
-      "kickoff_et": "2026-09-05T19:30",
+      "id": "ita-seriea-202609051445-as-roma-vs-atalanta",
+      "competition": "ita-seriea",
+      "home": "AS Roma",
+      "away": "Atalanta",
+      "home_slug": "as-roma",
+      "away_slug": "atalanta",
+      "kickoff_utc": "2026-09-05T18:45:00.000Z",
+      "kickoff_et": "2026-09-05T14:45",
       "channels": [
         {
-          "slug": "apple",
-          "label": "Apple TV",
+          "slug": "paramount",
+          "label": "Paramount+",
           "tier": 3
         }
       ],
-      "channels_raw": "Apple TV"
+      "channels_raw": "Paramount+"
     },
     {
-      "id": "usa-mls-202609051930-fc-cincinnati-vs-d-c-united",
+      "id": "usa-mls-202609051930-orlando-city-sc-vs-san-diego-fc",
       "competition": "usa-mls",
-      "home": "FC Cincinnati",
-      "away": "D.C. United",
-      "home_slug": "fc-cincinnati",
-      "away_slug": "d-c-united",
-      "kickoff_utc": "2026-09-05T23:30:00.000Z",
-      "kickoff_et": "2026-09-05T19:30",
-      "channels": [
-        {
-          "slug": "apple",
-          "label": "Apple TV",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Apple TV"
-    },
-    {
-      "id": "usa-mls-202609051930-toronto-fc-vs-chicago-fire-fc",
-      "competition": "usa-mls",
-      "home": "Toronto FC",
-      "away": "Chicago Fire FC",
-      "home_slug": "toronto-fc",
-      "away_slug": "chicago-fire-fc",
+      "home": "Orlando City SC",
+      "away": "San Diego FC",
+      "home_slug": "orlando-city-sc",
+      "away_slug": "san-diego-fc",
       "kickoff_utc": "2026-09-05T23:30:00.000Z",
       "kickoff_et": "2026-09-05T19:30",
       "channels": [
@@ -4227,12 +4424,12 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202609051930-orlando-city-sc-vs-san-diego-fc",
+      "id": "usa-mls-202609051930-inter-miami-cf-vs-atlanta-united-fc",
       "competition": "usa-mls",
-      "home": "Orlando City SC",
-      "away": "San Diego FC",
-      "home_slug": "orlando-city-sc",
-      "away_slug": "san-diego-fc",
+      "home": "Inter Miami CF",
+      "away": "Atlanta United FC",
+      "home_slug": "inter-miami-cf",
+      "away_slug": "atlanta-united-fc",
       "kickoff_utc": "2026-09-05T23:30:00.000Z",
       "kickoff_et": "2026-09-05T19:30",
       "channels": [
@@ -4245,14 +4442,68 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202609052030-seattle-sounders-fc-vs-new-york-red-bulls",
+      "id": "usa-mls-202609051930-columbus-crew-vs-colorado-rapids",
       "competition": "usa-mls",
-      "home": "Seattle Sounders FC",
-      "away": "New York Red Bulls",
-      "home_slug": "seattle-sounders-fc",
-      "away_slug": "new-york-red-bulls",
-      "kickoff_utc": "2026-09-06T00:30:00.000Z",
-      "kickoff_et": "2026-09-05T20:30",
+      "home": "Columbus Crew",
+      "away": "Colorado Rapids",
+      "home_slug": "columbus-crew",
+      "away_slug": "colorado-rapids",
+      "kickoff_utc": "2026-09-05T23:30:00.000Z",
+      "kickoff_et": "2026-09-05T19:30",
+      "channels": [
+        {
+          "slug": "apple",
+          "label": "Apple TV",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Apple TV"
+    },
+    {
+      "id": "usa-mls-202609051930-fc-cincinnati-vs-d-c-united",
+      "competition": "usa-mls",
+      "home": "FC Cincinnati",
+      "away": "D.C. United",
+      "home_slug": "fc-cincinnati",
+      "away_slug": "d-c-united",
+      "kickoff_utc": "2026-09-05T23:30:00.000Z",
+      "kickoff_et": "2026-09-05T19:30",
+      "channels": [
+        {
+          "slug": "apple",
+          "label": "Apple TV",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Apple TV"
+    },
+    {
+      "id": "usa-mls-202609051930-charlotte-fc-vs-houston-dynamo",
+      "competition": "usa-mls",
+      "home": "Charlotte FC",
+      "away": "Houston Dynamo",
+      "home_slug": "charlotte-fc",
+      "away_slug": "houston-dynamo",
+      "kickoff_utc": "2026-09-05T23:30:00.000Z",
+      "kickoff_et": "2026-09-05T19:30",
+      "channels": [
+        {
+          "slug": "apple",
+          "label": "Apple TV",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Apple TV"
+    },
+    {
+      "id": "usa-mls-202609051930-toronto-fc-vs-chicago-fire-fc",
+      "competition": "usa-mls",
+      "home": "Toronto FC",
+      "away": "Chicago Fire FC",
+      "home_slug": "toronto-fc",
+      "away_slug": "chicago-fire-fc",
+      "kickoff_utc": "2026-09-05T23:30:00.000Z",
+      "kickoff_et": "2026-09-05T19:30",
       "channels": [
         {
           "slug": "apple",
@@ -4287,6 +4538,24 @@
       "away": "San Jose Earthquakes",
       "home_slug": "austin-fc",
       "away_slug": "san-jose-earthquakes",
+      "kickoff_utc": "2026-09-06T00:30:00.000Z",
+      "kickoff_et": "2026-09-05T20:30",
+      "channels": [
+        {
+          "slug": "apple",
+          "label": "Apple TV",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Apple TV"
+    },
+    {
+      "id": "usa-mls-202609052030-seattle-sounders-fc-vs-new-york-red-bulls",
+      "competition": "usa-mls",
+      "home": "Seattle Sounders FC",
+      "away": "New York Red Bulls",
+      "home_slug": "seattle-sounders-fc",
+      "away_slug": "new-york-red-bulls",
       "kickoff_utc": "2026-09-06T00:30:00.000Z",
       "kickoff_et": "2026-09-05T20:30",
       "channels": [
@@ -4335,24 +4604,6 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202609052230-portland-timbers-vs-minnesota-united-fc",
-      "competition": "usa-mls",
-      "home": "Portland Timbers",
-      "away": "Minnesota United FC",
-      "home_slug": "portland-timbers",
-      "away_slug": "minnesota-united-fc",
-      "kickoff_utc": "2026-09-06T02:30:00.000Z",
-      "kickoff_et": "2026-09-05T22:30",
-      "channels": [
-        {
-          "slug": "apple",
-          "label": "Apple TV",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Apple TV"
-    },
-    {
       "id": "usa-mls-202609052230-vancouver-whitecaps-vs-st-louis-city-sc",
       "competition": "usa-mls",
       "home": "Vancouver Whitecaps",
@@ -4371,14 +4622,14 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202609091930-toronto-fc-vs-nashville-sc",
+      "id": "usa-mls-202609052230-portland-timbers-vs-minnesota-united-fc",
       "competition": "usa-mls",
-      "home": "Toronto FC",
-      "away": "Nashville SC",
-      "home_slug": "toronto-fc",
-      "away_slug": "nashville-sc",
-      "kickoff_utc": "2026-09-09T23:30:00.000Z",
-      "kickoff_et": "2026-09-09T19:30",
+      "home": "Portland Timbers",
+      "away": "Minnesota United FC",
+      "home_slug": "portland-timbers",
+      "away_slug": "minnesota-united-fc",
+      "kickoff_utc": "2026-09-06T02:30:00.000Z",
+      "kickoff_et": "2026-09-05T22:30",
       "channels": [
         {
           "slug": "apple",
@@ -4389,22 +4640,112 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202609091930-atlanta-united-fc-vs-orlando-city-sc",
-      "competition": "usa-mls",
-      "home": "Atlanta United FC",
-      "away": "Orlando City SC",
-      "home_slug": "atlanta-united-fc",
-      "away_slug": "orlando-city-sc",
-      "kickoff_utc": "2026-09-09T23:30:00.000Z",
-      "kickoff_et": "2026-09-09T19:30",
+      "id": "ita-seriea-202609060900-parma-vs-monza",
+      "competition": "ita-seriea",
+      "home": "Parma",
+      "away": "Monza",
+      "home_slug": "parma",
+      "away_slug": "monza",
+      "kickoff_utc": "2026-09-06T13:00:00.000Z",
+      "kickoff_et": "2026-09-06T09:00",
       "channels": [
         {
-          "slug": "apple",
-          "label": "Apple TV",
+          "slug": "paramount",
+          "label": "Paramount+",
           "tier": 3
         }
       ],
-      "channels_raw": "Apple TV"
+      "channels_raw": "Paramount+"
+    },
+    {
+      "id": "ita-seriea-202609060900-frosinone-calcio-vs-venezia",
+      "competition": "ita-seriea",
+      "home": "Frosinone Calcio",
+      "away": "Venezia",
+      "home_slug": "frosinone-calcio",
+      "away_slug": "venezia",
+      "kickoff_utc": "2026-09-06T13:00:00.000Z",
+      "kickoff_et": "2026-09-06T09:00",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
+    },
+    {
+      "id": "ita-seriea-202609061200-bologna-vs-sassuolo",
+      "competition": "ita-seriea",
+      "home": "Bologna",
+      "away": "Sassuolo",
+      "home_slug": "bologna",
+      "away_slug": "sassuolo",
+      "kickoff_utc": "2026-09-06T16:00:00.000Z",
+      "kickoff_et": "2026-09-06T12:00",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
+    },
+    {
+      "id": "ita-seriea-202609061445-juventus-vs-ac-milan",
+      "competition": "ita-seriea",
+      "home": "Juventus",
+      "away": "AC Milan",
+      "home_slug": "juventus",
+      "away_slug": "ac-milan",
+      "kickoff_utc": "2026-09-06T18:45:00.000Z",
+      "kickoff_et": "2026-09-06T14:45",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
+    },
+    {
+      "id": "ita-seriea-202609071230-cagliari-vs-lecce",
+      "competition": "ita-seriea",
+      "home": "Cagliari",
+      "away": "Lecce",
+      "home_slug": "cagliari",
+      "away_slug": "lecce",
+      "kickoff_utc": "2026-09-07T16:30:00.000Z",
+      "kickoff_et": "2026-09-07T12:30",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
+    },
+    {
+      "id": "ita-seriea-202609071445-udinese-vs-lazio",
+      "competition": "ita-seriea",
+      "home": "Udinese",
+      "away": "Lazio",
+      "home_slug": "udinese",
+      "away_slug": "lazio",
+      "kickoff_utc": "2026-09-07T18:45:00.000Z",
+      "kickoff_et": "2026-09-07T14:45",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
     },
     {
       "id": "usa-mls-202609091930-d-c-united-vs-columbus-crew",
@@ -4509,14 +4850,14 @@
       "channels_raw": "FS1, FOX Deportes, Apple TV, Fubo, DirecTV Stream, Sling Blue, Hulu + Live TV"
     },
     {
-      "id": "usa-mls-202609092030-austin-fc-vs-colorado-rapids",
+      "id": "usa-mls-202609091930-toronto-fc-vs-nashville-sc",
       "competition": "usa-mls",
-      "home": "Austin FC",
-      "away": "Colorado Rapids",
-      "home_slug": "austin-fc",
-      "away_slug": "colorado-rapids",
-      "kickoff_utc": "2026-09-10T00:30:00.000Z",
-      "kickoff_et": "2026-09-09T20:30",
+      "home": "Toronto FC",
+      "away": "Nashville SC",
+      "home_slug": "toronto-fc",
+      "away_slug": "nashville-sc",
+      "kickoff_utc": "2026-09-09T23:30:00.000Z",
+      "kickoff_et": "2026-09-09T19:30",
       "channels": [
         {
           "slug": "apple",
@@ -4527,12 +4868,30 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202609092030-minnesota-united-fc-vs-fc-dallas",
+      "id": "usa-mls-202609091930-atlanta-united-fc-vs-orlando-city-sc",
       "competition": "usa-mls",
-      "home": "Minnesota United FC",
-      "away": "FC Dallas",
-      "home_slug": "minnesota-united-fc",
-      "away_slug": "fc-dallas",
+      "home": "Atlanta United FC",
+      "away": "Orlando City SC",
+      "home_slug": "atlanta-united-fc",
+      "away_slug": "orlando-city-sc",
+      "kickoff_utc": "2026-09-09T23:30:00.000Z",
+      "kickoff_et": "2026-09-09T19:30",
+      "channels": [
+        {
+          "slug": "apple",
+          "label": "Apple TV",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Apple TV"
+    },
+    {
+      "id": "usa-mls-202609092030-austin-fc-vs-colorado-rapids",
+      "competition": "usa-mls",
+      "home": "Austin FC",
+      "away": "Colorado Rapids",
+      "home_slug": "austin-fc",
+      "away_slug": "colorado-rapids",
       "kickoff_utc": "2026-09-10T00:30:00.000Z",
       "kickoff_et": "2026-09-09T20:30",
       "channels": [
@@ -4581,48 +4940,30 @@
       "channels_raw": "Apple TV"
     },
     {
+      "id": "usa-mls-202609092030-minnesota-united-fc-vs-fc-dallas",
+      "competition": "usa-mls",
+      "home": "Minnesota United FC",
+      "away": "FC Dallas",
+      "home_slug": "minnesota-united-fc",
+      "away_slug": "fc-dallas",
+      "kickoff_utc": "2026-09-10T00:30:00.000Z",
+      "kickoff_et": "2026-09-09T20:30",
+      "channels": [
+        {
+          "slug": "apple",
+          "label": "Apple TV",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Apple TV"
+    },
+    {
       "id": "usa-mls-202609092230-lafc-vs-new-york-red-bulls",
       "competition": "usa-mls",
       "home": "LAFC",
       "away": "New York Red Bulls",
       "home_slug": "lafc",
       "away_slug": "new-york-red-bulls",
-      "kickoff_utc": "2026-09-10T02:30:00.000Z",
-      "kickoff_et": "2026-09-09T22:30",
-      "channels": [
-        {
-          "slug": "apple",
-          "label": "Apple TV",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Apple TV"
-    },
-    {
-      "id": "usa-mls-202609092230-vancouver-whitecaps-vs-la-galaxy",
-      "competition": "usa-mls",
-      "home": "Vancouver Whitecaps",
-      "away": "LA Galaxy",
-      "home_slug": "vancouver-whitecaps",
-      "away_slug": "la-galaxy",
-      "kickoff_utc": "2026-09-10T02:30:00.000Z",
-      "kickoff_et": "2026-09-09T22:30",
-      "channels": [
-        {
-          "slug": "apple",
-          "label": "Apple TV",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Apple TV"
-    },
-    {
-      "id": "usa-mls-202609092230-san-diego-fc-vs-san-jose-earthquakes",
-      "competition": "usa-mls",
-      "home": "San Diego FC",
-      "away": "San Jose Earthquakes",
-      "home_slug": "san-diego-fc",
-      "away_slug": "san-jose-earthquakes",
       "kickoff_utc": "2026-09-10T02:30:00.000Z",
       "kickoff_et": "2026-09-09T22:30",
       "channels": [
@@ -4653,12 +4994,138 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202609121930-inter-miami-cf-vs-nashville-sc",
+      "id": "usa-mls-202609092230-san-diego-fc-vs-san-jose-earthquakes",
       "competition": "usa-mls",
-      "home": "Inter Miami CF",
-      "away": "Nashville SC",
-      "home_slug": "inter-miami-cf",
-      "away_slug": "nashville-sc",
+      "home": "San Diego FC",
+      "away": "San Jose Earthquakes",
+      "home_slug": "san-diego-fc",
+      "away_slug": "san-jose-earthquakes",
+      "kickoff_utc": "2026-09-10T02:30:00.000Z",
+      "kickoff_et": "2026-09-09T22:30",
+      "channels": [
+        {
+          "slug": "apple",
+          "label": "Apple TV",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Apple TV"
+    },
+    {
+      "id": "usa-mls-202609092230-vancouver-whitecaps-vs-la-galaxy",
+      "competition": "usa-mls",
+      "home": "Vancouver Whitecaps",
+      "away": "LA Galaxy",
+      "home_slug": "vancouver-whitecaps",
+      "away_slug": "la-galaxy",
+      "kickoff_utc": "2026-09-10T02:30:00.000Z",
+      "kickoff_et": "2026-09-09T22:30",
+      "channels": [
+        {
+          "slug": "apple",
+          "label": "Apple TV",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Apple TV"
+    },
+    {
+      "id": "ita-seriea-202609111445-venezia-vs-fiorentina",
+      "competition": "ita-seriea",
+      "home": "Venezia",
+      "away": "Fiorentina",
+      "home_slug": "venezia",
+      "away_slug": "fiorentina",
+      "kickoff_utc": "2026-09-11T18:45:00.000Z",
+      "kickoff_et": "2026-09-11T14:45",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
+    },
+    {
+      "id": "ita-seriea-202609120900-genoa-vs-frosinone-calcio",
+      "competition": "ita-seriea",
+      "home": "Genoa",
+      "away": "Frosinone Calcio",
+      "home_slug": "genoa",
+      "away_slug": "frosinone-calcio",
+      "kickoff_utc": "2026-09-12T13:00:00.000Z",
+      "kickoff_et": "2026-09-12T09:00",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
+    },
+    {
+      "id": "ita-seriea-202609121200-sassuolo-vs-juventus",
+      "competition": "ita-seriea",
+      "home": "Sassuolo",
+      "away": "Juventus",
+      "home_slug": "sassuolo",
+      "away_slug": "juventus",
+      "kickoff_utc": "2026-09-12T16:00:00.000Z",
+      "kickoff_et": "2026-09-12T12:00",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
+    },
+    {
+      "id": "ita-seriea-202609121445-atalanta-vs-cagliari",
+      "competition": "ita-seriea",
+      "home": "Atalanta",
+      "away": "Cagliari",
+      "home_slug": "atalanta",
+      "away_slug": "cagliari",
+      "kickoff_utc": "2026-09-12T18:45:00.000Z",
+      "kickoff_et": "2026-09-12T14:45",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
+    },
+    {
+      "id": "usa-mls-202609121930-orlando-city-sc-vs-toronto-fc",
+      "competition": "usa-mls",
+      "home": "Orlando City SC",
+      "away": "Toronto FC",
+      "home_slug": "orlando-city-sc",
+      "away_slug": "toronto-fc",
+      "kickoff_utc": "2026-09-12T23:30:00.000Z",
+      "kickoff_et": "2026-09-12T19:30",
+      "channels": [
+        {
+          "slug": "apple",
+          "label": "Apple TV",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Apple TV"
+    },
+    {
+      "id": "usa-mls-202609121930-fc-cincinnati-vs-charlotte-fc",
+      "competition": "usa-mls",
+      "home": "FC Cincinnati",
+      "away": "Charlotte FC",
+      "home_slug": "fc-cincinnati",
+      "away_slug": "charlotte-fc",
       "kickoff_utc": "2026-09-12T23:30:00.000Z",
       "kickoff_et": "2026-09-12T19:30",
       "channels": [
@@ -4707,30 +5174,12 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202609121930-orlando-city-sc-vs-toronto-fc",
+      "id": "usa-mls-202609121930-inter-miami-cf-vs-nashville-sc",
       "competition": "usa-mls",
-      "home": "Orlando City SC",
-      "away": "Toronto FC",
-      "home_slug": "orlando-city-sc",
-      "away_slug": "toronto-fc",
-      "kickoff_utc": "2026-09-12T23:30:00.000Z",
-      "kickoff_et": "2026-09-12T19:30",
-      "channels": [
-        {
-          "slug": "apple",
-          "label": "Apple TV",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Apple TV"
-    },
-    {
-      "id": "usa-mls-202609121930-fc-cincinnati-vs-charlotte-fc",
-      "competition": "usa-mls",
-      "home": "FC Cincinnati",
-      "away": "Charlotte FC",
-      "home_slug": "fc-cincinnati",
-      "away_slug": "charlotte-fc",
+      "home": "Inter Miami CF",
+      "away": "Nashville SC",
+      "home_slug": "inter-miami-cf",
+      "away_slug": "nashville-sc",
       "kickoff_utc": "2026-09-12T23:30:00.000Z",
       "kickoff_et": "2026-09-12T19:30",
       "channels": [
@@ -4761,12 +5210,12 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202609122030-sporting-kansas-city-vs-lafc",
+      "id": "usa-mls-202609122030-st-louis-city-sc-vs-minnesota-united-fc",
       "competition": "usa-mls",
-      "home": "Sporting Kansas City",
-      "away": "LAFC",
-      "home_slug": "sporting-kansas-city",
-      "away_slug": "lafc",
+      "home": "St. Louis City SC",
+      "away": "Minnesota United FC",
+      "home_slug": "st-louis-city-sc",
+      "away_slug": "minnesota-united-fc",
       "kickoff_utc": "2026-09-13T00:30:00.000Z",
       "kickoff_et": "2026-09-12T20:30",
       "channels": [
@@ -4779,12 +5228,12 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202609122030-st-louis-city-sc-vs-minnesota-united-fc",
+      "id": "usa-mls-202609122030-sporting-kansas-city-vs-lafc",
       "competition": "usa-mls",
-      "home": "St. Louis City SC",
-      "away": "Minnesota United FC",
-      "home_slug": "st-louis-city-sc",
-      "away_slug": "minnesota-united-fc",
+      "home": "Sporting Kansas City",
+      "away": "LAFC",
+      "home_slug": "sporting-kansas-city",
+      "away_slug": "lafc",
       "kickoff_utc": "2026-09-13T00:30:00.000Z",
       "kickoff_et": "2026-09-12T20:30",
       "channels": [
@@ -4833,6 +5282,24 @@
       "channels_raw": "Apple TV"
     },
     {
+      "id": "usa-mls-202609122230-la-galaxy-vs-seattle-sounders-fc",
+      "competition": "usa-mls",
+      "home": "LA Galaxy",
+      "away": "Seattle Sounders FC",
+      "home_slug": "la-galaxy",
+      "away_slug": "seattle-sounders-fc",
+      "kickoff_utc": "2026-09-13T02:30:00.000Z",
+      "kickoff_et": "2026-09-12T22:30",
+      "channels": [
+        {
+          "slug": "apple",
+          "label": "Apple TV",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Apple TV"
+    },
+    {
       "id": "usa-mls-202609122230-san-jose-earthquakes-vs-houston-dynamo",
       "competition": "usa-mls",
       "home": "San Jose Earthquakes",
@@ -4851,22 +5318,94 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202609122230-la-galaxy-vs-seattle-sounders-fc",
-      "competition": "usa-mls",
-      "home": "LA Galaxy",
-      "away": "Seattle Sounders FC",
-      "home_slug": "la-galaxy",
-      "away_slug": "seattle-sounders-fc",
-      "kickoff_utc": "2026-09-13T02:30:00.000Z",
-      "kickoff_et": "2026-09-12T22:30",
+      "id": "ita-seriea-202609130630-torino-vs-as-roma",
+      "competition": "ita-seriea",
+      "home": "Torino",
+      "away": "AS Roma",
+      "home_slug": "torino",
+      "away_slug": "as-roma",
+      "kickoff_utc": "2026-09-13T10:30:00.000Z",
+      "kickoff_et": "2026-09-13T06:30",
       "channels": [
         {
-          "slug": "apple",
-          "label": "Apple TV",
+          "slug": "paramount",
+          "label": "Paramount+",
           "tier": 3
         }
       ],
-      "channels_raw": "Apple TV"
+      "channels_raw": "Paramount+"
+    },
+    {
+      "id": "ita-seriea-202609130900-como-1907-vs-parma",
+      "competition": "ita-seriea",
+      "home": "Como 1907",
+      "away": "Parma",
+      "home_slug": "como-1907",
+      "away_slug": "parma",
+      "kickoff_utc": "2026-09-13T13:00:00.000Z",
+      "kickoff_et": "2026-09-13T09:00",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
+    },
+    {
+      "id": "ita-seriea-202609130900-lecce-vs-monza",
+      "competition": "ita-seriea",
+      "home": "Lecce",
+      "away": "Monza",
+      "home_slug": "lecce",
+      "away_slug": "monza",
+      "kickoff_utc": "2026-09-13T13:00:00.000Z",
+      "kickoff_et": "2026-09-13T09:00",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
+    },
+    {
+      "id": "ita-seriea-202609131200-napoli-vs-bologna",
+      "competition": "ita-seriea",
+      "home": "Napoli",
+      "away": "Bologna",
+      "home_slug": "napoli",
+      "away_slug": "bologna",
+      "kickoff_utc": "2026-09-13T16:00:00.000Z",
+      "kickoff_et": "2026-09-13T12:00",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
+    },
+    {
+      "id": "ita-seriea-202609131445-lazio-vs-ac-milan",
+      "competition": "ita-seriea",
+      "home": "Lazio",
+      "away": "AC Milan",
+      "home_slug": "lazio",
+      "away_slug": "ac-milan",
+      "kickoff_utc": "2026-09-13T18:45:00.000Z",
+      "kickoff_et": "2026-09-13T14:45",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
     },
     {
       "id": "usa-mls-202609131730-chicago-fire-fc-vs-new-england-revolution",
@@ -4923,6 +5462,42 @@
       "channels_raw": "Apple TV"
     },
     {
+      "id": "ita-seriea-202609141445-inter-milan-vs-udinese",
+      "competition": "ita-seriea",
+      "home": "Inter Milan",
+      "away": "Udinese",
+      "home_slug": "inter-milan",
+      "away_slug": "udinese",
+      "kickoff_utc": "2026-09-14T18:45:00.000Z",
+      "kickoff_et": "2026-09-14T14:45",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
+    },
+    {
+      "id": "ita-seriea-202609181445-monza-vs-sassuolo",
+      "competition": "ita-seriea",
+      "home": "Monza",
+      "away": "Sassuolo",
+      "home_slug": "monza",
+      "away_slug": "sassuolo",
+      "kickoff_utc": "2026-09-18T18:45:00.000Z",
+      "kickoff_et": "2026-09-18T14:45",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
+    },
+    {
       "id": "usa-mls-202609181930-new-york-city-fc-vs-new-york-red-bulls",
       "competition": "usa-mls",
       "home": "New York City FC",
@@ -4941,30 +5516,84 @@
       "channels_raw": "Apple TV"
     },
     {
+      "id": "ita-seriea-202609190900-udinese-vs-cagliari",
+      "competition": "ita-seriea",
+      "home": "Udinese",
+      "away": "Cagliari",
+      "home_slug": "udinese",
+      "away_slug": "cagliari",
+      "kickoff_utc": "2026-09-19T13:00:00.000Z",
+      "kickoff_et": "2026-09-19T09:00",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
+    },
+    {
+      "id": "ita-seriea-202609190900-bologna-vs-torino",
+      "competition": "ita-seriea",
+      "home": "Bologna",
+      "away": "Torino",
+      "home_slug": "bologna",
+      "away_slug": "torino",
+      "kickoff_utc": "2026-09-19T13:00:00.000Z",
+      "kickoff_et": "2026-09-19T09:00",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
+    },
+    {
+      "id": "ita-seriea-202609191200-as-roma-vs-inter-milan",
+      "competition": "ita-seriea",
+      "home": "AS Roma",
+      "away": "Inter Milan",
+      "home_slug": "as-roma",
+      "away_slug": "inter-milan",
+      "kickoff_utc": "2026-09-19T16:00:00.000Z",
+      "kickoff_et": "2026-09-19T12:00",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
+    },
+    {
+      "id": "ita-seriea-202609191445-venezia-vs-lazio",
+      "competition": "ita-seriea",
+      "home": "Venezia",
+      "away": "Lazio",
+      "home_slug": "venezia",
+      "away_slug": "lazio",
+      "kickoff_utc": "2026-09-19T18:45:00.000Z",
+      "kickoff_et": "2026-09-19T14:45",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
+    },
+    {
       "id": "usa-mls-202609191930-san-jose-earthquakes-vs-lafc",
       "competition": "usa-mls",
       "home": "San Jose Earthquakes",
       "away": "LAFC",
       "home_slug": "san-jose-earthquakes",
       "away_slug": "lafc",
-      "kickoff_utc": "2026-09-19T23:30:00.000Z",
-      "kickoff_et": "2026-09-19T19:30",
-      "channels": [
-        {
-          "slug": "apple",
-          "label": "Apple TV",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Apple TV"
-    },
-    {
-      "id": "usa-mls-202609191930-d-c-united-vs-charlotte-fc",
-      "competition": "usa-mls",
-      "home": "D.C. United",
-      "away": "Charlotte FC",
-      "home_slug": "d-c-united",
-      "away_slug": "charlotte-fc",
       "kickoff_utc": "2026-09-19T23:30:00.000Z",
       "kickoff_et": "2026-09-19T19:30",
       "channels": [
@@ -4995,6 +5624,24 @@
       "channels_raw": "Apple TV"
     },
     {
+      "id": "usa-mls-202609191930-d-c-united-vs-charlotte-fc",
+      "competition": "usa-mls",
+      "home": "D.C. United",
+      "away": "Charlotte FC",
+      "home_slug": "d-c-united",
+      "away_slug": "charlotte-fc",
+      "kickoff_utc": "2026-09-19T23:30:00.000Z",
+      "kickoff_et": "2026-09-19T19:30",
+      "channels": [
+        {
+          "slug": "apple",
+          "label": "Apple TV",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Apple TV"
+    },
+    {
       "id": "usa-mls-202609191930-montreal-vs-columbus-crew",
       "competition": "usa-mls",
       "home": "Montréal",
@@ -5013,12 +5660,12 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202609192030-fc-dallas-vs-austin-fc",
+      "id": "usa-mls-202609192030-houston-dynamo-vs-fc-cincinnati",
       "competition": "usa-mls",
-      "home": "FC Dallas",
-      "away": "Austin FC",
-      "home_slug": "fc-dallas",
-      "away_slug": "austin-fc",
+      "home": "Houston Dynamo",
+      "away": "FC Cincinnati",
+      "home_slug": "houston-dynamo",
+      "away_slug": "fc-cincinnati",
       "kickoff_utc": "2026-09-20T00:30:00.000Z",
       "kickoff_et": "2026-09-19T20:30",
       "channels": [
@@ -5049,12 +5696,12 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202609192030-st-louis-city-sc-vs-toronto-fc",
+      "id": "usa-mls-202609192030-fc-dallas-vs-austin-fc",
       "competition": "usa-mls",
-      "home": "St. Louis City SC",
-      "away": "Toronto FC",
-      "home_slug": "st-louis-city-sc",
-      "away_slug": "toronto-fc",
+      "home": "FC Dallas",
+      "away": "Austin FC",
+      "home_slug": "fc-dallas",
+      "away_slug": "austin-fc",
       "kickoff_utc": "2026-09-20T00:30:00.000Z",
       "kickoff_et": "2026-09-19T20:30",
       "channels": [
@@ -5085,14 +5732,32 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202609192030-houston-dynamo-vs-fc-cincinnati",
+      "id": "usa-mls-202609192030-st-louis-city-sc-vs-toronto-fc",
       "competition": "usa-mls",
-      "home": "Houston Dynamo",
-      "away": "FC Cincinnati",
-      "home_slug": "houston-dynamo",
-      "away_slug": "fc-cincinnati",
+      "home": "St. Louis City SC",
+      "away": "Toronto FC",
+      "home_slug": "st-louis-city-sc",
+      "away_slug": "toronto-fc",
       "kickoff_utc": "2026-09-20T00:30:00.000Z",
       "kickoff_et": "2026-09-19T20:30",
+      "channels": [
+        {
+          "slug": "apple",
+          "label": "Apple TV",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Apple TV"
+    },
+    {
+      "id": "usa-mls-202609192130-nashville-sc-vs-chicago-fire-fc",
+      "competition": "usa-mls",
+      "home": "Nashville SC",
+      "away": "Chicago Fire FC",
+      "home_slug": "nashville-sc",
+      "away_slug": "chicago-fire-fc",
+      "kickoff_utc": "2026-09-20T01:30:00.000Z",
+      "kickoff_et": "2026-09-19T21:30",
       "channels": [
         {
           "slug": "apple",
@@ -5139,24 +5804,6 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202609192130-nashville-sc-vs-chicago-fire-fc",
-      "competition": "usa-mls",
-      "home": "Nashville SC",
-      "away": "Chicago Fire FC",
-      "home_slug": "nashville-sc",
-      "away_slug": "chicago-fire-fc",
-      "kickoff_utc": "2026-09-20T01:30:00.000Z",
-      "kickoff_et": "2026-09-19T21:30",
-      "channels": [
-        {
-          "slug": "apple",
-          "label": "Apple TV",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Apple TV"
-    },
-    {
       "id": "usa-mls-202609192230-portland-timbers-vs-atlanta-united-fc",
       "competition": "usa-mls",
       "home": "Portland Timbers",
@@ -5173,6 +5820,96 @@
         }
       ],
       "channels_raw": "Apple TV"
+    },
+    {
+      "id": "ita-seriea-202609200630-fiorentina-vs-napoli",
+      "competition": "ita-seriea",
+      "home": "Fiorentina",
+      "away": "Napoli",
+      "home_slug": "fiorentina",
+      "away_slug": "napoli",
+      "kickoff_utc": "2026-09-20T10:30:00.000Z",
+      "kickoff_et": "2026-09-20T06:30",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
+    },
+    {
+      "id": "ita-seriea-202609200900-frosinone-calcio-vs-como-1907",
+      "competition": "ita-seriea",
+      "home": "Frosinone Calcio",
+      "away": "Como 1907",
+      "home_slug": "frosinone-calcio",
+      "away_slug": "como-1907",
+      "kickoff_utc": "2026-09-20T13:00:00.000Z",
+      "kickoff_et": "2026-09-20T09:00",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
+    },
+    {
+      "id": "ita-seriea-202609200900-parma-vs-genoa",
+      "competition": "ita-seriea",
+      "home": "Parma",
+      "away": "Genoa",
+      "home_slug": "parma",
+      "away_slug": "genoa",
+      "kickoff_utc": "2026-09-20T13:00:00.000Z",
+      "kickoff_et": "2026-09-20T09:00",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
+    },
+    {
+      "id": "ita-seriea-202609201200-juventus-vs-atalanta",
+      "competition": "ita-seriea",
+      "home": "Juventus",
+      "away": "Atalanta",
+      "home_slug": "juventus",
+      "away_slug": "atalanta",
+      "kickoff_utc": "2026-09-20T16:00:00.000Z",
+      "kickoff_et": "2026-09-20T12:00",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
+    },
+    {
+      "id": "ita-seriea-202609201445-ac-milan-vs-lecce",
+      "competition": "ita-seriea",
+      "home": "AC Milan",
+      "away": "Lecce",
+      "home_slug": "ac-milan",
+      "away_slug": "lecce",
+      "kickoff_utc": "2026-09-20T18:45:00.000Z",
+      "kickoff_et": "2026-09-20T14:45",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
     },
     {
       "id": "usa-mls-202609201900-inter-miami-cf-vs-san-diego-fc",
@@ -5301,42 +6038,6 @@
       "channels_raw": "Apple TV"
     },
     {
-      "id": "usa-mls-202609262030-austin-fc-vs-san-diego-fc",
-      "competition": "usa-mls",
-      "home": "Austin FC",
-      "away": "San Diego FC",
-      "home_slug": "austin-fc",
-      "away_slug": "san-diego-fc",
-      "kickoff_utc": "2026-09-27T00:30:00.000Z",
-      "kickoff_et": "2026-09-26T20:30",
-      "channels": [
-        {
-          "slug": "apple",
-          "label": "Apple TV",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Apple TV"
-    },
-    {
-      "id": "usa-mls-202609262030-seattle-sounders-fc-vs-minnesota-united-fc",
-      "competition": "usa-mls",
-      "home": "Seattle Sounders FC",
-      "away": "Minnesota United FC",
-      "home_slug": "seattle-sounders-fc",
-      "away_slug": "minnesota-united-fc",
-      "kickoff_utc": "2026-09-27T00:30:00.000Z",
-      "kickoff_et": "2026-09-26T20:30",
-      "channels": [
-        {
-          "slug": "apple",
-          "label": "Apple TV",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Apple TV"
-    },
-    {
       "id": "usa-mls-202609262030-nashville-sc-vs-toronto-fc",
       "competition": "usa-mls",
       "home": "Nashville SC",
@@ -5379,6 +6080,42 @@
       "away": "LAFC",
       "home_slug": "fc-dallas",
       "away_slug": "lafc",
+      "kickoff_utc": "2026-09-27T00:30:00.000Z",
+      "kickoff_et": "2026-09-26T20:30",
+      "channels": [
+        {
+          "slug": "apple",
+          "label": "Apple TV",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Apple TV"
+    },
+    {
+      "id": "usa-mls-202609262030-seattle-sounders-fc-vs-minnesota-united-fc",
+      "competition": "usa-mls",
+      "home": "Seattle Sounders FC",
+      "away": "Minnesota United FC",
+      "home_slug": "seattle-sounders-fc",
+      "away_slug": "minnesota-united-fc",
+      "kickoff_utc": "2026-09-27T00:30:00.000Z",
+      "kickoff_et": "2026-09-26T20:30",
+      "channels": [
+        {
+          "slug": "apple",
+          "label": "Apple TV",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Apple TV"
+    },
+    {
+      "id": "usa-mls-202609262030-austin-fc-vs-san-diego-fc",
+      "competition": "usa-mls",
+      "home": "Austin FC",
+      "away": "San Diego FC",
+      "home_slug": "austin-fc",
+      "away_slug": "san-diego-fc",
       "kickoff_utc": "2026-09-27T00:30:00.000Z",
       "kickoff_et": "2026-09-26T20:30",
       "channels": [
@@ -5518,8 +6255,8 @@
     }
   ],
   "teams_meta": {
-    "resolved_count": 146,
-    "missing_count": 43
+    "resolved_count": 143,
+    "missing_count": 45
   },
   "comps_meta": {
     "resolved_count": 23,
