@@ -526,7 +526,7 @@
     "name": "Coventry City",
     "title": "Coventry City F.C.",
     "missing": true,
-    "last_tried": "2026-07-23T12:20:29.639Z",
+    "last_tried": "2026-08-23T11:14:58.908Z",
     "error": "Request failed with status code 400"
   },
   "cremonese": {
@@ -596,7 +596,7 @@
     "name": "Deportivo La Coruña",
     "title": "Deportivo de A Coruña",
     "missing": true,
-    "last_tried": "2026-07-23T12:20:28.106Z",
+    "last_tried": "2026-08-23T11:14:56.397Z",
     "error": "Request failed with status code 400"
   },
   "deportivo-la-guaira": {
@@ -972,7 +972,7 @@
     "name": "Ipswich Town",
     "title": "Ipswich Town F.C.",
     "missing": true,
-    "last_tried": "2026-07-23T12:20:30.407Z",
+    "last_tried": "2026-08-23T11:14:59.711Z",
     "error": "Request failed with status code 400"
   },
   "junior": {
@@ -1112,7 +1112,7 @@
     "name": "Málaga CF",
     "title": "Málaga CF",
     "missing": true,
-    "last_tried": "2026-07-23T12:20:28.872Z",
+    "last_tried": "2026-08-23T11:14:55.538Z",
     "error": "Request failed with status code 400"
   },
   "mallorca": {
@@ -1483,7 +1483,7 @@
     "name": "Racing de Santander",
     "title": "Racing de Santander",
     "missing": true,
-    "last_tried": "2026-07-23T12:20:27.338Z",
+    "last_tried": "2026-08-23T11:14:54.679Z",
     "error": "Request failed with status code 400"
   },
   "rayo-vallecano": {
@@ -1628,14 +1628,14 @@
     "name": "SC Paderborn",
     "title": "SC Paderborn 07",
     "missing": true,
-    "last_tried": "2026-07-23T12:20:31.175Z",
+    "last_tried": "2026-08-23T11:14:57.249Z",
     "error": "Request failed with status code 400"
   },
   "schalke-04": {
     "name": "Schalke 04",
     "title": "FC Schalke 04",
     "missing": true,
-    "last_tried": "2026-07-23T12:20:32.699Z",
+    "last_tried": "2026-08-23T11:15:00.565Z",
     "error": "Request failed with status code 400"
   },
   "seattle-sounders-fc": {
@@ -1752,7 +1752,7 @@
     "name": "SV Elversberg",
     "title": "SV Elversberg",
     "missing": true,
-    "last_tried": "2026-07-23T12:20:31.933Z",
+    "last_tried": "2026-08-23T11:14:58.103Z",
     "error": "Request failed with status code 400"
   },
   "swansea-city": {
