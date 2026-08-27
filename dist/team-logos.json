@@ -246,14 +246,14 @@
     "name": "Birmingham City",
     "title": "Birmingham City F.C.",
     "missing": true,
-    "last_tried": "2026-07-27T13:34:48.837Z",
+    "last_tried": "2026-08-27T20:52:54.471Z",
     "error": "Request failed with status code 400"
   },
   "blackburn-rovers": {
     "name": "Blackburn Rovers",
     "title": "Blackburn Rovers F.C.",
     "missing": true,
-    "last_tried": "2026-07-27T13:34:37.205Z",
+    "last_tried": "2026-08-27T20:53:01.428Z",
     "error": "Request failed with status code 400"
   },
   "boca-juniors": {
@@ -281,7 +281,7 @@
     "name": "Bolton Wanderers",
     "title": "Bolton Wanderers F.C.",
     "missing": true,
-    "last_tried": "2026-07-27T13:34:37.974Z",
+    "last_tried": "2026-08-27T20:53:04.539Z",
     "error": "Request failed with status code 400"
   },
   "borussia-dortmund": {
@@ -337,7 +337,7 @@
     "name": "Bristol City",
     "title": "Bristol City F.C.",
     "missing": true,
-    "last_tried": "2026-07-27T13:34:41.034Z",
+    "last_tried": "2026-08-27T20:53:02.207Z",
     "error": "Request failed with status code 400"
   },
   "burnley": {
@@ -379,7 +379,7 @@
     "name": "Cardiff City",
     "title": "Cardiff City F.C.",
     "missing": true,
-    "last_tried": "2026-07-27T13:34:50.364Z",
+    "last_tried": "2026-08-27T20:52:56.793Z",
     "error": "Request failed with status code 400"
   },
   "casa-pia-a-c": {
@@ -435,7 +435,7 @@
     "name": "Charlton Athletic",
     "title": "Charlton Athletic F.C.",
     "missing": true,
-    "last_tried": "2026-07-27T13:34:39.500Z",
+    "last_tried": "2026-08-27T20:53:06.092Z",
     "error": "Request failed with status code 400"
   },
   "chelsea": {
@@ -617,7 +617,7 @@
     "name": "Derby County",
     "title": "Derby County F.C.",
     "missing": true,
-    "last_tried": "2026-07-27T13:34:40.266Z",
+    "last_tried": "2026-08-27T20:53:03.756Z",
     "error": "Request failed with status code 400"
   },
   "dinamo-zagreb": {
@@ -1280,7 +1280,7 @@
     "name": "Norwich City",
     "title": "Norwich City F.C.",
     "missing": true,
-    "last_tried": "2026-07-27T13:34:46.376Z",
+    "last_tried": "2026-08-27T20:52:59.103Z",
     "error": "Request failed with status code 400"
   },
   "nottingham-forest": {
@@ -1455,14 +1455,14 @@
     "name": "Portsmouth",
     "title": "Portsmouth F.C.",
     "missing": true,
-    "last_tried": "2026-07-27T13:34:41.797Z",
+    "last_tried": "2026-08-27T20:53:05.316Z",
     "error": "Request failed with status code 400"
   },
   "preston-north-end": {
     "name": "Preston North End",
     "title": "Preston North End F.C.",
     "missing": true,
-    "last_tried": "2026-07-27T13:34:38.741Z",
+    "last_tried": "2026-08-27T20:53:00.653Z",
     "error": "Request failed with status code 400"
   },
   "puebla": {
@@ -1490,7 +1490,7 @@
     "name": "Queens Park Rangers",
     "title": "Queens Park Rangers F.C.",
     "missing": true,
-    "last_tried": "2026-07-27T13:34:42.554Z",
+    "last_tried": "2026-08-27T20:52:59.878Z",
     "error": "Request failed with status code 400"
   },
   "queretaro": {
@@ -1705,7 +1705,7 @@
     "name": "Sheffield United",
     "title": "Sheffield United F.C.",
     "missing": true,
-    "last_tried": "2026-07-27T13:34:48.009Z",
+    "last_tried": "2026-08-27T20:52:57.558Z",
     "error": "Request failed with status code 400"
   },
   "sint-truiden": {
@@ -1773,7 +1773,7 @@
     "name": "Stoke City",
     "title": "Stoke City F.C.",
     "missing": true,
-    "last_tried": "2026-07-27T13:34:43.319Z",
+    "last_tried": "2026-08-27T20:52:56.018Z",
     "error": "Request failed with status code 400"
   },
   "strasbourg": {
@@ -1801,7 +1801,7 @@
     "name": "Swansea City",
     "title": "Swansea City A.F.C.",
     "missing": true,
-    "last_tried": "2026-07-27T13:34:44.079Z",
+    "last_tried": "2026-08-27T20:53:02.981Z",
     "error": "Request failed with status code 400"
   },
   "tigres-uanl": {
@@ -1955,7 +1955,7 @@
     "name": "Watford",
     "title": "Watford F.C.",
     "missing": true,
-    "last_tried": "2026-07-27T13:34:49.595Z",
+    "last_tried": "2026-08-27T20:52:58.332Z",
     "error": "Request failed with status code 400"
   },
   "werder-bremen": {
@@ -1969,7 +1969,7 @@
     "name": "West Bromwich Albion",
     "title": "West Bromwich Albion F.C.",
     "missing": true,
-    "last_tried": "2026-07-27T13:34:47.243Z",
+    "last_tried": "2026-08-27T20:52:55.244Z",
     "error": "Request failed with status code 400"
   },
   "west-ham-united": {
@@ -1990,7 +1990,7 @@
     "name": "Wrexham AFC",
     "title": "Wrexham A.F.C.",
     "missing": true,
-    "last_tried": "2026-07-27T13:34:51.130Z",
+    "last_tried": "2026-08-27T20:52:53.400Z",
     "error": "Request failed with status code 400"
   }
 }
