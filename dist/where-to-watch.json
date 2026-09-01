@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T17:47:46.586Z",
+  "generated_at": "2026-09-01T15:21:30.289Z",
   "source": "worldsoccertalk.com",
   "partial": false,
   "errors": [],
@@ -144,285 +144,6 @@
     }
   ],
   "matches": [
-    {
-      "id": "mex-ligamx-202608302000-toluca-vs-fc-juarez",
-      "competition": "mex-ligamx",
-      "home": "Toluca",
-      "away": "FC Juarez",
-      "home_slug": "toluca",
-      "away_slug": "fc-juarez",
-      "kickoff_utc": "2026-08-31T00:00:00.000Z",
-      "kickoff_et": "2026-08-30T20:00",
-      "channels": [
-        {
-          "slug": "tudn",
-          "label": "TUDN",
-          "tier": 2
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
-        },
-        {
-          "slug": "other:hulu-live-tv",
-          "label": "Hulu + Live TV",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "TUDN, DirecTV Stream, Hulu + Live TV"
-    },
-    {
-      "id": "mex-ligamx-202608302210-monterrey-vs-atletico-san-luis",
-      "competition": "mex-ligamx",
-      "home": "Monterrey",
-      "away": "Atlético San Luis",
-      "home_slug": "monterrey",
-      "away_slug": "atletico-san-luis",
-      "kickoff_utc": "2026-08-31T02:10:00.000Z",
-      "kickoff_et": "2026-08-30T22:10",
-      "channels": [
-        {
-          "slug": "tudn",
-          "label": "TUDN",
-          "tier": 2
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
-        },
-        {
-          "slug": "other:hulu-live-tv",
-          "label": "Hulu + Live TV",
-          "tier": 4
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "TUDN, DirecTV Stream, Hulu + Live TV, ViX"
-    },
-    {
-      "id": "ita-seriea-202608311230-lecce-vs-as-roma",
-      "competition": "ita-seriea",
-      "home": "Lecce",
-      "away": "AS Roma",
-      "home_slug": "lecce",
-      "away_slug": "as-roma",
-      "kickoff_utc": "2026-08-31T16:30:00.000Z",
-      "kickoff_et": "2026-08-31T12:30",
-      "channels": [
-        {
-          "slug": "cbs",
-          "label": "CBS",
-          "tier": 1
-        },
-        {
-          "slug": "other:universo",
-          "label": "Universo",
-          "tier": 4
-        },
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "other:amazon-prime-video",
-          "label": "Amazon Prime Video",
-          "tier": 4
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "peacock",
-          "label": "Peacock",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "CBS Sports Golazo Network, Universo, Paramount+, Amazon Prime Video, DirecTV Stream, Fubo Latino, Peacock Premium"
-    },
-    {
-      "id": "esp-laliga-202608311330-osasuna-vs-getafe",
-      "competition": "esp-laliga",
-      "home": "Osasuna",
-      "away": "Getafe",
-      "home_slug": "osasuna",
-      "away_slug": "getafe",
-      "kickoff_utc": "2026-08-31T17:30:00.000Z",
-      "kickoff_et": "2026-08-31T13:30",
-      "channels": [
-        {
-          "slug": "espn-plus",
-          "label": "ESPN+",
-          "tier": 3
-        },
-        {
-          "slug": "espn-dep",
-          "label": "ESPN Deportes",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "ESPN+, ESPN Deportes, Fubo, DirecTV Stream"
-    },
-    {
-      "id": "ita-seriea-202608311445-atalanta-vs-bologna",
-      "competition": "ita-seriea",
-      "home": "Atalanta",
-      "away": "Bologna",
-      "home_slug": "atalanta",
-      "away_slug": "bologna",
-      "kickoff_utc": "2026-08-31T18:45:00.000Z",
-      "kickoff_et": "2026-08-31T14:45",
-      "channels": [
-        {
-          "slug": "cbs",
-          "label": "CBS",
-          "tier": 1
-        },
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "other:amazon-prime-video",
-          "label": "Amazon Prime Video",
-          "tier": 4
-        },
-        {
-          "slug": "peacock",
-          "label": "Peacock",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "CBS Sports Golazo Network, Paramount+, Amazon Prime Video, Peacock Premium"
-    },
-    {
-      "id": "eng-premier-202608311500-aston-villa-vs-arsenal",
-      "competition": "eng-premier",
-      "home": "Aston Villa",
-      "away": "Arsenal",
-      "home_slug": "aston-villa",
-      "away_slug": "arsenal",
-      "kickoff_utc": "2026-08-31T19:00:00.000Z",
-      "kickoff_et": "2026-08-31T15:00",
-      "channels": [
-        {
-          "slug": "usa",
-          "label": "USA Network",
-          "tier": 2
-        },
-        {
-          "slug": "other:universo",
-          "label": "Universo",
-          "tier": 4
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
-        },
-        {
-          "slug": "other:sling-blue",
-          "label": "Sling Blue",
-          "tier": 4
-        },
-        {
-          "slug": "other:hulu-live-tv",
-          "label": "Hulu + Live TV",
-          "tier": 4
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "USA Network, Universo, DirecTV Stream, Sling Blue, Hulu + Live TV, Fubo Latino"
-    },
-    {
-      "id": "por-primeira-202608311515-benfica-vs-estoril",
-      "competition": "por-primeira",
-      "home": "Benfica",
-      "away": "Estoril",
-      "home_slug": "benfica",
-      "away_slug": "estoril",
-      "kickoff_utc": "2026-08-31T19:15:00.000Z",
-      "kickoff_et": "2026-08-31T15:15",
-      "channels": [
-        {
-          "slug": "bein",
-          "label": "beIN Sports",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:fanatiz",
-          "label": "Fanatiz",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "beIN SPORTS Connect, beIN SPORTS en Español, Fubo, Fanatiz"
-    },
-    {
-      "id": "esp-laliga-202608311530-barcelona-vs-rayo-vallecano",
-      "competition": "esp-laliga",
-      "home": "Barcelona",
-      "away": "Rayo Vallecano",
-      "home_slug": "barcelona",
-      "away_slug": "rayo-vallecano",
-      "kickoff_utc": "2026-08-31T19:30:00.000Z",
-      "kickoff_et": "2026-08-31T15:30",
-      "channels": [
-        {
-          "slug": "espn-plus",
-          "label": "ESPN+",
-          "tier": 3
-        },
-        {
-          "slug": "espn-dep",
-          "label": "ESPN Deportes",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "ESPN+, ESPN Deportes, Fubo, DirecTV Stream"
-    },
     {
       "id": "eng-champ-202609011445-west-ham-united-vs-wolverhampton-wanderers",
       "competition": "eng-champ",
@@ -3164,12 +2885,12 @@
       "channels_raw": "Paramount+"
     },
     {
-      "id": "ita-seriea-202609130900-lecce-vs-monza",
+      "id": "ita-seriea-202609130900-como-1907-vs-parma",
       "competition": "ita-seriea",
-      "home": "Lecce",
-      "away": "Monza",
-      "home_slug": "lecce",
-      "away_slug": "monza",
+      "home": "Como 1907",
+      "away": "Parma",
+      "home_slug": "como-1907",
+      "away_slug": "parma",
       "kickoff_utc": "2026-09-13T13:00:00.000Z",
       "kickoff_et": "2026-09-13T09:00",
       "channels": [
@@ -3182,12 +2903,12 @@
       "channels_raw": "Paramount+"
     },
     {
-      "id": "ita-seriea-202609130900-como-1907-vs-parma",
+      "id": "ita-seriea-202609130900-lecce-vs-monza",
       "competition": "ita-seriea",
-      "home": "Como 1907",
-      "away": "Parma",
-      "home_slug": "como-1907",
-      "away_slug": "parma",
+      "home": "Lecce",
+      "away": "Monza",
+      "home_slug": "lecce",
+      "away_slug": "monza",
       "kickoff_utc": "2026-09-13T13:00:00.000Z",
       "kickoff_et": "2026-09-13T09:00",
       "channels": [
@@ -3776,12 +3497,12 @@
       "channels_raw": "Paramount+"
     },
     {
-      "id": "ita-seriea-202609200900-frosinone-calcio-vs-como-1907",
+      "id": "ita-seriea-202609200900-parma-vs-genoa",
       "competition": "ita-seriea",
-      "home": "Frosinone Calcio",
-      "away": "Como 1907",
-      "home_slug": "frosinone-calcio",
-      "away_slug": "como-1907",
+      "home": "Parma",
+      "away": "Genoa",
+      "home_slug": "parma",
+      "away_slug": "genoa",
       "kickoff_utc": "2026-09-20T13:00:00.000Z",
       "kickoff_et": "2026-09-20T09:00",
       "channels": [
@@ -3794,12 +3515,12 @@
       "channels_raw": "Paramount+"
     },
     {
-      "id": "ita-seriea-202609200900-parma-vs-genoa",
+      "id": "ita-seriea-202609200900-frosinone-calcio-vs-como-1907",
       "competition": "ita-seriea",
-      "home": "Parma",
-      "away": "Genoa",
-      "home_slug": "parma",
-      "away_slug": "genoa",
+      "home": "Frosinone Calcio",
+      "away": "Como 1907",
+      "home_slug": "frosinone-calcio",
+      "away_slug": "como-1907",
       "kickoff_utc": "2026-09-20T13:00:00.000Z",
       "kickoff_et": "2026-09-20T09:00",
       "channels": [
@@ -4191,8 +3912,8 @@
     }
   ],
   "teams_meta": {
-    "resolved_count": 106,
-    "missing_count": 36
+    "resolved_count": 105,
+    "missing_count": 32
   },
   "comps_meta": {
     "resolved_count": 23,
