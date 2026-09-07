@@ -393,7 +393,7 @@
     "name": "Casa Pia A.C.",
     "title": "Casa Pia A.C.",
     "missing": true,
-    "last_tried": "2026-08-07T11:40:14.011Z",
+    "last_tried": "2026-09-07T16:14:28.006Z",
     "error": "Request failed with status code 400"
   },
   "cd-nacional-de-madeira": {
@@ -678,7 +678,7 @@
     "name": "Estrela da Amadora",
     "title": "C.F. Estrela da Amadora",
     "missing": true,
-    "last_tried": "2026-08-01T11:58:23.181Z",
+    "last_tried": "2026-09-07T16:14:27.240Z",
     "error": "Request failed with status code 400"
   },
   "estudiantes-de-la-plata": {
@@ -736,6 +736,13 @@
     "file": "teams/fc-dallas.png",
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/FC_Dallas_logo.svg/256px-FC_Dallas_logo.svg.png",
     "fetched_at": "2026-05-05T21:49:10.863Z"
+  },
+  "fc-famalicao": {
+    "name": "FC Famalicao",
+    "title": "F.C. Famalicão",
+    "missing": true,
+    "last_tried": "2026-09-07T16:14:31.359Z",
+    "error": "Request failed with status code 400"
   },
   "fc-heidenheim-1846": {
     "name": "1. FC Heidenheim 1846",
@@ -869,6 +876,13 @@
     "file": "teams/getafe.png",
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/256px-Getafe_logo.svg.png",
     "fetched_at": "2026-05-05T21:50:03.650Z"
+  },
+  "gil-vicente": {
+    "name": "Gil Vicente",
+    "title": "Gil Vicente F.C.",
+    "file": "teams/gil-vicente.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/8/8f/Gil_Vicente_F.C.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "fetched_at": "2026-09-07T16:14:29.952Z"
   },
   "girona": {
     "name": "Girona",
