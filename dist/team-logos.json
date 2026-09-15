@@ -86,7 +86,7 @@
   "arouca": {
     "name": "Arouca",
     "missing": true,
-    "last_tried": "2026-08-15T11:13:26.308Z"
+    "last_tried": "2026-09-15T15:22:44.928Z"
   },
   "arsenal": {
     "name": "Arsenal",
@@ -134,7 +134,7 @@
     "name": "Atlante FC",
     "title": "Atlante F.C.",
     "missing": true,
-    "last_tried": "2026-08-15T11:13:15.340Z",
+    "last_tried": "2026-09-15T15:22:39.263Z",
     "error": "Request failed with status code 400"
   },
   "atlas": {
@@ -162,7 +162,7 @@
     "name": "Atlético San Luis",
     "title": "Atlético San Luis",
     "missing": true,
-    "last_tried": "2026-08-15T11:13:18.418Z",
+    "last_tried": "2026-09-15T15:22:37.682Z",
     "error": "Request failed with status code 400"
   },
   "atletico-tigre": {
@@ -755,7 +755,7 @@
     "name": "FC Juarez",
     "title": "FC Juárez",
     "missing": true,
-    "last_tried": "2026-08-15T11:13:16.889Z",
+    "last_tried": "2026-09-15T15:22:40.035Z",
     "error": "Request failed with status code 400"
   },
   "fc-koln": {
@@ -1147,7 +1147,7 @@
     "name": "León",
     "title": "Club León",
     "missing": true,
-    "last_tried": "2026-08-15T11:13:21.494Z",
+    "last_tried": "2026-09-15T15:22:36.909Z",
     "error": "Request failed with status code 400"
   },
   "levante": {
@@ -1294,7 +1294,7 @@
     "name": "Monterrey",
     "title": "C.F. Monterrey",
     "missing": true,
-    "last_tried": "2026-08-15T11:13:16.114Z",
+    "last_tried": "2026-09-15T15:22:46.491Z",
     "error": "Request failed with status code 400"
   },
   "montevideo-city-torque": {
@@ -1350,7 +1350,7 @@
     "name": "Necaxa",
     "title": "Club Necaxa",
     "missing": true,
-    "last_tried": "2026-08-15T11:13:20.728Z",
+    "last_tried": "2026-09-15T15:22:45.717Z",
     "error": "Request failed with status code 400"
   },
   "new-england-revolution": {
@@ -1595,7 +1595,7 @@
     "name": "Puebla",
     "title": "Club Puebla",
     "missing": true,
-    "last_tried": "2026-08-15T11:13:22.260Z",
+    "last_tried": "2026-09-15T15:22:38.458Z",
     "error": "Request failed with status code 400"
   },
   "puerto-cabello": {
@@ -1623,7 +1623,7 @@
     "name": "Querétaro",
     "title": "Querétaro F.C.",
     "missing": true,
-    "last_tried": "2026-08-15T11:13:17.654Z",
+    "last_tried": "2026-09-15T15:22:53.159Z",
     "error": "Request failed with status code 400"
   },
   "racing-club": {
@@ -1757,6 +1757,11 @@
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sanlorenzo_almagro_logo2026.png/256px-Sanlorenzo_almagro_logo2026.png",
     "fetched_at": "2026-05-05T20:37:31.080Z"
   },
+  "santa-clara": {
+    "name": "Santa Clara",
+    "missing": true,
+    "last_tried": "2026-09-15T15:22:50.787Z"
+  },
   "santos": {
     "name": "Santos",
     "title": "Santos FC",
@@ -1768,7 +1773,7 @@
     "name": "Santos Laguna",
     "title": "Santos Laguna",
     "missing": true,
-    "last_tried": "2026-08-15T11:13:19.191Z",
+    "last_tried": "2026-09-15T15:22:52.385Z",
     "error": "Request failed with status code 400"
   },
   "sao-paulo": {
@@ -1969,7 +1974,7 @@
     "name": "Tijuana",
     "title": "Club Tijuana",
     "missing": true,
-    "last_tried": "2026-08-15T11:13:19.955Z",
+    "last_tried": "2026-09-15T15:22:51.609Z",
     "error": "Request failed with status code 400"
   },
   "toluca": {
