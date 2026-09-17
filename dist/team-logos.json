@@ -428,7 +428,7 @@
     "name": "Celtic",
     "title": "Celtic F.C.",
     "missing": true,
-    "last_tried": "2026-08-17T11:19:03.082Z",
+    "last_tried": "2026-09-17T15:24:09.144Z",
     "error": "Request failed with status code 400"
   },
   "cerro-porteno": {
@@ -1343,7 +1343,7 @@
     "name": "NEC Nijmegen",
     "title": "NEC Nijmegen",
     "missing": true,
-    "last_tried": "2026-08-17T11:19:00.783Z",
+    "last_tried": "2026-09-17T15:24:09.902Z",
     "error": "Request failed with status code 400"
   },
   "necaxa": {
@@ -1525,7 +1525,7 @@
     "name": "PFC Levski Sofia",
     "title": "PFC Levski Sofia",
     "missing": true,
-    "last_tried": "2026-08-17T11:18:54.040Z",
+    "last_tried": "2026-09-17T15:24:07.533Z",
     "error": "Request failed with status code 400"
   },
   "philadelphia-union": {
