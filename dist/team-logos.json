@@ -617,7 +617,7 @@
     "name": "Deportivo La Coruña",
     "title": "Deportivo de A Coruña",
     "missing": true,
-    "last_tried": "2026-08-23T11:14:56.397Z",
+    "last_tried": "2026-09-23T15:15:08.436Z",
     "error": "Request failed with status code 400"
   },
   "deportivo-la-guaira": {
@@ -1217,7 +1217,7 @@
     "name": "Málaga CF",
     "title": "Málaga CF",
     "missing": true,
-    "last_tried": "2026-08-23T11:14:55.538Z",
+    "last_tried": "2026-09-23T15:15:07.601Z",
     "error": "Request failed with status code 400"
   },
   "mallorca": {
@@ -1637,7 +1637,7 @@
     "name": "Racing de Santander",
     "title": "Racing de Santander",
     "missing": true,
-    "last_tried": "2026-08-23T11:14:54.679Z",
+    "last_tried": "2026-09-23T15:15:09.270Z",
     "error": "Request failed with status code 400"
   },
   "rayo-vallecano": {
