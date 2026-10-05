@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T15:02:20.931Z",
+  "generated_at": "2026-10-05T19:28:03.208Z",
   "source": "worldsoccertalk.com",
   "partial": false,
   "errors": [],
@@ -300,6 +300,34 @@
       "channels_raw": "beIN SPORTS, beIN SPORTS Connect, Fubo, Fanatiz"
     },
     {
+      "id": "mex-ligamx-202610092100-puebla-vs-leon",
+      "competition": "mex-ligamx",
+      "home": "Puebla",
+      "away": "León",
+      "home_slug": "puebla",
+      "away_slug": "leon",
+      "kickoff_utc": "2026-10-10T01:00:00.000Z",
+      "kickoff_et": "2026-10-09T21:00",
+      "channels": [
+        {
+          "slug": "tudn",
+          "label": "TUDN",
+          "tier": 2
+        },
+        {
+          "slug": "other:directv-stream",
+          "label": "DirecTV Stream",
+          "tier": 4
+        },
+        {
+          "slug": "other:hulu-live-tv",
+          "label": "Hulu + Live TV",
+          "tier": 4
+        }
+      ],
+      "channels_raw": "TUDN, DirecTV Stream, Hulu + Live TV"
+    },
+    {
       "id": "eng-premier-202610100730-arsenal-vs-leeds-united",
       "competition": "eng-premier",
       "home": "Arsenal",
@@ -353,12 +381,22 @@
       "kickoff_et": "2026-10-10T07:30",
       "channels": [
         {
+          "slug": "cbs",
+          "label": "CBS",
+          "tier": 1
+        },
+        {
           "slug": "paramount",
           "label": "Paramount+",
           "tier": 3
+        },
+        {
+          "slug": "other:amazon-prime-video",
+          "label": "Amazon Prime Video",
+          "tier": 4
         }
       ],
-      "channels_raw": "Paramount+"
+      "channels_raw": "CBS Sports Golazo Network, Paramount+, Amazon Prime Video"
     },
     {
       "id": "esp-laliga-202610100800-rayo-vallecano-vs-athletic-bilbao",
@@ -679,30 +717,12 @@
       "channels_raw": "NBCSN, Fubo, Peacock Premium"
     },
     {
-      "id": "eng-champ-202610101000-swansea-city-vs-norwich-city",
+      "id": "eng-champ-202610101000-watford-vs-burnley",
       "competition": "eng-champ",
-      "home": "Swansea City",
-      "away": "Norwich City",
-      "home_slug": "swansea-city",
-      "away_slug": "norwich-city",
-      "kickoff_utc": "2026-10-10T14:00:00.000Z",
-      "kickoff_et": "2026-10-10T10:00",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+"
-    },
-    {
-      "id": "eng-champ-202610101000-derby-county-vs-wrexham-afc",
-      "competition": "eng-champ",
-      "home": "Derby County",
-      "away": "Wrexham AFC",
-      "home_slug": "derby-county",
-      "away_slug": "wrexham-afc",
+      "home": "Watford",
+      "away": "Burnley",
+      "home_slug": "watford",
+      "away_slug": "burnley",
       "kickoff_utc": "2026-10-10T14:00:00.000Z",
       "kickoff_et": "2026-10-10T10:00",
       "channels": [
@@ -725,20 +745,68 @@
       "kickoff_et": "2026-10-10T10:00",
       "channels": [
         {
+          "slug": "cbs",
+          "label": "CBS",
+          "tier": 1
+        },
+        {
           "slug": "paramount",
           "label": "Paramount+",
           "tier": 3
+        },
+        {
+          "slug": "other:amazon-prime-video",
+          "label": "Amazon Prime Video",
+          "tier": 4
         }
       ],
-      "channels_raw": "Paramount+"
+      "channels_raw": "CBS Sports Golazo Network, Paramount+, Amazon Prime Video"
     },
     {
-      "id": "eng-champ-202610101000-watford-vs-burnley",
+      "id": "eng-champ-202610101000-swansea-city-vs-norwich-city",
       "competition": "eng-champ",
-      "home": "Watford",
-      "away": "Burnley",
-      "home_slug": "watford",
-      "away_slug": "burnley",
+      "home": "Swansea City",
+      "away": "Norwich City",
+      "home_slug": "swansea-city",
+      "away_slug": "norwich-city",
+      "kickoff_utc": "2026-10-10T14:00:00.000Z",
+      "kickoff_et": "2026-10-10T10:00",
+      "channels": [
+        {
+          "slug": "cbssn",
+          "label": "CBS Sports Net",
+          "tier": 2
+        },
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        },
+        {
+          "slug": "fubo",
+          "label": "Fubo",
+          "tier": 3
+        },
+        {
+          "slug": "other:directv-stream",
+          "label": "DirecTV Stream",
+          "tier": 4
+        },
+        {
+          "slug": "other:hulu-live-tv",
+          "label": "Hulu + Live TV",
+          "tier": 4
+        }
+      ],
+      "channels_raw": "CBS Sports Network, Paramount+, Fubo, DirecTV Stream, Hulu + Live TV"
+    },
+    {
+      "id": "eng-champ-202610101000-derby-county-vs-wrexham-afc",
+      "competition": "eng-champ",
+      "home": "Derby County",
+      "away": "Wrexham AFC",
+      "home_slug": "derby-county",
+      "away_slug": "wrexham-afc",
       "kickoff_utc": "2026-10-10T14:00:00.000Z",
       "kickoff_et": "2026-10-10T10:00",
       "channels": [
@@ -794,8 +862,33 @@
       "kickoff_et": "2026-10-10T12:00",
       "channels": [
         {
+          "slug": "cbs",
+          "label": "CBS",
+          "tier": 1
+        },
+        {
+          "slug": "other:universo",
+          "label": "Universo",
+          "tier": 4
+        },
+        {
           "slug": "paramount",
           "label": "Paramount+",
+          "tier": 3
+        },
+        {
+          "slug": "other:amazon-prime-video",
+          "label": "Amazon Prime Video",
+          "tier": 4
+        },
+        {
+          "slug": "other:directv-stream",
+          "label": "DirecTV Stream",
+          "tier": 4
+        },
+        {
+          "slug": "fubo",
+          "label": "Fubo",
           "tier": 3
         },
         {
@@ -804,7 +897,7 @@
           "tier": 3
         }
       ],
-      "channels_raw": "Paramount+, Peacock Premium"
+      "channels_raw": "CBS Sports Golazo Network, Universo, Paramount+, Amazon Prime Video, DirecTV Stream, Fubo Latino, Peacock Premium"
     },
     {
       "id": "eng-premier-202610101230-manchester-united-vs-tottenham-hotspur",
@@ -1000,9 +1093,19 @@
       "kickoff_et": "2026-10-10T14:45",
       "channels": [
         {
+          "slug": "cbs",
+          "label": "CBS",
+          "tier": 1
+        },
+        {
           "slug": "paramount",
           "label": "Paramount+",
           "tier": 3
+        },
+        {
+          "slug": "other:amazon-prime-video",
+          "label": "Amazon Prime Video",
+          "tier": 4
         },
         {
           "slug": "peacock",
@@ -1010,7 +1113,7 @@
           "tier": 3
         }
       ],
-      "channels_raw": "Paramount+, Peacock Premium"
+      "channels_raw": "CBS Sports Golazo Network, Paramount+, Amazon Prime Video, Peacock Premium"
     },
     {
       "id": "esp-laliga-202610101500-real-madrid-vs-villarreal",
@@ -1315,12 +1418,22 @@
       "kickoff_et": "2026-10-11T07:00",
       "channels": [
         {
+          "slug": "cbs",
+          "label": "CBS",
+          "tier": 1
+        },
+        {
           "slug": "paramount",
           "label": "Paramount+",
           "tier": 3
+        },
+        {
+          "slug": "other:amazon-prime-video",
+          "label": "Amazon Prime Video",
+          "tier": 4
         }
       ],
-      "channels_raw": "Paramount+"
+      "channels_raw": "CBS Sports Golazo Network, Paramount+, Amazon Prime Video"
     },
     {
       "id": "esp-laliga-202610110800-elche-vs-celta-vigo",
@@ -1336,24 +1449,9 @@
           "slug": "espn-plus",
           "label": "ESPN+",
           "tier": 3
-        },
-        {
-          "slug": "espn-dep",
-          "label": "ESPN Deportes",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
         }
       ],
-      "channels_raw": "ESPN+, ESPN Deportes, Fubo, DirecTV Stream"
+      "channels_raw": "ESPN+"
     },
     {
       "id": "eng-premier-202610110900-crystal-palace-vs-nottingham-forest",
@@ -1427,29 +1525,6 @@
       "channels_raw": "NBCSN, Fubo, Peacock Premium"
     },
     {
-      "id": "ita-seriea-202610110900-lazio-vs-monza",
-      "competition": "ita-seriea",
-      "home": "Lazio",
-      "away": "Monza",
-      "home_slug": "lazio",
-      "away_slug": "monza",
-      "kickoff_utc": "2026-10-11T13:00:00.000Z",
-      "kickoff_et": "2026-10-11T09:00",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "peacock",
-          "label": "Peacock",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+, Peacock Premium"
-    },
-    {
       "id": "ita-seriea-202610110900-lecce-vs-bologna",
       "competition": "ita-seriea",
       "home": "Lecce",
@@ -1460,9 +1535,29 @@
       "kickoff_et": "2026-10-11T09:00",
       "channels": [
         {
+          "slug": "cbssn",
+          "label": "CBS Sports Net",
+          "tier": 2
+        },
+        {
           "slug": "paramount",
           "label": "Paramount+",
           "tier": 3
+        },
+        {
+          "slug": "fubo",
+          "label": "Fubo",
+          "tier": 3
+        },
+        {
+          "slug": "other:directv-stream",
+          "label": "DirecTV Stream",
+          "tier": 4
+        },
+        {
+          "slug": "other:hulu-live-tv",
+          "label": "Hulu + Live TV",
+          "tier": 4
         },
         {
           "slug": "peacock",
@@ -1470,7 +1565,40 @@
           "tier": 3
         }
       ],
-      "channels_raw": "Paramount+, Peacock Premium"
+      "channels_raw": "CBS Sports Network, Paramount+, Fubo, DirecTV Stream, Hulu + Live TV, Peacock Premium"
+    },
+    {
+      "id": "ita-seriea-202610110900-lazio-vs-monza",
+      "competition": "ita-seriea",
+      "home": "Lazio",
+      "away": "Monza",
+      "home_slug": "lazio",
+      "away_slug": "monza",
+      "kickoff_utc": "2026-10-11T13:00:00.000Z",
+      "kickoff_et": "2026-10-11T09:00",
+      "channels": [
+        {
+          "slug": "cbs",
+          "label": "CBS",
+          "tier": 1
+        },
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        },
+        {
+          "slug": "other:amazon-prime-video",
+          "label": "Amazon Prime Video",
+          "tier": 4
+        },
+        {
+          "slug": "peacock",
+          "label": "Peacock",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "CBS Sports Golazo Network, Paramount+, Amazon Prime Video, Peacock Premium"
     },
     {
       "id": "ger-bundesliga-202610110930-fc-koln-vs-borussia-monchengladbach",
@@ -1509,24 +1637,9 @@
           "slug": "espn-plus",
           "label": "ESPN+",
           "tier": 3
-        },
-        {
-          "slug": "espn-dep",
-          "label": "ESPN Deportes",
-          "tier": 2
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
         }
       ],
-      "channels_raw": "ESPN+, ESPN Deportes, Fubo, DirecTV Stream"
+      "channels_raw": "ESPN+"
     },
     {
       "id": "eng-premier-202610111130-liverpool-vs-manchester-city",
@@ -1615,12 +1728,27 @@
           "tier": 3
         },
         {
+          "slug": "other:universo",
+          "label": "Universo",
+          "tier": 4
+        },
+        {
+          "slug": "other:directv-stream",
+          "label": "DirecTV Stream",
+          "tier": 4
+        },
+        {
+          "slug": "fubo",
+          "label": "Fubo",
+          "tier": 3
+        },
+        {
           "slug": "peacock",
           "label": "Peacock",
           "tier": 3
         }
       ],
-      "channels_raw": "Paramount+, Peacock Premium"
+      "channels_raw": "Paramount+, Universo, DirecTV Stream, Fubo Latino, Peacock Premium"
     },
     {
       "id": "esp-laliga-202610111230-real-betis-vs-osasuna",
@@ -1740,9 +1868,39 @@
       "kickoff_et": "2026-10-11T14:45",
       "channels": [
         {
+          "slug": "cbs",
+          "label": "CBS",
+          "tier": 1
+        },
+        {
+          "slug": "telemundo",
+          "label": "Telemundo",
+          "tier": 2
+        },
+        {
           "slug": "paramount",
           "label": "Paramount+",
           "tier": 3
+        },
+        {
+          "slug": "other:amazon-prime-video",
+          "label": "Amazon Prime Video",
+          "tier": 4
+        },
+        {
+          "slug": "fubo",
+          "label": "Fubo",
+          "tier": 3
+        },
+        {
+          "slug": "other:directv-stream",
+          "label": "DirecTV Stream",
+          "tier": 4
+        },
+        {
+          "slug": "other:hulu-live-tv",
+          "label": "Hulu + Live TV",
+          "tier": 4
         },
         {
           "slug": "peacock",
@@ -1750,7 +1908,7 @@
           "tier": 3
         }
       ],
-      "channels_raw": "Paramount+, Peacock Premium"
+      "channels_raw": "CBS Sports Golazo Network, Telemundo, Paramount+, Amazon Prime Video, Fubo, DirecTV Stream, Hulu + Live TV, Peacock Premium"
     },
     {
       "id": "esp-laliga-202610111500-racing-de-santander-vs-valencia",
@@ -1916,12 +2074,12 @@
       "channels_raw": "Paramount+, ViX"
     },
     {
-      "id": "eng-champ-202610131445-wrexham-afc-vs-west-bromwich-albion",
+      "id": "eng-champ-202610131445-wolverhampton-wanderers-vs-bolton-wanderers",
       "competition": "eng-champ",
-      "home": "Wrexham AFC",
-      "away": "West Bromwich Albion",
-      "home_slug": "wrexham-afc",
-      "away_slug": "west-bromwich-albion",
+      "home": "Wolverhampton Wanderers",
+      "away": "Bolton Wanderers",
+      "home_slug": "wolverhampton-wanderers",
+      "away_slug": "bolton-wanderers",
       "kickoff_utc": "2026-10-13T18:45:00.000Z",
       "kickoff_et": "2026-10-13T14:45",
       "channels": [
@@ -1934,12 +2092,12 @@
       "channels_raw": "Paramount+"
     },
     {
-      "id": "eng-champ-202610131445-wolverhampton-wanderers-vs-bolton-wanderers",
+      "id": "eng-champ-202610131445-wrexham-afc-vs-west-bromwich-albion",
       "competition": "eng-champ",
-      "home": "Wolverhampton Wanderers",
-      "away": "Bolton Wanderers",
-      "home_slug": "wolverhampton-wanderers",
-      "away_slug": "bolton-wanderers",
+      "home": "Wrexham AFC",
+      "away": "West Bromwich Albion",
+      "home_slug": "wrexham-afc",
+      "away_slug": "west-bromwich-albion",
       "kickoff_utc": "2026-10-13T18:45:00.000Z",
       "kickoff_et": "2026-10-13T14:45",
       "channels": [
@@ -2205,12 +2363,12 @@
       "channels_raw": "Paramount+, ViX"
     },
     {
-      "id": "eng-champ-202610141445-portsmouth-vs-sheffield-united",
+      "id": "eng-champ-202610141445-norwich-city-vs-southampton",
       "competition": "eng-champ",
-      "home": "Portsmouth",
-      "away": "Sheffield United",
-      "home_slug": "portsmouth",
-      "away_slug": "sheffield-united",
+      "home": "Norwich City",
+      "away": "Southampton",
+      "home_slug": "norwich-city",
+      "away_slug": "southampton",
       "kickoff_utc": "2026-10-14T18:45:00.000Z",
       "kickoff_et": "2026-10-14T14:45",
       "channels": [
@@ -2223,12 +2381,12 @@
       "channels_raw": "Paramount+"
     },
     {
-      "id": "eng-champ-202610141445-norwich-city-vs-southampton",
+      "id": "eng-champ-202610141445-portsmouth-vs-sheffield-united",
       "competition": "eng-champ",
-      "home": "Norwich City",
-      "away": "Southampton",
-      "home_slug": "norwich-city",
-      "away_slug": "southampton",
+      "home": "Portsmouth",
+      "away": "Sheffield United",
+      "home_slug": "portsmouth",
+      "away_slug": "sheffield-united",
       "kickoff_utc": "2026-10-14T18:45:00.000Z",
       "kickoff_et": "2026-10-14T14:45",
       "channels": [
@@ -3229,12 +3387,12 @@
       "channels_raw": "Paramount+"
     },
     {
-      "id": "eng-champ-202610170730-middlesbrough-vs-cardiff-city",
+      "id": "eng-champ-202610170730-watford-vs-charlton-athletic",
       "competition": "eng-champ",
-      "home": "Middlesbrough",
-      "away": "Cardiff City",
-      "home_slug": "middlesbrough",
-      "away_slug": "cardiff-city",
+      "home": "Watford",
+      "away": "Charlton Athletic",
+      "home_slug": "watford",
+      "away_slug": "charlton-athletic",
       "kickoff_utc": "2026-10-17T11:30:00.000Z",
       "kickoff_et": "2026-10-17T07:30",
       "channels": [
@@ -3247,12 +3405,12 @@
       "channels_raw": "Paramount+"
     },
     {
-      "id": "eng-champ-202610170730-watford-vs-charlton-athletic",
+      "id": "eng-champ-202610170730-middlesbrough-vs-cardiff-city",
       "competition": "eng-champ",
-      "home": "Watford",
-      "away": "Charlton Athletic",
-      "home_slug": "watford",
-      "away_slug": "charlton-athletic",
+      "home": "Middlesbrough",
+      "away": "Cardiff City",
+      "home_slug": "middlesbrough",
+      "away_slug": "cardiff-city",
       "kickoff_utc": "2026-10-17T11:30:00.000Z",
       "kickoff_et": "2026-10-17T07:30",
       "channels": [
@@ -3286,6 +3444,24 @@
         }
       ],
       "channels_raw": "Paramount+, Peacock Premium"
+    },
+    {
+      "id": "eng-champ-202610171000-wrexham-afc-vs-preston-north-end",
+      "competition": "eng-champ",
+      "home": "Wrexham AFC",
+      "away": "Preston North End",
+      "home_slug": "wrexham-afc",
+      "away_slug": "preston-north-end",
+      "kickoff_utc": "2026-10-17T14:00:00.000Z",
+      "kickoff_et": "2026-10-17T10:00",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
     },
     {
       "id": "eng-champ-202610171000-southampton-vs-bolton-wanderers",
@@ -3330,24 +3506,6 @@
       "away": "West Ham United",
       "home_slug": "swansea-city",
       "away_slug": "west-ham-united",
-      "kickoff_utc": "2026-10-17T14:00:00.000Z",
-      "kickoff_et": "2026-10-17T10:00",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+"
-    },
-    {
-      "id": "eng-champ-202610171000-wrexham-afc-vs-preston-north-end",
-      "competition": "eng-champ",
-      "home": "Wrexham AFC",
-      "away": "Preston North End",
-      "home_slug": "wrexham-afc",
-      "away_slug": "preston-north-end",
       "kickoff_utc": "2026-10-17T14:00:00.000Z",
       "kickoff_et": "2026-10-17T10:00",
       "channels": [
@@ -4481,12 +4639,12 @@
       "channels_raw": "Paramount+, Peacock Premium"
     },
     {
-      "id": "eng-champ-202610241000-wolverhampton-wanderers-vs-watford",
+      "id": "eng-champ-202610241000-blackburn-rovers-vs-wrexham-afc",
       "competition": "eng-champ",
-      "home": "Wolverhampton Wanderers",
-      "away": "Watford",
-      "home_slug": "wolverhampton-wanderers",
-      "away_slug": "watford",
+      "home": "Blackburn Rovers",
+      "away": "Wrexham AFC",
+      "home_slug": "blackburn-rovers",
+      "away_slug": "wrexham-afc",
       "kickoff_utc": "2026-10-24T14:00:00.000Z",
       "kickoff_et": "2026-10-24T10:00",
       "channels": [
@@ -4505,6 +4663,24 @@
       "away": "Birmingham City",
       "home_slug": "cardiff-city",
       "away_slug": "birmingham-city",
+      "kickoff_utc": "2026-10-24T14:00:00.000Z",
+      "kickoff_et": "2026-10-24T10:00",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
+    },
+    {
+      "id": "eng-champ-202610241000-wolverhampton-wanderers-vs-watford",
+      "competition": "eng-champ",
+      "home": "Wolverhampton Wanderers",
+      "away": "Watford",
+      "home_slug": "wolverhampton-wanderers",
+      "away_slug": "watford",
       "kickoff_utc": "2026-10-24T14:00:00.000Z",
       "kickoff_et": "2026-10-24T10:00",
       "channels": [
@@ -4541,24 +4717,6 @@
       "away": "Southampton",
       "home_slug": "west-ham-united",
       "away_slug": "southampton",
-      "kickoff_utc": "2026-10-24T14:00:00.000Z",
-      "kickoff_et": "2026-10-24T10:00",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+"
-    },
-    {
-      "id": "eng-champ-202610241000-blackburn-rovers-vs-wrexham-afc",
-      "competition": "eng-champ",
-      "home": "Blackburn Rovers",
-      "away": "Wrexham AFC",
-      "home_slug": "blackburn-rovers",
-      "away_slug": "wrexham-afc",
       "kickoff_utc": "2026-10-24T14:00:00.000Z",
       "kickoff_et": "2026-10-24T10:00",
       "channels": [
@@ -5117,12 +5275,12 @@
       "channels_raw": "Paramount+, Peacock Premium"
     },
     {
-      "id": "ita-seriea-202610281545-monza-vs-napoli",
+      "id": "ita-seriea-202610281545-parma-vs-udinese",
       "competition": "ita-seriea",
-      "home": "Monza",
-      "away": "Napoli",
-      "home_slug": "monza",
-      "away_slug": "napoli",
+      "home": "Parma",
+      "away": "Udinese",
+      "home_slug": "parma",
+      "away_slug": "udinese",
       "kickoff_utc": "2026-10-28T19:45:00.000Z",
       "kickoff_et": "2026-10-28T15:45",
       "channels": [
@@ -5163,12 +5321,12 @@
       "channels_raw": "Paramount+, Peacock Premium"
     },
     {
-      "id": "ita-seriea-202610281545-parma-vs-udinese",
+      "id": "ita-seriea-202610281545-monza-vs-napoli",
       "competition": "ita-seriea",
-      "home": "Parma",
-      "away": "Udinese",
-      "home_slug": "parma",
-      "away_slug": "udinese",
+      "home": "Monza",
+      "away": "Napoli",
+      "home_slug": "monza",
+      "away_slug": "napoli",
       "kickoff_utc": "2026-10-28T19:45:00.000Z",
       "kickoff_et": "2026-10-28T15:45",
       "channels": [
@@ -6286,7 +6444,7 @@
   ],
   "teams_meta": {
     "resolved_count": 118,
-    "missing_count": 68
+    "missing_count": 70
   },
   "comps_meta": {
     "resolved_count": 23,

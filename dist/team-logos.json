@@ -80,7 +80,7 @@
     "name": "Anderlecht",
     "title": "RSC Anderlecht",
     "missing": true,
-    "last_tried": "2026-09-05T13:38:09.937Z",
+    "last_tried": "2026-10-05T19:27:58.257Z",
     "error": "Request failed with status code 400"
   },
   "arouca": {
@@ -804,7 +804,7 @@
     "name": "Ferencvaros",
     "title": "Ferencvárosi TC",
     "missing": true,
-    "last_tried": "2026-09-05T13:38:16.461Z",
+    "last_tried": "2026-10-05T19:28:03.203Z",
     "error": "Request failed with status code 400"
   },
   "feyenoord-rotterdam": {
