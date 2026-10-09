@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T17:37:50.426Z",
+  "generated_at": "2026-10-09T17:16:06.876Z",
   "source": "worldsoccertalk.com",
   "partial": false,
   "errors": [],
@@ -144,24 +144,6 @@
     }
   ],
   "matches": [
-    {
-      "id": "usa-mls-202610062030-chicago-fire-fc-vs-vancouver-whitecaps",
-      "competition": "usa-mls",
-      "home": "Chicago Fire FC",
-      "away": "Vancouver Whitecaps",
-      "home_slug": "chicago-fire-fc",
-      "away_slug": "vancouver-whitecaps",
-      "kickoff_utc": "2026-10-07T00:30:00.000Z",
-      "kickoff_et": "2026-10-06T20:30",
-      "channels": [
-        {
-          "slug": "apple",
-          "label": "Apple TV",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Apple TV"
-    },
     {
       "id": "ger-bundesliga-202610091430-borussia-dortmund-vs-werder-bremen",
       "competition": "ger-bundesliga",
@@ -1263,48 +1245,12 @@
       "channels_raw": "ViX"
     },
     {
-      "id": "usa-mls-202610101930-atlanta-united-fc-vs-fc-cincinnati",
-      "competition": "usa-mls",
-      "home": "Atlanta United FC",
-      "away": "FC Cincinnati",
-      "home_slug": "atlanta-united-fc",
-      "away_slug": "fc-cincinnati",
-      "kickoff_utc": "2026-10-10T23:30:00.000Z",
-      "kickoff_et": "2026-10-10T19:30",
-      "channels": [
-        {
-          "slug": "apple",
-          "label": "Apple TV",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Apple TV"
-    },
-    {
       "id": "usa-mls-202610101930-new-york-red-bulls-vs-san-diego-fc",
       "competition": "usa-mls",
       "home": "New York Red Bulls",
       "away": "San Diego FC",
       "home_slug": "new-york-red-bulls",
       "away_slug": "san-diego-fc",
-      "kickoff_utc": "2026-10-10T23:30:00.000Z",
-      "kickoff_et": "2026-10-10T19:30",
-      "channels": [
-        {
-          "slug": "apple",
-          "label": "Apple TV",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Apple TV"
-    },
-    {
-      "id": "usa-mls-202610101930-inter-miami-cf-vs-d-c-united",
-      "competition": "usa-mls",
-      "home": "Inter Miami CF",
-      "away": "D.C. United",
-      "home_slug": "inter-miami-cf",
-      "away_slug": "d-c-united",
       "kickoff_utc": "2026-10-10T23:30:00.000Z",
       "kickoff_et": "2026-10-10T19:30",
       "channels": [
@@ -1371,12 +1317,48 @@
       "channels_raw": "Apple TV"
     },
     {
+      "id": "usa-mls-202610101930-inter-miami-cf-vs-d-c-united",
+      "competition": "usa-mls",
+      "home": "Inter Miami CF",
+      "away": "D.C. United",
+      "home_slug": "inter-miami-cf",
+      "away_slug": "d-c-united",
+      "kickoff_utc": "2026-10-10T23:30:00.000Z",
+      "kickoff_et": "2026-10-10T19:30",
+      "channels": [
+        {
+          "slug": "apple",
+          "label": "Apple TV",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Apple TV"
+    },
+    {
       "id": "usa-mls-202610101930-philadelphia-union-vs-real-salt-lake",
       "competition": "usa-mls",
       "home": "Philadelphia Union",
       "away": "Real Salt Lake",
       "home_slug": "philadelphia-union",
       "away_slug": "real-salt-lake",
+      "kickoff_utc": "2026-10-10T23:30:00.000Z",
+      "kickoff_et": "2026-10-10T19:30",
+      "channels": [
+        {
+          "slug": "apple",
+          "label": "Apple TV",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Apple TV"
+    },
+    {
+      "id": "usa-mls-202610101930-atlanta-united-fc-vs-fc-cincinnati",
+      "competition": "usa-mls",
+      "home": "Atlanta United FC",
+      "away": "FC Cincinnati",
+      "home_slug": "atlanta-united-fc",
+      "away_slug": "fc-cincinnati",
       "kickoff_utc": "2026-10-10T23:30:00.000Z",
       "kickoff_et": "2026-10-10T19:30",
       "channels": [
@@ -2185,14 +2167,14 @@
       "channels_raw": "ViX"
     },
     {
-      "id": "mex-ligamx-202610111900-pachuca-vs-necaxa",
+      "id": "mex-ligamx-202610111910-pachuca-vs-necaxa",
       "competition": "mex-ligamx",
       "home": "Pachuca",
       "away": "Necaxa",
       "home_slug": "pachuca",
       "away_slug": "necaxa",
-      "kickoff_utc": "2026-10-11T23:00:00.000Z",
-      "kickoff_et": "2026-10-11T19:00",
+      "kickoff_utc": "2026-10-11T23:10:00.000Z",
+      "kickoff_et": "2026-10-11T19:10",
       "channels": [
         {
           "slug": "tudn",
@@ -2213,14 +2195,14 @@
       "channels_raw": "TUDN, DirecTV Stream, Hulu + Live TV"
     },
     {
-      "id": "mex-ligamx-202610111900-pumas-unam-vs-cruz-azul",
+      "id": "mex-ligamx-202610112115-pumas-unam-vs-cruz-azul",
       "competition": "mex-ligamx",
       "home": "Pumas UNAM",
       "away": "Cruz Azul",
       "home_slug": "pumas-unam",
       "away_slug": "cruz-azul",
-      "kickoff_utc": "2026-10-11T23:00:00.000Z",
-      "kickoff_et": "2026-10-11T19:00",
+      "kickoff_utc": "2026-10-12T01:15:00.000Z",
+      "kickoff_et": "2026-10-11T21:15",
       "channels": [
         {
           "slug": "tudn",
