@@ -1196,7 +1196,7 @@
     "name": "Lyon",
     "title": "Olympique Lyonnais",
     "missing": true,
-    "last_tried": "2026-09-11T14:46:34.465Z",
+    "last_tried": "2026-10-11T16:29:01.004Z",
     "error": "Request failed with status code 400"
   },
   "macara": {
@@ -1890,7 +1890,7 @@
     "name": "Sparta Prague",
     "title": "AC Sparta Prague",
     "missing": true,
-    "last_tried": "2026-09-11T14:46:30.939Z",
+    "last_tried": "2026-10-11T16:28:59.390Z",
     "error": "Request failed with status code 400"
   },
   "sporting-cp": {
