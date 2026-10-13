@@ -1,4 +1,9 @@
 {
+  "aarhus": {
+    "name": "Aarhus",
+    "missing": true,
+    "last_tried": "2026-10-13T17:53:47.200Z"
+  },
   "ac-milan": {
     "name": "AC Milan",
     "title": "AC Milan",
@@ -26,6 +31,13 @@
     "file": "teams/afc-bournemouth.png",
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/AFC_Bournemouth_%282013%29.svg/256px-AFC_Bournemouth_%282013%29.svg.png",
     "fetched_at": "2026-05-05T21:48:33.013Z"
+  },
+  "ajax-amsterdam": {
+    "name": "Ajax Amsterdam",
+    "title": "AFC Ajax",
+    "missing": true,
+    "last_tried": "2026-10-13T17:53:55.650Z",
+    "error": "Request failed with status code 400"
   },
   "alaves": {
     "name": "Alavés",
@@ -94,6 +106,13 @@
     "file": "teams/arsenal.png",
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/256px-Arsenal_FC.svg.png",
     "fetched_at": "2026-05-05T21:56:04.646Z"
+  },
+  "as-monaco": {
+    "name": "AS Monaco",
+    "title": "AS Monaco FC",
+    "missing": true,
+    "last_tried": "2026-10-13T17:53:21.029Z",
+    "error": "Request failed with status code 400"
   },
   "as-roma": {
     "name": "AS Roma",
@@ -582,7 +601,7 @@
     "name": "CSKA Sofia",
     "title": "PFC CSKA Sofia",
     "missing": true,
-    "last_tried": "2026-08-05T12:49:19.583Z",
+    "last_tried": "2026-10-13T17:53:20.269Z",
     "error": "Request failed with status code 400"
   },
   "cusco-fc": {
@@ -647,6 +666,11 @@
     "missing": true,
     "last_tried": "2026-09-27T15:29:48.046Z",
     "error": "Request failed with status code 400"
+  },
+  "egnatia": {
+    "name": "Egnatia",
+    "missing": true,
+    "last_tried": "2026-10-13T17:53:53.193Z"
   },
   "eintracht-frankfurt": {
     "name": "Eintracht Frankfurt",
@@ -727,7 +751,7 @@
     "name": "FC Copenhagen",
     "title": "F.C. Copenhagen",
     "missing": true,
-    "last_tried": "2026-07-23T12:20:21.924Z",
+    "last_tried": "2026-10-13T17:54:03.195Z",
     "error": "Request failed with status code 400"
   },
   "fc-dallas": {
@@ -765,11 +789,25 @@
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg/256px-1._FC_Koeln_Logo_2014%E2%80%93.svg.png",
     "fetched_at": "2026-05-05T21:49:56.216Z"
   },
+  "fc-lugano": {
+    "name": "FC Lugano",
+    "title": "FC Lugano",
+    "missing": true,
+    "last_tried": "2026-10-13T17:53:31.129Z",
+    "error": "Request failed with status code 400"
+  },
   "fc-midtjylland": {
     "name": "FC Midtjylland",
     "title": "FC Midtjylland",
     "missing": true,
-    "last_tried": "2026-08-25T11:21:12.396Z",
+    "last_tried": "2026-10-13T17:53:54.019Z",
+    "error": "Request failed with status code 400"
+  },
+  "fc-nordsj-lland": {
+    "name": "FC Nordsjælland",
+    "title": "FC Nordsjælland",
+    "missing": true,
+    "last_tried": "2026-10-13T17:54:13.817Z",
     "error": "Request failed with status code 400"
   },
   "fc-st-pauli": {
@@ -778,6 +816,13 @@
     "file": "teams/fc-st-pauli.png",
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/FC_St._Pauli_logo_%282018%29.svg/256px-FC_St._Pauli_logo_%282018%29.svg.png",
     "fetched_at": "2026-05-05T21:48:15.122Z"
+  },
+  "fc-twente": {
+    "name": "FC Twente",
+    "title": "FC Twente",
+    "missing": true,
+    "last_tried": "2026-10-13T17:54:14.576Z",
+    "error": "Request failed with status code 400"
   },
   "fc-union-berlin": {
     "name": "FC Union Berlin",
@@ -828,6 +873,20 @@
     "last_tried": "2026-09-27T15:29:39.068Z",
     "error": "Request failed with status code 400"
   },
+  "fk-borac-banja-luka": {
+    "name": "FK Borac Banja Luka",
+    "title": "FK Borac Banja Luka",
+    "missing": true,
+    "last_tried": "2026-10-13T17:53:23.470Z",
+    "error": "Request failed with status code 400"
+  },
+  "fk-jablonec": {
+    "name": "FK Jablonec",
+    "title": "FK Jablonec",
+    "missing": true,
+    "last_tried": "2026-10-13T17:54:02.381Z",
+    "error": "Request failed with status code 400"
+  },
   "flamengo": {
     "name": "Flamengo",
     "title": "CR Flamengo",
@@ -869,6 +928,13 @@
     "file": "teams/genoa.png",
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Genoa_CFC_crest.svg/256px-Genoa_CFC_crest.svg.png",
     "fetched_at": "2026-05-05T21:49:49.271Z"
+  },
+  "gent": {
+    "name": "Gent",
+    "title": "KRC Genk",
+    "missing": true,
+    "last_tried": "2026-10-13T17:53:39.969Z",
+    "error": "Request failed with status code 400"
   },
   "getafe": {
     "name": "Getafe",
@@ -916,7 +982,7 @@
     "name": "Hajduk Split",
     "title": "HNK Hajduk Split",
     "missing": true,
-    "last_tried": "2026-07-19T11:51:18.987Z",
+    "last_tried": "2026-10-13T17:53:54.834Z",
     "error": "Request failed with status code 400"
   },
   "hamburger-sv": {
@@ -944,7 +1010,7 @@
     "name": "Hearts",
     "title": "Heart of Midlothian F.C.",
     "missing": true,
-    "last_tried": "2026-07-19T11:51:13.187Z",
+    "last_tried": "2026-10-13T17:54:12.998Z",
     "error": "Request failed with status code 400"
   },
   "hellas-verona": {
@@ -974,6 +1040,11 @@
     "file": "teams/hull-city.png",
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Hull_City_A.F.C._logo.svg/256px-Hull_City_A.F.C._logo.svg.png",
     "fetched_at": "2026-05-05T21:48:01.815Z"
+  },
+  "iberia-1999": {
+    "name": "Iberia 1999",
+    "missing": true,
+    "last_tried": "2026-10-13T17:54:25.596Z"
   },
   "independiente": {
     "name": "Independiente",
@@ -1016,6 +1087,13 @@
     "file": "teams/independiente-santa-fe.png",
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Independiente_Santa_Fe_logo.svg/256px-Independiente_Santa_Fe_logo.svg.png",
     "fetched_at": "2026-05-05T20:37:52.513Z"
+  },
+  "inter-club-d-escaldes": {
+    "name": "Inter Club d'Escaldes",
+    "title": "Inter Club d'Escaldes",
+    "file": "teams/inter-club-d-escaldes.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Inter_d%27Escaldes_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "fetched_at": "2026-10-13T17:53:30.310Z"
   },
   "inter-miami-cf": {
     "name": "Inter Miami CF",
@@ -1072,6 +1150,20 @@
     "file": "teams/kairat.png",
     "source": "https://upload.wikimedia.org/wikipedia/en/b/b7/Korat_FC_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     "fetched_at": "2026-08-25T11:21:10.732Z"
+  },
+  "kauno-zalgiris": {
+    "name": "Kauno Žalgiris",
+    "title": "BC Žalgiris",
+    "missing": true,
+    "last_tried": "2026-10-13T17:54:04.009Z",
+    "error": "Request failed with status code 400"
+  },
+  "kups": {
+    "name": "KuPS",
+    "title": "Kuopion Palloseura",
+    "missing": true,
+    "last_tried": "2026-10-13T17:53:32.702Z",
+    "error": "Request failed with status code 400"
   },
   "la-galaxy": {
     "name": "LA Galaxy",
@@ -1185,6 +1277,13 @@
     "last_tried": "2026-09-21T16:44:00.011Z",
     "error": "Request failed with status code 400"
   },
+  "lincoln-red-imps": {
+    "name": "Lincoln Red Imps",
+    "title": "Lincoln Red Imps F.C.",
+    "missing": true,
+    "last_tried": "2026-10-13T17:54:10.553Z",
+    "error": "Request failed with status code 400"
+  },
   "liverpool": {
     "name": "Liverpool",
     "title": "Liverpool F.C.",
@@ -1289,6 +1388,11 @@
     "file": "teams/mirassol.png",
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mirassol_FC_logo.png/256px-Mirassol_FC_logo.png",
     "fetched_at": "2026-05-05T21:56:20.787Z"
+  },
+  "mjallby": {
+    "name": "Mjällby",
+    "missing": true,
+    "last_tried": "2026-10-13T17:53:29.078Z"
   },
   "monterrey": {
     "name": "Monterrey",
@@ -1455,7 +1559,7 @@
     "name": "Pafos FC",
     "title": "Pafos FC",
     "missing": true,
-    "last_tried": "2026-07-19T11:51:19.768Z",
+    "last_tried": "2026-10-13T17:54:11.365Z",
     "error": "Request failed with status code 400"
   },
   "paks": {
@@ -1490,7 +1594,7 @@
     "name": "Panathinaikos F.C.",
     "title": "Panathinaikos F.C.",
     "missing": true,
-    "last_tried": "2026-07-19T11:51:18.200Z",
+    "last_tried": "2026-10-13T17:53:22.658Z",
     "error": "Request failed with status code 400"
   },
   "paok-thessaloniki": {
@@ -1707,7 +1811,14 @@
     "name": "Red Star Belgrade",
     "title": "Red Star Belgrade",
     "missing": true,
-    "last_tried": "2026-08-25T11:20:55.366Z",
+    "last_tried": "2026-10-13T17:53:31.889Z",
+    "error": "Request failed with status code 400"
+  },
+  "riga-fc": {
+    "name": "Riga FC",
+    "title": "Riga FC",
+    "missing": true,
+    "last_tried": "2026-10-13T17:53:21.846Z",
     "error": "Request failed with status code 400"
   },
   "rio-ave": {
@@ -1860,6 +1971,11 @@
     "source": "https://upload.wikimedia.org/wikipedia/en/f/f1/K._Sint-Truidense_V.V._logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     "fetched_at": "2026-08-25T11:21:02.566Z"
   },
+  "sk-brann": {
+    "name": "SK Brann",
+    "missing": true,
+    "last_tried": "2026-10-13T17:54:09.728Z"
+  },
   "sk-sturm-graz": {
     "name": "SK Sturm Graz",
     "title": "SK Sturm Graz",
@@ -1963,6 +2079,11 @@
     "last_tried": "2026-09-27T15:29:15.641Z",
     "error": "Request failed with status code 400"
   },
+  "thun": {
+    "name": "Thun",
+    "missing": true,
+    "last_tried": "2026-10-13T17:54:18.820Z"
+  },
   "tigres-uanl": {
     "name": "Tigres UANL",
     "title": "Tigres UANL",
@@ -2005,6 +2126,13 @@
     "source": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/256px-Tottenham_Hotspur.svg.png",
     "fetched_at": "2026-05-05T21:50:29.407Z"
   },
+  "trabzonspor": {
+    "name": "Trabzonspor",
+    "title": "Trabzonspor",
+    "missing": true,
+    "last_tried": "2026-10-13T17:53:33.513Z",
+    "error": "Request failed with status code 400"
+  },
   "tsg-hoffenheim": {
     "name": "TSG Hoffenheim",
     "title": "TSG 1899 Hoffenheim",
@@ -2046,6 +2174,11 @@
     "file": "teams/universitario.png",
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_oficial_de_Universitario.svg/256px-Logo_oficial_de_Universitario.svg.png",
     "fetched_at": "2026-05-05T20:38:31.500Z"
+  },
+  "universitatea-craiova": {
+    "name": "Universitatea Craiova",
+    "missing": true,
+    "last_tried": "2026-10-13T17:54:01.556Z"
   },
   "valencia": {
     "name": "Valencia",
