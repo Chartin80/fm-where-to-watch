@@ -412,7 +412,7 @@
     "name": "Casa Pia A.C.",
     "title": "Casa Pia A.C.",
     "missing": true,
-    "last_tried": "2026-09-07T16:14:28.006Z",
+    "last_tried": "2026-10-23T15:34:53.987Z",
     "error": "Request failed with status code 400"
   },
   "cd-nacional-de-madeira": {
@@ -636,7 +636,7 @@
     "name": "Deportivo La Coruña",
     "title": "Deportivo de A Coruña",
     "missing": true,
-    "last_tried": "2026-09-23T15:15:08.436Z",
+    "last_tried": "2026-10-23T15:34:53.217Z",
     "error": "Request failed with status code 400"
   },
   "deportivo-la-guaira": {
@@ -696,7 +696,7 @@
   "estoril": {
     "name": "Estoril",
     "missing": true,
-    "last_tried": "2026-08-31T17:47:33.033Z"
+    "last_tried": "2026-10-23T15:34:58.343Z"
   },
   "estrela-da-amadora": {
     "name": "Estrela da Amadora",
@@ -1274,7 +1274,7 @@
     "name": "Lincoln City",
     "title": "Lincoln City F.C.",
     "missing": true,
-    "last_tried": "2026-09-21T16:44:00.011Z",
+    "last_tried": "2026-10-23T15:34:51.685Z",
     "error": "Request failed with status code 400"
   },
   "lincoln-red-imps": {
@@ -1316,7 +1316,7 @@
     "name": "Málaga CF",
     "title": "Málaga CF",
     "missing": true,
-    "last_tried": "2026-09-23T15:15:07.601Z",
+    "last_tried": "2026-10-23T15:34:50.155Z",
     "error": "Request failed with status code 400"
   },
   "mallorca": {
@@ -1741,7 +1741,7 @@
     "name": "Racing de Santander",
     "title": "Racing de Santander",
     "missing": true,
-    "last_tried": "2026-09-23T15:15:09.270Z",
+    "last_tried": "2026-10-23T15:34:52.451Z",
     "error": "Request failed with status code 400"
   },
   "rayo-vallecano": {
