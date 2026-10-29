@@ -566,7 +566,7 @@
     "name": "Coventry City",
     "title": "Coventry City F.C.",
     "missing": true,
-    "last_tried": "2026-09-29T16:43:08.531Z",
+    "last_tried": "2026-10-29T17:14:29.038Z",
     "error": "Request failed with status code 400"
   },
   "cremonese": {
@@ -1113,7 +1113,7 @@
     "name": "Ipswich Town",
     "title": "Ipswich Town F.C.",
     "missing": true,
-    "last_tried": "2026-09-29T16:43:07.682Z",
+    "last_tried": "2026-10-29T17:14:29.843Z",
     "error": "Request failed with status code 400"
   },
   "jagiellonia-bia-ystok": {
