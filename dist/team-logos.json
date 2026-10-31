@@ -664,7 +664,7 @@
     "name": "Dinamo Zagreb",
     "title": "GNK Dinamo Zagreb",
     "missing": true,
-    "last_tried": "2026-09-27T15:29:48.046Z",
+    "last_tried": "2026-10-31T15:56:22.719Z",
     "error": "Request failed with status code 400"
   },
   "egnatia": {
@@ -702,7 +702,7 @@
     "name": "Estrela da Amadora",
     "title": "C.F. Estrela da Amadora",
     "missing": true,
-    "last_tried": "2026-09-07T16:14:27.240Z",
+    "last_tried": "2026-10-31T15:56:24.394Z",
     "error": "Request failed with status code 400"
   },
   "estudiantes-de-la-plata": {
@@ -835,14 +835,14 @@
     "name": "FC Viktoria Plzeň",
     "title": "FC Viktoria Plzeň",
     "missing": true,
-    "last_tried": "2026-09-27T15:29:48.887Z",
+    "last_tried": "2026-10-31T15:56:16.323Z",
     "error": "Request failed with status code 400"
   },
   "fenerbahce": {
     "name": "Fenerbahçe",
     "title": "Fenerbahçe S.K.",
     "missing": true,
-    "last_tried": "2026-09-27T15:29:39.904Z",
+    "last_tried": "2026-10-31T15:56:06.799Z",
     "error": "Request failed with status code 400"
   },
   "ferencvaros": {
@@ -870,7 +870,7 @@
     "name": "FK Bodø/Glimt",
     "title": "FK Bodø/Glimt",
     "missing": true,
-    "last_tried": "2026-09-27T15:29:39.068Z",
+    "last_tried": "2026-10-31T15:55:58.226Z",
     "error": "Request failed with status code 400"
   },
   "fk-borac-banja-luka": {
@@ -996,7 +996,7 @@
     "name": "Hapoel Beer-Sheva FC",
     "title": "Hapoel Be'er Sheva F.C.",
     "missing": true,
-    "last_tried": "2026-09-27T15:29:47.205Z",
+    "last_tried": "2026-10-31T15:56:21.883Z",
     "error": "Request failed with status code 400"
   },
   "hapoel-tel-aviv": {
@@ -1190,7 +1190,7 @@
     "name": "LASK",
     "title": "LASK",
     "missing": true,
-    "last_tried": "2026-09-27T15:29:31.345Z",
+    "last_tried": "2026-10-31T15:55:59.065Z",
     "error": "Request failed with status code 400"
   },
   "lazio": {
@@ -1426,7 +1426,7 @@
     "name": "Moreirense",
     "title": "Moreirense F.C.",
     "missing": true,
-    "last_tried": "2026-08-31T17:47:33.901Z",
+    "last_tried": "2026-10-31T15:56:23.556Z",
     "error": "Request failed with status code 400"
   },
   "napoli": {
@@ -1524,7 +1524,7 @@
     "name": "Omonia Nicosia",
     "title": "AC Omonia",
     "missing": true,
-    "last_tried": "2026-09-27T15:29:40.742Z",
+    "last_tried": "2026-10-31T15:56:15.483Z",
     "error": "Request failed with status code 400"
   },
   "orlando-city-sc": {
@@ -1845,7 +1845,7 @@
   "sabah": {
     "name": "Sabah",
     "missing": true,
-    "last_tried": "2026-09-27T15:29:24.401Z"
+    "last_tried": "2026-10-31T15:56:14.644Z"
   },
   "san-diego-fc": {
     "name": "San Diego FC",
@@ -1993,7 +1993,7 @@
   "slovan-bratislava": {
     "name": "Slovan Bratislava",
     "missing": true,
-    "last_tried": "2026-09-27T15:29:38.192Z"
+    "last_tried": "2026-10-31T15:56:05.868Z"
   },
   "southampton": {
     "name": "Southampton",
@@ -2226,7 +2226,7 @@
     "name": "Viking",
     "title": "Viking FK",
     "missing": true,
-    "last_tried": "2026-09-27T15:29:30.503Z",
+    "last_tried": "2026-10-31T15:56:10.928Z",
     "error": "Request failed with status code 400"
   },
   "vikingur": {
