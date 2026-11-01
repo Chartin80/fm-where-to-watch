@@ -905,7 +905,7 @@
     "name": "Frosinone Calcio",
     "title": "Frosinone Calcio",
     "missing": true,
-    "last_tried": "2026-10-01T17:13:31.398Z",
+    "last_tried": "2026-11-01T16:58:39.021Z",
     "error": "Request failed with status code 400"
   },
   "fulham": {
@@ -1419,7 +1419,7 @@
     "name": "Monza",
     "title": "AC Monza",
     "missing": true,
-    "last_tried": "2026-10-01T17:13:32.168Z",
+    "last_tried": "2026-11-01T16:58:42.336Z",
     "error": "Request failed with status code 400"
   },
   "moreirense": {
@@ -1912,14 +1912,14 @@
     "name": "SC Paderborn",
     "title": "SC Paderborn 07",
     "missing": true,
-    "last_tried": "2026-10-01T17:13:30.640Z",
+    "last_tried": "2026-11-01T16:58:41.491Z",
     "error": "Request failed with status code 400"
   },
   "schalke-04": {
     "name": "Schalke 04",
     "title": "FC Schalke 04",
     "missing": true,
-    "last_tried": "2026-10-01T17:13:32.938Z",
+    "last_tried": "2026-11-01T16:58:43.181Z",
     "error": "Request failed with status code 400"
   },
   "scu-torreense": {
@@ -2013,7 +2013,7 @@
     "name": "Sporting CP",
     "title": "Sporting CP",
     "missing": true,
-    "last_tried": "2026-10-01T17:13:34.586Z",
+    "last_tried": "2026-11-01T16:58:39.862Z",
     "error": "Request failed with status code 400"
   },
   "sporting-cristal": {
@@ -2069,7 +2069,7 @@
     "name": "SV Elversberg",
     "title": "SV Elversberg",
     "missing": true,
-    "last_tried": "2026-10-01T17:13:29.872Z",
+    "last_tried": "2026-11-01T16:58:40.651Z",
     "error": "Request failed with status code 400"
   },
   "swansea-city": {
@@ -2205,7 +2205,7 @@
     "name": "Venezia",
     "title": "Venezia FC",
     "missing": true,
-    "last_tried": "2026-10-01T17:13:33.828Z",
+    "last_tried": "2026-11-01T16:58:38.181Z",
     "error": "Request failed with status code 400"
   },
   "vfb-stuttgart": {
