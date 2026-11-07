@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T18:26:11.413Z",
+  "generated_at": "2026-11-07T16:42:46.250Z",
   "source": "worldsoccertalk.com",
   "partial": false,
   "errors": [],
@@ -144,1046 +144,6 @@
     }
   ],
   "matches": [
-    {
-      "id": "uefa-uel-202611051245-lillestr-m-vs-fc-viktoria-plzen",
-      "competition": "uefa-uel",
-      "home": "Lillestrøm",
-      "away": "FC Viktoria Plzeň",
-      "home_slug": "lillestr-m",
-      "away_slug": "fc-viktoria-plzen",
-      "kickoff_utc": "2026-11-05T17:45:00.000Z",
-      "kickoff_et": "2026-11-05T12:45",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+, ViX"
-    },
-    {
-      "id": "uefa-uel-202611051245-nec-nijmegen-vs-omonia-nicosia",
-      "competition": "uefa-uel",
-      "home": "NEC Nijmegen",
-      "away": "Omonia Nicosia",
-      "home_slug": "nec-nijmegen",
-      "away_slug": "omonia-nicosia",
-      "kickoff_utc": "2026-11-05T17:45:00.000Z",
-      "kickoff_et": "2026-11-05T12:45",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+, ViX"
-    },
-    {
-      "id": "uefa-uel-202611051245-pfc-levski-sofia-vs-jagiellonia-bia-ystok",
-      "competition": "uefa-uel",
-      "home": "PFC Levski Sofia",
-      "away": "Jagiellonia Białystok",
-      "home_slug": "pfc-levski-sofia",
-      "away_slug": "jagiellonia-bia-ystok",
-      "kickoff_utc": "2026-11-05T17:45:00.000Z",
-      "kickoff_et": "2026-11-05T12:45",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+, ViX"
-    },
-    {
-      "id": "uefa-uel-202611051245-ac-milan-vs-ferencvaros",
-      "competition": "uefa-uel",
-      "home": "AC Milan",
-      "away": "Ferencvaros",
-      "home_slug": "ac-milan",
-      "away_slug": "ferencvaros",
-      "kickoff_utc": "2026-11-05T17:45:00.000Z",
-      "kickoff_et": "2026-11-05T12:45",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "tudn",
-          "label": "TUDN",
-          "tier": 2
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
-        },
-        {
-          "slug": "other:hulu-live-tv",
-          "label": "Hulu + Live TV",
-          "tier": 4
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+, TUDN, DirecTV Stream, Hulu + Live TV, ViX"
-    },
-    {
-      "id": "uefa-uel-202611051245-anderlecht-vs-rb-salzburg",
-      "competition": "uefa-uel",
-      "home": "Anderlecht",
-      "away": "RB Salzburg",
-      "home_slug": "anderlecht",
-      "away_slug": "rb-salzburg",
-      "kickoff_utc": "2026-11-05T17:45:00.000Z",
-      "kickoff_et": "2026-11-05T12:45",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+, ViX"
-    },
-    {
-      "id": "uefa-uel-202611051245-crystal-palace-vs-tsg-hoffenheim",
-      "competition": "uefa-uel",
-      "home": "Crystal Palace",
-      "away": "TSG Hoffenheim",
-      "home_slug": "crystal-palace",
-      "away_slug": "tsg-hoffenheim",
-      "kickoff_utc": "2026-11-05T17:45:00.000Z",
-      "kickoff_et": "2026-11-05T12:45",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+, ViX"
-    },
-    {
-      "id": "uefa-uel-202611051245-real-sociedad-vs-lyon",
-      "competition": "uefa-uel",
-      "home": "Real Sociedad",
-      "away": "Lyon",
-      "home_slug": "real-sociedad",
-      "away_slug": "lyon",
-      "kickoff_utc": "2026-11-05T17:45:00.000Z",
-      "kickoff_et": "2026-11-05T12:45",
-      "channels": [
-        {
-          "slug": "cbssn",
-          "label": "CBS Sports Net",
-          "tier": 2
-        },
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
-        },
-        {
-          "slug": "other:hulu-live-tv",
-          "label": "Hulu + Live TV",
-          "tier": 4
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "CBS Sports Network, Paramount+, Fubo, DirecTV Stream, Hulu + Live TV, ViX"
-    },
-    {
-      "id": "uefa-uel-202611051245-sparta-prague-vs-afc-bournemouth",
-      "competition": "uefa-uel",
-      "home": "Sparta Prague",
-      "away": "AFC Bournemouth",
-      "home_slug": "sparta-prague",
-      "away_slug": "afc-bournemouth",
-      "kickoff_utc": "2026-11-05T17:45:00.000Z",
-      "kickoff_et": "2026-11-05T12:45",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+, ViX"
-    },
-    {
-      "id": "uefa-uecl-202611051245-mjallby-vs-fk-borac-banja-luka",
-      "competition": "uefa-uecl",
-      "home": "Mjällby",
-      "away": "FK Borac Banja Luka",
-      "home_slug": "mjallby",
-      "away_slug": "fk-borac-banja-luka",
-      "kickoff_utc": "2026-11-05T17:45:00.000Z",
-      "kickoff_et": "2026-11-05T12:45",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+, ViX"
-    },
-    {
-      "id": "uefa-uecl-202611051245-trabzonspor-vs-sc-freiburg",
-      "competition": "uefa-uecl",
-      "home": "Trabzonspor",
-      "away": "SC Freiburg",
-      "home_slug": "trabzonspor",
-      "away_slug": "sc-freiburg",
-      "kickoff_utc": "2026-11-05T17:45:00.000Z",
-      "kickoff_et": "2026-11-05T12:45",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+, ViX"
-    },
-    {
-      "id": "uefa-uecl-202611051245-red-star-belgrade-vs-inter-club-d-escaldes",
-      "competition": "uefa-uecl",
-      "home": "Red Star Belgrade",
-      "away": "Inter Club d'Escaldes",
-      "home_slug": "red-star-belgrade",
-      "away_slug": "inter-club-d-escaldes",
-      "kickoff_utc": "2026-11-05T17:45:00.000Z",
-      "kickoff_et": "2026-11-05T12:45",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+, ViX"
-    },
-    {
-      "id": "uefa-uecl-202611051245-thun-vs-hearts",
-      "competition": "uefa-uecl",
-      "home": "Thun",
-      "away": "Hearts",
-      "home_slug": "thun",
-      "away_slug": "hearts",
-      "kickoff_utc": "2026-11-05T17:45:00.000Z",
-      "kickoff_et": "2026-11-05T12:45",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+, ViX"
-    },
-    {
-      "id": "uefa-uecl-202611051245-kups-vs-gent",
-      "competition": "uefa-uecl",
-      "home": "KuPS",
-      "away": "Gent",
-      "home_slug": "kups",
-      "away_slug": "gent",
-      "kickoff_utc": "2026-11-05T17:45:00.000Z",
-      "kickoff_et": "2026-11-05T12:45",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+, ViX"
-    },
-    {
-      "id": "uefa-uecl-202611051245-aarhus-vs-braga",
-      "competition": "uefa-uecl",
-      "home": "Aarhus",
-      "away": "Braga",
-      "home_slug": "aarhus",
-      "away_slug": "braga",
-      "kickoff_utc": "2026-11-05T17:45:00.000Z",
-      "kickoff_et": "2026-11-05T12:45",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+, ViX"
-    },
-    {
-      "id": "uefa-uecl-202611051245-atalanta-vs-kairat",
-      "competition": "uefa-uecl",
-      "home": "Atalanta",
-      "away": "Kairat",
-      "home_slug": "atalanta",
-      "away_slug": "kairat",
-      "kickoff_utc": "2026-11-05T17:45:00.000Z",
-      "kickoff_et": "2026-11-05T12:45",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+, ViX"
-    },
-    {
-      "id": "uefa-uecl-202611051245-lincoln-red-imps-vs-hajduk-split",
-      "competition": "uefa-uecl",
-      "home": "Lincoln Red Imps",
-      "away": "Hajduk Split",
-      "home_slug": "lincoln-red-imps",
-      "away_slug": "hajduk-split",
-      "kickoff_utc": "2026-11-05T17:45:00.000Z",
-      "kickoff_et": "2026-11-05T12:45",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+, ViX"
-    },
-    {
-      "id": "uefa-uecl-202611051245-fc-midtjylland-vs-ajax-amsterdam",
-      "competition": "uefa-uecl",
-      "home": "FC Midtjylland",
-      "away": "Ajax Amsterdam",
-      "home_slug": "fc-midtjylland",
-      "away_slug": "ajax-amsterdam",
-      "kickoff_utc": "2026-11-05T17:45:00.000Z",
-      "kickoff_et": "2026-11-05T12:45",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+, ViX"
-    },
-    {
-      "id": "uefa-uel-202611051500-az-alkmaar-vs-juventus",
-      "competition": "uefa-uel",
-      "home": "AZ Alkmaar",
-      "away": "Juventus",
-      "home_slug": "az-alkmaar",
-      "away_slug": "juventus",
-      "kickoff_utc": "2026-11-05T20:00:00.000Z",
-      "kickoff_et": "2026-11-05T15:00",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "other:dazn",
-          "label": "DAZN",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "Paramount+, DAZN"
-    },
-    {
-      "id": "uefa-uel-202611051500-bayer-leverkusen-vs-marseille",
-      "competition": "uefa-uel",
-      "home": "Bayer Leverkusen",
-      "away": "Marseille",
-      "home_slug": "bayer-leverkusen",
-      "away_slug": "marseille",
-      "kickoff_utc": "2026-11-05T20:00:00.000Z",
-      "kickoff_et": "2026-11-05T15:00",
-      "channels": [
-        {
-          "slug": "cbssn",
-          "label": "CBS Sports Net",
-          "tier": 2
-        },
-        {
-          "slug": "other:unim-s",
-          "label": "UniMás",
-          "tier": 4
-        },
-        {
-          "slug": "tudn",
-          "label": "TUDN",
-          "tier": 2
-        },
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
-        },
-        {
-          "slug": "other:hulu-live-tv",
-          "label": "Hulu + Live TV",
-          "tier": 4
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "CBS Sports Network, UniMás, TUDN, Paramount+, Fubo, DirecTV Stream, Hulu + Live TV, ViX"
-    },
-    {
-      "id": "uefa-uel-202611051500-benfica-vs-lech-poznan",
-      "competition": "uefa-uel",
-      "home": "Benfica",
-      "away": "Lech Poznań",
-      "home_slug": "benfica",
-      "away_slug": "lech-poznan",
-      "kickoff_utc": "2026-11-05T20:00:00.000Z",
-      "kickoff_et": "2026-11-05T15:00",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "other:dazn",
-          "label": "DAZN",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "Paramount+, DAZN"
-    },
-    {
-      "id": "uefa-uel-202611051500-celta-vigo-vs-union-sg",
-      "competition": "uefa-uel",
-      "home": "Celta Vigo",
-      "away": "Union SG",
-      "home_slug": "celta-vigo",
-      "away_slug": "union-sg",
-      "kickoff_utc": "2026-11-05T20:00:00.000Z",
-      "kickoff_et": "2026-11-05T15:00",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "other:dazn",
-          "label": "DAZN",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "Paramount+, DAZN"
-    },
-    {
-      "id": "uefa-uel-202611051500-celtic-vs-besiktas",
-      "competition": "uefa-uel",
-      "home": "Celtic",
-      "away": "Beşiktaş",
-      "home_slug": "celtic",
-      "away_slug": "besiktas",
-      "kickoff_utc": "2026-11-05T20:00:00.000Z",
-      "kickoff_et": "2026-11-05T15:00",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+, ViX"
-    },
-    {
-      "id": "uefa-uel-202611051500-hapoel-beer-sheva-fc-vs-ofi-crete",
-      "competition": "uefa-uel",
-      "home": "Hapoel Beer-Sheva FC",
-      "away": "OFI Crete",
-      "home_slug": "hapoel-beer-sheva-fc",
-      "away_slug": "ofi-crete",
-      "kickoff_utc": "2026-11-05T20:00:00.000Z",
-      "kickoff_et": "2026-11-05T15:00",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+, ViX"
-    },
-    {
-      "id": "uefa-uel-202611051500-sk-sturm-graz-vs-celje",
-      "competition": "uefa-uel",
-      "home": "SK Sturm Graz",
-      "away": "Celje",
-      "home_slug": "sk-sturm-graz",
-      "away_slug": "celje",
-      "kickoff_utc": "2026-11-05T20:00:00.000Z",
-      "kickoff_et": "2026-11-05T15:00",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+, ViX"
-    },
-    {
-      "id": "uefa-uel-202611051500-sunderland-vs-dinamo-zagreb",
-      "competition": "uefa-uel",
-      "home": "Sunderland",
-      "away": "Dinamo Zagreb",
-      "home_slug": "sunderland",
-      "away_slug": "dinamo-zagreb",
-      "kickoff_utc": "2026-11-05T20:00:00.000Z",
-      "kickoff_et": "2026-11-05T15:00",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "other:dazn",
-          "label": "DAZN",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "Paramount+, DAZN"
-    },
-    {
-      "id": "uefa-uel-202611051500-scu-torreense-vs-fc-ararat-armenia",
-      "competition": "uefa-uel",
-      "home": "SCU Torreense",
-      "away": "FC Ararat-Armenia",
-      "home_slug": "scu-torreense",
-      "away_slug": "fc-ararat-armenia",
-      "kickoff_utc": "2026-11-05T20:00:00.000Z",
-      "kickoff_et": "2026-11-05T15:00",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+, ViX"
-    },
-    {
-      "id": "uefa-uecl-202611051500-as-monaco-vs-fc-nordsj-lland",
-      "competition": "uefa-uecl",
-      "home": "AS Monaco",
-      "away": "FC Nordsjælland",
-      "home_slug": "as-monaco",
-      "away_slug": "fc-nordsj-lland",
-      "kickoff_utc": "2026-11-05T20:00:00.000Z",
-      "kickoff_et": "2026-11-05T15:00",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+, ViX"
-    },
-    {
-      "id": "uefa-uecl-202611051500-panathinaikos-f-c-vs-cska-sofia",
-      "competition": "uefa-uecl",
-      "home": "Panathinaikos F.C.",
-      "away": "CSKA Sofia",
-      "home_slug": "panathinaikos-f-c",
-      "away_slug": "cska-sofia",
-      "kickoff_utc": "2026-11-05T20:00:00.000Z",
-      "kickoff_et": "2026-11-05T15:00",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+, ViX"
-    },
-    {
-      "id": "uefa-uecl-202611051500-riga-fc-vs-fk-jablonec",
-      "competition": "uefa-uecl",
-      "home": "Riga FC",
-      "away": "FK Jablonec",
-      "home_slug": "riga-fc",
-      "away_slug": "fk-jablonec",
-      "kickoff_utc": "2026-11-05T20:00:00.000Z",
-      "kickoff_et": "2026-11-05T15:00",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+, ViX"
-    },
-    {
-      "id": "uefa-uecl-202611051500-sint-truiden-vs-sk-brann",
-      "competition": "uefa-uecl",
-      "home": "Sint-Truiden",
-      "away": "SK Brann",
-      "home_slug": "sint-truiden",
-      "away_slug": "sk-brann",
-      "kickoff_utc": "2026-11-05T20:00:00.000Z",
-      "kickoff_et": "2026-11-05T15:00",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+, ViX"
-    },
-    {
-      "id": "uefa-uecl-202611051500-fc-copenhagen-vs-iberia-1999",
-      "competition": "uefa-uecl",
-      "home": "FC Copenhagen",
-      "away": "Iberia 1999",
-      "home_slug": "fc-copenhagen",
-      "away_slug": "iberia-1999",
-      "kickoff_utc": "2026-11-05T20:00:00.000Z",
-      "kickoff_et": "2026-11-05T15:00",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+, ViX"
-    },
-    {
-      "id": "uefa-uecl-202611051500-fc-twente-vs-pafos-fc",
-      "competition": "uefa-uecl",
-      "home": "FC Twente",
-      "away": "Pafos FC",
-      "home_slug": "fc-twente",
-      "away_slug": "pafos-fc",
-      "kickoff_utc": "2026-11-05T20:00:00.000Z",
-      "kickoff_et": "2026-11-05T15:00",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+, ViX"
-    },
-    {
-      "id": "uefa-uecl-202611051500-getafe-vs-brighton-and-hove-albion",
-      "competition": "uefa-uecl",
-      "home": "Getafe",
-      "away": "Brighton & Hove Albion",
-      "home_slug": "getafe",
-      "away_slug": "brighton-and-hove-albion",
-      "kickoff_utc": "2026-11-05T20:00:00.000Z",
-      "kickoff_et": "2026-11-05T15:00",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+, ViX"
-    },
-    {
-      "id": "uefa-uecl-202611051500-fc-lugano-vs-kauno-zalgiris",
-      "competition": "uefa-uecl",
-      "home": "FC Lugano",
-      "away": "Kauno Žalgiris",
-      "home_slug": "fc-lugano",
-      "away_slug": "kauno-zalgiris",
-      "kickoff_utc": "2026-11-05T20:00:00.000Z",
-      "kickoff_et": "2026-11-05T15:00",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+, ViX"
-    },
-    {
-      "id": "uefa-uecl-202611051500-universitatea-craiova-vs-egnatia",
-      "competition": "uefa-uecl",
-      "home": "Universitatea Craiova",
-      "away": "Egnatia",
-      "home_slug": "universitatea-craiova",
-      "away_slug": "egnatia",
-      "kickoff_utc": "2026-11-05T20:00:00.000Z",
-      "kickoff_et": "2026-11-05T15:00",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "vix",
-          "label": "ViX",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+, ViX"
-    },
-    {
-      "id": "ger-bundesliga-202611061430-hamburger-sv-vs-borussia-monchengladbach",
-      "competition": "ger-bundesliga",
-      "home": "Hamburger SV",
-      "away": "Borussia Mönchengladbach",
-      "home_slug": "hamburger-sv",
-      "away_slug": "borussia-monchengladbach",
-      "kickoff_utc": "2026-11-06T19:30:00.000Z",
-      "kickoff_et": "2026-11-06T14:30",
-      "channels": [
-        {
-          "slug": "other:fandango",
-          "label": "Fandango",
-          "tier": 4
-        },
-        {
-          "slug": "peacock",
-          "label": "Peacock",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Fandango, Peacock Premium"
-    },
-    {
-      "id": "ita-seriea-202611061445-venezia-vs-udinese",
-      "competition": "ita-seriea",
-      "home": "Venezia",
-      "away": "Udinese",
-      "home_slug": "venezia",
-      "away_slug": "udinese",
-      "kickoff_utc": "2026-11-06T19:45:00.000Z",
-      "kickoff_et": "2026-11-06T14:45",
-      "channels": [
-        {
-          "slug": "cbssn",
-          "label": "CBS Sports Net",
-          "tier": 2
-        },
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
-        },
-        {
-          "slug": "other:hulu-live-tv",
-          "label": "Hulu + Live TV",
-          "tier": 4
-        },
-        {
-          "slug": "peacock",
-          "label": "Peacock",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "CBS Sports Network, Paramount+, Fubo, DirecTV Stream, Hulu + Live TV, Peacock Premium"
-    },
-    {
-      "id": "eng-premier-202611061500-everton-vs-coventry-city",
-      "competition": "eng-premier",
-      "home": "Everton",
-      "away": "Coventry City",
-      "home_slug": "everton",
-      "away_slug": "coventry-city",
-      "kickoff_utc": "2026-11-06T20:00:00.000Z",
-      "kickoff_et": "2026-11-06T15:00",
-      "channels": [
-        {
-          "slug": "usa",
-          "label": "USA Network",
-          "tier": 2
-        },
-        {
-          "slug": "other:universo",
-          "label": "Universo",
-          "tier": 4
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
-        },
-        {
-          "slug": "other:sling-blue",
-          "label": "Sling Blue",
-          "tier": 4
-        },
-        {
-          "slug": "other:hulu-live-tv",
-          "label": "Hulu + Live TV",
-          "tier": 4
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "USA Network, Universo, DirecTV Stream, Sling Blue, Hulu + Live TV, Fubo Latino"
-    },
-    {
-      "id": "eng-champ-202611061500-derby-county-vs-bolton-wanderers",
-      "competition": "eng-champ",
-      "home": "Derby County",
-      "away": "Bolton Wanderers",
-      "home_slug": "derby-county",
-      "away_slug": "bolton-wanderers",
-      "kickoff_utc": "2026-11-06T20:00:00.000Z",
-      "kickoff_et": "2026-11-06T15:00",
-      "channels": [
-        {
-          "slug": "cbs",
-          "label": "CBS",
-          "tier": 1
-        },
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        },
-        {
-          "slug": "other:amazon-prime-video",
-          "label": "Amazon Prime Video",
-          "tier": 4
-        }
-      ],
-      "channels_raw": "CBS Sports Golazo Network, Paramount+, Amazon Prime Video"
-    },
-    {
-      "id": "esp-laliga-202611061600-sevilla-fc-vs-alaves",
-      "competition": "esp-laliga",
-      "home": "Sevilla FC",
-      "away": "Alavés",
-      "home_slug": "sevilla-fc",
-      "away_slug": "alaves",
-      "kickoff_utc": "2026-11-06T21:00:00.000Z",
-      "kickoff_et": "2026-11-06T16:00",
-      "channels": [
-        {
-          "slug": "espn-plus",
-          "label": "ESPN+",
-          "tier": 3
-        },
-        {
-          "slug": "espn-dep",
-          "label": "ESPN Deportes",
-          "tier": 2
-        },
-        {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
-        },
-        {
-          "slug": "fubo",
-          "label": "Fubo",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "ESPN+, ESPN Deportes, DirecTV Stream, Fubo Latino"
-    },
     {
       "id": "mex-ligamx-202611062000-necaxa-vs-tijuana",
       "competition": "mex-ligamx",
@@ -1618,6 +578,24 @@
       "channels_raw": "USA Network, DirecTV Stream, Sling Blue, Hulu + Live TV"
     },
     {
+      "id": "eng-champ-202611071000-charlton-athletic-vs-sheffield-united",
+      "competition": "eng-champ",
+      "home": "Charlton Athletic",
+      "away": "Sheffield United",
+      "home_slug": "charlton-athletic",
+      "away_slug": "sheffield-united",
+      "kickoff_utc": "2026-11-07T15:00:00.000Z",
+      "kickoff_et": "2026-11-07T10:00",
+      "channels": [
+        {
+          "slug": "paramount",
+          "label": "Paramount+",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Paramount+"
+    },
+    {
       "id": "eng-champ-202611071000-blackburn-rovers-vs-west-ham-united",
       "competition": "eng-champ",
       "home": "Blackburn Rovers",
@@ -1688,24 +666,6 @@
       "away": "Millwall",
       "home_slug": "west-bromwich-albion",
       "away_slug": "millwall",
-      "kickoff_utc": "2026-11-07T15:00:00.000Z",
-      "kickoff_et": "2026-11-07T10:00",
-      "channels": [
-        {
-          "slug": "paramount",
-          "label": "Paramount+",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Paramount+"
-    },
-    {
-      "id": "eng-champ-202611071000-charlton-athletic-vs-sheffield-united",
-      "competition": "eng-champ",
-      "home": "Charlton Athletic",
-      "away": "Sheffield United",
-      "home_slug": "charlton-athletic",
-      "away_slug": "sheffield-united",
       "kickoff_utc": "2026-11-07T15:00:00.000Z",
       "kickoff_et": "2026-11-07T10:00",
       "channels": [
@@ -2705,14 +1665,37 @@
       "channels_raw": "CBS Sports Network, Paramount+, Fubo, DirecTV Stream, Hulu + Live TV, Peacock Premium"
     },
     {
-      "id": "ita-seriea-202611080900-genoa-vs-ac-milan",
+      "id": "ger-bundesliga-202611080930-fc-koln-vs-bayer-leverkusen",
+      "competition": "ger-bundesliga",
+      "home": "FC Köln",
+      "away": "Bayer Leverkusen",
+      "home_slug": "fc-koln",
+      "away_slug": "bayer-leverkusen",
+      "kickoff_utc": "2026-11-08T14:30:00.000Z",
+      "kickoff_et": "2026-11-08T09:30",
+      "channels": [
+        {
+          "slug": "other:fandango",
+          "label": "Fandango",
+          "tier": 4
+        },
+        {
+          "slug": "peacock",
+          "label": "Peacock",
+          "tier": 3
+        }
+      ],
+      "channels_raw": "Fandango, Peacock Premium"
+    },
+    {
+      "id": "ita-seriea-202611081000-genoa-vs-ac-milan",
       "competition": "ita-seriea",
       "home": "Genoa",
       "away": "AC Milan",
       "home_slug": "genoa",
       "away_slug": "ac-milan",
-      "kickoff_utc": "2026-11-08T14:00:00.000Z",
-      "kickoff_et": "2026-11-08T09:00",
+      "kickoff_utc": "2026-11-08T15:00:00.000Z",
+      "kickoff_et": "2026-11-08T10:00",
       "channels": [
         {
           "slug": "paramount",
@@ -2736,29 +1719,6 @@
         }
       ],
       "channels_raw": "Paramount+, Universo, Fubo Latino, Peacock Premium"
-    },
-    {
-      "id": "ger-bundesliga-202611080930-fc-koln-vs-bayer-leverkusen",
-      "competition": "ger-bundesliga",
-      "home": "FC Köln",
-      "away": "Bayer Leverkusen",
-      "home_slug": "fc-koln",
-      "away_slug": "bayer-leverkusen",
-      "kickoff_utc": "2026-11-08T14:30:00.000Z",
-      "kickoff_et": "2026-11-08T09:30",
-      "channels": [
-        {
-          "slug": "other:fandango",
-          "label": "Fandango",
-          "tier": 4
-        },
-        {
-          "slug": "peacock",
-          "label": "Peacock",
-          "tier": 3
-        }
-      ],
-      "channels_raw": "Fandango, Peacock Premium"
     },
     {
       "id": "esp-laliga-202611081015-real-sociedad-vs-rayo-vallecano",
@@ -2893,12 +1853,12 @@
       "channels_raw": "CBS Sports Golazo Network, Universo, Paramount+, Amazon Prime Video, DirecTV Stream, Fubo Latino, Peacock Premium"
     },
     {
-      "id": "esp-laliga-202611081230-villarreal-vs-getafe",
+      "id": "esp-laliga-202611081230-celta-vigo-vs-levante",
       "competition": "esp-laliga",
-      "home": "Villarreal",
-      "away": "Getafe",
-      "home_slug": "villarreal",
-      "away_slug": "getafe",
+      "home": "Celta Vigo",
+      "away": "Levante",
+      "home_slug": "celta-vigo",
+      "away_slug": "levante",
       "kickoff_utc": "2026-11-08T17:30:00.000Z",
       "kickoff_et": "2026-11-08T12:30",
       "channels": [
@@ -2911,12 +1871,12 @@
       "channels_raw": "ESPN+"
     },
     {
-      "id": "esp-laliga-202611081230-celta-vigo-vs-levante",
+      "id": "esp-laliga-202611081230-villarreal-vs-getafe",
       "competition": "esp-laliga",
-      "home": "Celta Vigo",
-      "away": "Levante",
-      "home_slug": "celta-vigo",
-      "away_slug": "levante",
+      "home": "Villarreal",
+      "away": "Getafe",
+      "home_slug": "villarreal",
+      "away_slug": "getafe",
       "kickoff_utc": "2026-11-08T17:30:00.000Z",
       "kickoff_et": "2026-11-08T12:30",
       "channels": [
@@ -3595,8 +2555,8 @@
     }
   ],
   "teams_meta": {
-    "resolved_count": 119,
-    "missing_count": 90
+    "resolved_count": 110,
+    "missing_count": 35
   },
   "comps_meta": {
     "resolved_count": 23,
