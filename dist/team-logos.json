@@ -2079,6 +2079,13 @@
     "last_tried": "2026-10-27T16:08:25.473Z",
     "error": "Request failed with status code 400"
   },
+  "tbd": {
+    "name": "TBD",
+    "title": "The Football Club Social Alliance",
+    "file": "teams/tbd.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/c/c2/The_Football_Club_Social_Alliance.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "fetched_at": "2026-11-11T18:16:12.160Z"
+  },
   "thun": {
     "name": "Thun",
     "missing": true,
