@@ -2,7 +2,7 @@
   "aarhus": {
     "name": "Aarhus",
     "missing": true,
-    "last_tried": "2026-10-13T17:53:47.200Z"
+    "last_tried": "2026-11-13T18:19:49.590Z"
   },
   "ac-milan": {
     "name": "AC Milan",
@@ -36,7 +36,7 @@
     "name": "Ajax Amsterdam",
     "title": "AFC Ajax",
     "missing": true,
-    "last_tried": "2026-10-13T17:53:55.650Z",
+    "last_tried": "2026-11-13T18:19:33.087Z",
     "error": "Request failed with status code 400"
   },
   "alaves": {
@@ -111,7 +111,7 @@
     "name": "AS Monaco",
     "title": "AS Monaco FC",
     "missing": true,
-    "last_tried": "2026-10-13T17:53:21.029Z",
+    "last_tried": "2026-11-13T18:20:05.219Z",
     "error": "Request failed with status code 400"
   },
   "as-roma": {
@@ -601,7 +601,7 @@
     "name": "CSKA Sofia",
     "title": "PFC CSKA Sofia",
     "missing": true,
-    "last_tried": "2026-10-13T17:53:20.269Z",
+    "last_tried": "2026-11-13T18:20:15.692Z",
     "error": "Request failed with status code 400"
   },
   "cusco-fc": {
@@ -670,7 +670,7 @@
   "egnatia": {
     "name": "Egnatia",
     "missing": true,
-    "last_tried": "2026-10-13T17:53:53.193Z"
+    "last_tried": "2026-11-13T18:20:01.854Z"
   },
   "eintracht-frankfurt": {
     "name": "Eintracht Frankfurt",
@@ -751,7 +751,7 @@
     "name": "FC Copenhagen",
     "title": "F.C. Copenhagen",
     "missing": true,
-    "last_tried": "2026-10-13T17:54:03.195Z",
+    "last_tried": "2026-11-13T18:20:17.318Z",
     "error": "Request failed with status code 400"
   },
   "fc-dallas": {
@@ -793,21 +793,21 @@
     "name": "FC Lugano",
     "title": "FC Lugano",
     "missing": true,
-    "last_tried": "2026-10-13T17:53:31.129Z",
+    "last_tried": "2026-11-13T18:19:56.510Z",
     "error": "Request failed with status code 400"
   },
   "fc-midtjylland": {
     "name": "FC Midtjylland",
     "title": "FC Midtjylland",
     "missing": true,
-    "last_tried": "2026-10-13T17:53:54.019Z",
+    "last_tried": "2026-11-13T18:20:12.410Z",
     "error": "Request failed with status code 400"
   },
   "fc-nordsj-lland": {
     "name": "FC Nordsjælland",
     "title": "FC Nordsjælland",
     "missing": true,
-    "last_tried": "2026-10-13T17:54:13.817Z",
+    "last_tried": "2026-11-13T18:20:18.154Z",
     "error": "Request failed with status code 400"
   },
   "fc-st-pauli": {
@@ -821,7 +821,7 @@
     "name": "FC Twente",
     "title": "FC Twente",
     "missing": true,
-    "last_tried": "2026-10-13T17:54:14.576Z",
+    "last_tried": "2026-11-13T18:20:27.882Z",
     "error": "Request failed with status code 400"
   },
   "fc-union-berlin": {
@@ -877,14 +877,14 @@
     "name": "FK Borac Banja Luka",
     "title": "FK Borac Banja Luka",
     "missing": true,
-    "last_tried": "2026-10-13T17:53:23.470Z",
+    "last_tried": "2026-11-13T18:20:20.660Z",
     "error": "Request failed with status code 400"
   },
   "fk-jablonec": {
     "name": "FK Jablonec",
     "title": "FK Jablonec",
     "missing": true,
-    "last_tried": "2026-10-13T17:54:02.381Z",
+    "last_tried": "2026-11-13T18:19:55.677Z",
     "error": "Request failed with status code 400"
   },
   "flamengo": {
@@ -933,7 +933,7 @@
     "name": "Gent",
     "title": "KRC Genk",
     "missing": true,
-    "last_tried": "2026-10-13T17:53:39.969Z",
+    "last_tried": "2026-11-13T18:20:26.215Z",
     "error": "Request failed with status code 400"
   },
   "getafe": {
@@ -982,7 +982,7 @@
     "name": "Hajduk Split",
     "title": "HNK Hajduk Split",
     "missing": true,
-    "last_tried": "2026-10-13T17:53:54.834Z",
+    "last_tried": "2026-11-13T18:20:21.496Z",
     "error": "Request failed with status code 400"
   },
   "hamburger-sv": {
@@ -1010,7 +1010,7 @@
     "name": "Hearts",
     "title": "Heart of Midlothian F.C.",
     "missing": true,
-    "last_tried": "2026-10-13T17:54:12.998Z",
+    "last_tried": "2026-11-13T18:20:04.382Z",
     "error": "Request failed with status code 400"
   },
   "hellas-verona": {
@@ -1044,7 +1044,7 @@
   "iberia-1999": {
     "name": "Iberia 1999",
     "missing": true,
-    "last_tried": "2026-10-13T17:54:25.596Z"
+    "last_tried": "2026-11-13T18:20:10.710Z"
   },
   "independiente": {
     "name": "Independiente",
@@ -1155,14 +1155,14 @@
     "name": "Kauno Žalgiris",
     "title": "BC Žalgiris",
     "missing": true,
-    "last_tried": "2026-10-13T17:54:04.009Z",
+    "last_tried": "2026-11-13T18:19:38.222Z",
     "error": "Request failed with status code 400"
   },
   "kups": {
     "name": "KuPS",
     "title": "Kuopion Palloseura",
     "missing": true,
-    "last_tried": "2026-10-13T17:53:32.702Z",
+    "last_tried": "2026-11-13T18:20:19.825Z",
     "error": "Request failed with status code 400"
   },
   "la-galaxy": {
@@ -1281,7 +1281,7 @@
     "name": "Lincoln Red Imps",
     "title": "Lincoln Red Imps F.C.",
     "missing": true,
-    "last_tried": "2026-10-13T17:54:10.553Z",
+    "last_tried": "2026-11-13T18:20:02.732Z",
     "error": "Request failed with status code 400"
   },
   "liverpool": {
@@ -1295,7 +1295,7 @@
     "name": "Lyon",
     "title": "Olympique Lyonnais",
     "missing": true,
-    "last_tried": "2026-10-11T16:29:01.004Z",
+    "last_tried": "2026-11-13T18:20:14.858Z",
     "error": "Request failed with status code 400"
   },
   "macara": {
@@ -1392,7 +1392,7 @@
   "mjallby": {
     "name": "Mjällby",
     "missing": true,
-    "last_tried": "2026-10-13T17:53:29.078Z"
+    "last_tried": "2026-11-13T18:19:32.085Z"
   },
   "monterrey": {
     "name": "Monterrey",
@@ -1559,7 +1559,7 @@
     "name": "Pafos FC",
     "title": "Pafos FC",
     "missing": true,
-    "last_tried": "2026-10-13T17:54:11.365Z",
+    "last_tried": "2026-11-13T18:20:11.579Z",
     "error": "Request failed with status code 400"
   },
   "paks": {
@@ -1594,7 +1594,7 @@
     "name": "Panathinaikos F.C.",
     "title": "Panathinaikos F.C.",
     "missing": true,
-    "last_tried": "2026-10-13T17:53:22.658Z",
+    "last_tried": "2026-11-13T18:20:18.988Z",
     "error": "Request failed with status code 400"
   },
   "paok-thessaloniki": {
@@ -1811,14 +1811,14 @@
     "name": "Red Star Belgrade",
     "title": "Red Star Belgrade",
     "missing": true,
-    "last_tried": "2026-10-13T17:53:31.889Z",
+    "last_tried": "2026-11-13T18:20:27.047Z",
     "error": "Request failed with status code 400"
   },
   "riga-fc": {
     "name": "Riga FC",
     "title": "Riga FC",
     "missing": true,
-    "last_tried": "2026-10-13T17:53:21.846Z",
+    "last_tried": "2026-11-13T18:19:39.056Z",
     "error": "Request failed with status code 400"
   },
   "rio-ave": {
@@ -1974,7 +1974,7 @@
   "sk-brann": {
     "name": "SK Brann",
     "missing": true,
-    "last_tried": "2026-10-13T17:54:09.728Z"
+    "last_tried": "2026-11-13T18:19:44.269Z"
   },
   "sk-sturm-graz": {
     "name": "SK Sturm Graz",
@@ -2006,7 +2006,7 @@
     "name": "Sparta Prague",
     "title": "AC Sparta Prague",
     "missing": true,
-    "last_tried": "2026-10-11T16:28:59.390Z",
+    "last_tried": "2026-11-13T18:20:13.245Z",
     "error": "Request failed with status code 400"
   },
   "sporting-cp": {
@@ -2089,7 +2089,7 @@
   "thun": {
     "name": "Thun",
     "missing": true,
-    "last_tried": "2026-10-13T17:54:18.820Z"
+    "last_tried": "2026-11-13T18:19:37.342Z"
   },
   "tigres-uanl": {
     "name": "Tigres UANL",
@@ -2137,7 +2137,7 @@
     "name": "Trabzonspor",
     "title": "Trabzonspor",
     "missing": true,
-    "last_tried": "2026-10-13T17:53:33.513Z",
+    "last_tried": "2026-11-13T18:20:16.481Z",
     "error": "Request failed with status code 400"
   },
   "tsg-hoffenheim": {
@@ -2185,7 +2185,7 @@
   "universitatea-craiova": {
     "name": "Universitatea Craiova",
     "missing": true,
-    "last_tried": "2026-10-13T17:54:01.556Z"
+    "last_tried": "2026-11-13T18:19:54.803Z"
   },
   "valencia": {
     "name": "Valencia",
