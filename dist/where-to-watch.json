@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T19:30:28.490Z",
+  "generated_at": "2026-11-19T19:17:39.378Z",
   "source": "worldsoccertalk.com",
   "partial": false,
   "errors": [],
@@ -4576,9 +4576,9 @@
       "kickoff_et": "2026-12-02T13:00",
       "channels": [
         {
-          "slug": "espn-plus",
-          "label": "ESPN+",
-          "tier": 3
+          "slug": "other:espn2",
+          "label": "ESPN2",
+          "tier": 4
         },
         {
           "slug": "espn-dep",
@@ -4586,17 +4586,32 @@
           "tier": 2
         },
         {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
+          "slug": "espn-plus",
+          "label": "ESPN+",
+          "tier": 3
         },
         {
           "slug": "fubo",
           "label": "Fubo",
           "tier": 3
+        },
+        {
+          "slug": "other:directv-stream",
+          "label": "DirecTV Stream",
+          "tier": 4
+        },
+        {
+          "slug": "other:sling-orange",
+          "label": "Sling Orange",
+          "tier": 4
+        },
+        {
+          "slug": "other:hulu-live-tv",
+          "label": "Hulu + Live TV",
+          "tier": 4
         }
       ],
-      "channels_raw": "ESPN+, ESPN Deportes, DirecTV Stream, Fubo Latino"
+      "channels_raw": "ESPN2, ESPN Deportes, ESPN+, Fubo, DirecTV Stream, Sling Orange, Hulu + Live TV"
     },
     {
       "id": "esp-laliga-202612021530-barcelona-vs-atletico-madrid",
@@ -4609,9 +4624,9 @@
       "kickoff_et": "2026-12-02T15:30",
       "channels": [
         {
-          "slug": "espn-plus",
-          "label": "ESPN+",
-          "tier": 3
+          "slug": "other:espn2",
+          "label": "ESPN2",
+          "tier": 4
         },
         {
           "slug": "espn-dep",
@@ -4619,17 +4634,32 @@
           "tier": 2
         },
         {
-          "slug": "other:directv-stream",
-          "label": "DirecTV Stream",
-          "tier": 4
+          "slug": "espn-plus",
+          "label": "ESPN+",
+          "tier": 3
         },
         {
           "slug": "fubo",
           "label": "Fubo",
           "tier": 3
+        },
+        {
+          "slug": "other:directv-stream",
+          "label": "DirecTV Stream",
+          "tier": 4
+        },
+        {
+          "slug": "other:sling-orange",
+          "label": "Sling Orange",
+          "tier": 4
+        },
+        {
+          "slug": "other:hulu-live-tv",
+          "label": "Hulu + Live TV",
+          "tier": 4
         }
       ],
-      "channels_raw": "ESPN+, ESPN Deportes, DirecTV Stream, Fubo Latino"
+      "channels_raw": "ESPN2, ESPN Deportes, ESPN+, Fubo, DirecTV Stream, Sling Orange, Hulu + Live TV"
     },
     {
       "id": "ita-seriea-202612041445-bologna-vs-as-roma",
