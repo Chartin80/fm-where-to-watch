@@ -636,7 +636,7 @@
     "name": "Deportivo La Coruña",
     "title": "Deportivo de A Coruña",
     "missing": true,
-    "last_tried": "2026-10-23T15:34:53.217Z",
+    "last_tried": "2026-11-23T22:22:20.216Z",
     "error": "Request failed with status code 400"
   },
   "deportivo-la-guaira": {
@@ -1274,7 +1274,7 @@
     "name": "Lincoln City",
     "title": "Lincoln City F.C.",
     "missing": true,
-    "last_tried": "2026-10-23T15:34:51.685Z",
+    "last_tried": "2026-11-23T22:22:18.448Z",
     "error": "Request failed with status code 400"
   },
   "lincoln-red-imps": {
@@ -1316,7 +1316,7 @@
     "name": "Málaga CF",
     "title": "Málaga CF",
     "missing": true,
-    "last_tried": "2026-10-23T15:34:50.155Z",
+    "last_tried": "2026-11-23T22:22:19.375Z",
     "error": "Request failed with status code 400"
   },
   "mallorca": {
@@ -1741,7 +1741,7 @@
     "name": "Racing de Santander",
     "title": "Racing de Santander",
     "missing": true,
-    "last_tried": "2026-10-23T15:34:52.451Z",
+    "last_tried": "2026-11-23T22:22:16.782Z",
     "error": "Request failed with status code 400"
   },
   "rayo-vallecano": {
